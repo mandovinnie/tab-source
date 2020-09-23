@@ -1,0 +1,277 @@
+% Sun, 8 Jul 2012 16:58:44 +0200
+% Mathias Rösel <mathias.roesel@t-online.de>
+% 
+% Please find enclosed another file for your lute page. I copied two beautiful
+% (to my ears) courantes from Panmure 8 and also converted them into
+% renaissance tuning. Hope you can use it.
+
+-b
+-tuning c4d4e-4f4g4a3d3g3a+2d2f2
+{Courante 1/Panmure 8, fol. 15v-16}
+b
+2c
+xe
+b
+1.faaa
+2h
+1ea  a
+b
+1c a b
+x    a
+2e&' f   4
+x f
+b
+1 ee   ///a
+x f
+xeee a
+b
+1caa   a
+x    a
+x   a
+b
+0caa
+2k
+xk
+b
+0kik   a
+2h
+x i
+b
+1hhh   /a
+xki
+xhh
+b
+0.fdedd 5
+b
+1aaadd 5
+xaaaddb
+xaaad
+b
+1cbc   4
+1.cbc
+2e
+b
+1 e
+x      ///a
+x    a
+b
+
+b
+0 ee
+.
+2c
+xe
+b
+2f  a
+x a
+xh
+xf
+xe   a
+xa
+b
+2c   b
+x    a
+x    b
+x     d
+xe
+xc
+b
+2 e    ///a
+xc
+xe
+xf
+2e
+x    a
+b
+1caa   a
+x    a
+x   a
+b
+2caa
+xa
+xc
+x b
+x a
+x  c
+b
+2  a   a
+x  c
+x a
+x   a
+x b
+x a
+b
+2 b c  /a
+xa
+x a d
+x b
+x  c
+x    d
+b
+
+b
+2  a   5
+x   c
+2   a
+3    d
+x    b
+2    a
+x     d
+b
+2    a 5
+x    b
+2    b
+3    a
+x    b
+2    d
+x   a
+b
+2   a  4
+x   c
+x   d
+x   a
+2   a
+3    e
+x   a
+b
+1    e
+x      ///a
+x    a
+b
+0 eec
+.
+2 a
+x a
+b
+0 aec  ///a
+2   c
+x   c
+b
+1   cd /a
+1.  a
+2  c
+b
+1  c d
+x   c
+x a
+b
+1  aaa a
+1.  a a
+3   c
+x  a
+b
+1   c
+x    a
+x      ///a
+b
+
+b
+0   ca
+2  a
+x  c
+b
+1 a    a
+x  a
+x   a
+b
+1  c  d
+x   c
+x    d /a
+b
+0 aadd 5
+2  c b 4
+x a
+b
+2  a
+x  c
+1.   ca ///a
+3   a
+x    e
+b
+1   a
+x      a
+x   a
+b
+0 aaa
+.
+2 a
+x a
+b
+2 a  a
+x  c
+x  a
+x   c
+x   ac
+x   d
+b
+2   cd
+x   d
+x  c
+x  e
+x  c
+x  a
+b
+
+b
+2      /a
+x  c
+x    d
+x a
+x  a
+x   c
+b
+2  a   a
+x   c
+x  a
+x  c
+2  a
+3   c
+x  a
+b
+1   c
+x    a
+x      ///a
+b
+1.   ca
+2    a
+x    c
+x    e
+b
+2   a  a
+x    d
+x    b
+x    a
+x    b
+x    a
+b
+2     dc
+x    a
+x    b
+x     d
+x    d
+x    b
+b
+2    a 5
+x    b
+x    d
+x    a
+x      4
+x   d
+b
+2   c
+x   a
+1.    e ///a
+3    c
+x    e
+b
+
+-l "2.7 in"
+b
+1    f
+x      a
+x   a
+b
+0 aaa
+b
+Q
+

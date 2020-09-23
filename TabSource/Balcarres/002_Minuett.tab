@@ -1,0 +1,663 @@
+-R7
+-e
+-b
+
+% line 1
+
+b
+.
+b
+0 d
+b
+1  a   /a
+x   c
+x  a
+x  b
+x  a   a
+x  b
+b
+0.  d  a
+1 a
+0  d
+b
+x d   b
+xc
+x c   d
+b
+1 d    /a
+x c
+x d
+xc
+0 d
+b
+1  a   /a
+x   c
+x  a
+x  b
+x  a   a
+x  b
+b
+0.  d  a
+1 a
+0  d
+b
+1     b
+x d
+0c
+x c   d
+b
+w daa  /a
+b
+.
+b
+1 d
+xc
+b
+xe     /a
+xf
+xe     a
+xc
+xa    a
+x c
+b
+x a   b
+x     a
+x     b
+x     d
+x     b
+x     a
+b
+
+% line 2
+
+
+b
+1c     a
+xe
+xc    a
+xa
+x c   c
+x a
+b
+0  d  d
+x     d
+x     b
+b
+x dd  a
+1 d
+x d
+0 d
+b
+xca   b
+1c
+xc
+0c
+b
+1e    d
+xc
+xe
+xf
+xe     4
+xc
+b
+w daa  /a
+b
+.
+b
+T-Minuett, mr Becks way.
+b
+
+% line 3
+
+b
+.
+b
+1  d[
+x  b]
+b
+0  a&,   /a
+1   c[
+x   a]
+0  a
+x  d
+b
+0. d  a
+1c
+0 c   d
+2  d[
+x  b
+1  d]
+b
+0 a   b
+1  d  a
+x  a
+x d[   /a
+x a]
+x  d[
+x  a]
+b
+w   c  4
+1   c
+x  a
+x  b
+x  d
+b
+0  a&,   /a
+1   c[
+x   a]
+0  a
+x  d
+b
+0. d    ///a
+1c
+0 c   a
+1 a
+x  d
+b
+x a   b
+x c
+0 d
+x     d
+x c&,
+b
+
+% line 4
+
+b
+w da   /a
+0 d
+b
+.
+b
+1.e
+2f
+b
+0cc   d
+1a   a
+xc
+0 c   d
+1 a
+x  d
+b
+w dd  a
+0  d
+1. d    a
+2c
+b
+1e[    /a
+xc]
+x d[ a
+x a]
+x  d[
+x  a]
+x   c[
+x   a]
+b
+w   ccd
+0      4
+1  d[
+x  b]
+b
+0  a&,   /a
+1   c[
+x   a]
+0  a  a
+x  d
+b
+1. d
+2c
+1c&,[    a
+2a
+xc]
+0e     /a
+1.c
+2a
+b
+0 c    4
+1 a
+x  d
+x a[
+x d]
+xc[
+xe]
+b
+
+
+
+% line 5
+
+b
+w. daa
+b
+.
+b
+1  d[  //a
+x  b]
+b
+x  a   /a
+x  d
+x d
+x  d
+0.  a&,
+1 d
+b
+x  d  a
+x  a
+x d    /a
+xc
+0. c   d
+1  d
+b
+x a   b
+x c
+x d   a
+x      a
+x  a   /a
+x  b   
+0  dc  //a
+b
+x   c
+1      /a
+x  a
+0  b a a
+1    c
+x  d
+b
+x  a
+x  b
+0  d  a
+x   a
+1 d
+xc
+b
+2a[
+xc
+1e]
+1.c&,
+2a
+0 c   d
+1      4
+x  d
+b
+
+%line 6
+
+
+b
+1 a   b
+x c
+x d   a
+x     b
+0 d
+1      4
+x c
+b
+0. da   /a
+1c
+0a
+b
+.
+b
+1e
+xf
+b
+0.cc   d
+1a
+x c    4
+x d
+xc
+x c
+b
+0. da   /a
+1c
+0 d
+1  a   a
+x  b
+b
+x  d  a
+x      a
+0 d    /a
+x   a
+x  a
+b
+1   ccd
+x     b
+x     a
+x  a
+x  b   a
+x  a
+x  b   //a
+x  d
+b
+0  a&,   /a
+1   c
+x   a
+0.  da a
+1  a
+b
+
+% page 3 (second page for this piece)
+p
+
+b
+1 d
+x a
+xc    c
+xa
+0. c   d
+1  d
+b
+xf[
+xc]
+xe[
+xa]
+0.a&,    d
+1 c
+b
+w. daa  /a
+1  d
+x  b
+b
+x  a   /a
+x  d
+x  a
+x   a
+x  a
+x   c
+x  a   a
+x  d
+b
+x d  a
+x a
+xc
+xa
+x c   d
+x  d
+x d
+x c
+b
+x a   b
+x   a
+xa
+x a
+x  d   //a
+x c
+x  a
+x      /a
+b
+
+% line 2
+
+b
+1  b   ///a
+x  d
+x  b
+x  a
+x   c  //a
+x  a
+x  b
+x  d
+b
+x  a   /a
+x  d
+x  a
+x   a
+x  a
+x   c
+x  a
+x  d
+b
+x d  a
+x a
+xc    c
+xa
+x c   d
+x  d
+x d   a
+x c
+b
+x a   b
+x c
+x d
+x a
+x c   d
+xa
+xc
+x c
+b
+x d    /a
+x  d
+x  a
+x   a
+0 da
+b
+.
+b
+1f
+xe
+b
+
+
+% line 3
+b
+1c     4
+xe
+xc
+xa
+x c   d
+x a
+x  d
+x c
+b
+x d  a
+x a
+xc    c
+xa
+x c   d
+x  d
+x d   a
+x c
+b
+x a   b
+x  b
+xa
+x a
+x  d  a
+x  a
+x   a
+x  a
+b
+x  b   a
+x  d
+x  b   /a
+x  a
+x  b   //a
+x   c
+x  d
+x  b
+b
+x  a   /a
+x   a
+x  b   a
+x   c
+x  d  a
+x  a
+x a   b
+x  b
+b
+x c   d
+x  d
+x d  a
+x a
+i
+
+
+% line 4
+
+i
+1c    d
+x c
+xe
+xc
+b
+x d  a
+x c
+x d   a
+x  d
+x a   b
+x d
+xc    d
+xe
+b
+w. daa  /a
+b
+.
+b
+T-the Lasse of Petties mill,
+Sc
+b
+.
+b
+1    c[
+x    a]
+b
+0.  dccd
+1    c
+0.   c
+1  d
+b
+x   c
+x    c
+x     d
+x    c
+x   c
+x  a
+x  d
+x    c
+b
+0.  aad
+1  a
+x   c
+x  a
+x  d
+x    c
+b
+0   aa
+x a
+x      ///a
+1  a
+x  c
+b
+
+% line 5
+
+
+
+b
+1  d
+x     d
+x    c
+x   c
+x  d   4
+x  c
+x  a   ///a
+x  c
+b
+x   c  //a
+x  a
+x  d   ///a
+x a
+0. cd   4
+1  d
+b
+x c    ///a
+x d
+xc     //a
+x  d
+x a    /a
+x c
+x  c
+x  d
+b
+0  a   a
+x  d
+x  dcc 4
+b
+.
+b
+1 c[
+x d]
+b
+xc    d
+x d
+xc
+xe
+xc     4
+x c
+x a
+x  d
+b
+x d    ///a
+x c
+x d    //a
+xc
+0e     /a
+1c[
+xa]
+b
+0 c&,  d
+1      4
+x  d
+x c    ///a
+x d
+xc     //a
+x  d
+b
+0 c    /a
+x a
+x ac   a
+1  a
+x  c
+b
+
+
+% line 6
+
+b
+1  d  a
+x  c
+x  a   //a
+x   c
+x  a   /a
+x   c
+x   a
+x    c
+b
+x   a  ///a
+x    a
+x a
+x  d
+0  c&,   a
+1  a
+x   c
+b
+x  a   /a
+x  d
+x    c
+x  d
+x    a
+x    c
+x   a
+x   c
+b
+0    c&,
+x     d
+x     d
+b
+.
+b
+T-Maulelies scotts measuer, mr Bercks way
+b
+
+
+

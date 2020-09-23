@@ -1,0 +1,328 @@
+
+$tempo=8
+
+{Fantasia VI Facil/Mudarra}
+
+-i
+-C
+-Q
+
+b
+w    3
+x     5
+b
+0    2
+x     3
+x     2
+x     0
+b
+x    32
+x     3
+w   3 5
+b
+w    03
+x    32
+b
+x     0
+x    2
+% bar 5
+b
+x  0 3
+x   3
+b
+0 4
+x   1
+x   0
+x  2
+b
+0  00
+x   2
+w 0 3
+b
+w 2 1
+w  00
+b
+w !^2
+w 4 3
+% bar 10
+b
+0  0
+x   1
+x   0
+x 42
+b
+0  00
+x   2
+w  43
+b
+
+
+b
+w  2  0
+0   2 
+x    3
+b
+0   32
+x    0
+x    2
+x   1
+b
+x   03
+x  2  0
+x  03 2
+x 4
+% bar 15
+b
+0-!^20
+x     0
+w   23
+b
+w 023
+x    2
+b
+0  0 3
+1  2
+x   0
+x   1
+x   3
+x    0
+x    2
+b
+x    3
+x     0
+x     2
+x     4
+w   3 5
+b
+0 0  1
+x     3
+x     0
+x     2
+%bar 20
+b
+w3   03
+w 0 3 2
+b
+w 2 
+0   2 0
+x    3
+b
+w 0 32
+x  2
+b
+
+
+b
+x   03
+x3  1 0
+b
+x 3
+x  003
+% line 25
+b
+w 02
+0    2
+x    0
+b
+x 0  25
+x    0
+x   3
+x   1
+b
+w  00 5
+w    3
+b
+0  5  7
+x     5
+x     3
+x     2
+b
+w   320
+w     2
+% bar 30
+b
+0  43
+0     2
+w     5
+b
+w  2 0
+0     3
+0    2
+b
+w 2  32
+w0   03
+b
+03
+x     2
+x 3 1 0
+x   0
+b
+x   1
+x  0
+x  2
+x  43
+% bar 35
+b
+x   10
+x    2
+w   03
+b
+
+
+b
+0  2
+1    2
+x    0
+x    3
+x    2
+x    0
+x    2
+b
+w  0 32
+w   3
+b
+w    02
+w    3
+b
+0    20
+0    0
+0   3
+0   1
+b
+w   0 5
+w   3
+b
+w    03
+x    32
+b
+0    20
+x    0
+x   3
+x   1
+b
+w   0 2
+w 0 3
+b
+w 2 1
+w  00
+% bar 45
+b
+0 42
+x 2
+x 0
+x3
+b
+w2  0
+w 20
+b
+x 42
+x  21
+b
+
+
+b
+0  00
+x  2
+x  0
+x 4
+b
+x 2
+x 4
+w-!^5
+% bar 50
+b
+w  2
+w 4 3
+b
+w  0 0
+w  4 3
+b
+w  2
+x    20
+b
+x    32
+x 0  25
+b
+x 2  03
+x  03 2
+% bar 55
+b
+x     0
+0 4
+x   1
+b
+0  003
+x     0
+x     2
+x     3
+b
+x   0 5
+x   2
+x   3
+x    0
+b
+x    2
+x    3
+w    53
+b
+w 3
+x  0 32
+% bar 60
+b
+x 0   0
+x   32
+b
+
+
+b
+x   53
+x3
+b
+x 0 32
+x 3 1 0
+b
+0 2
+x   0
+w  0 3
+b
+x 02 2
+x2 44
+% bar 65
+b
+x3 0 0
+x  2
+b
+02 4
+x   2
+x   4
+x    0
+b
+w    2
+x   53
+b
+x    20
+x   4
+b
+x   53
+0 2
+x     0
+% bar 70
+b
+w  03 2
+x 0   0
+b
+x 2 0
+x3  13
+b
+x 02
+x    2
+b
+x  0 3
+x   3
+b
+W3  53
+b
+Y  033
+bb
+e
+

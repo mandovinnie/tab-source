@@ -1,0 +1,467 @@
+%From lute-request+wstuff=cs.dartmouth.edu@cs.dartmouth.edu  Fri Sep 10 11:56:49 2004
+%Return-Path: <lute-request+wstuff=cs.dartmouth.edu@cs.dartmouth.edu>
+%Received: from mail.cs.dartmouth.edu (localhost.localdomain [127.0.0.1])
+%	by mail.cs.dartmouth.edu (8.12.11/8.12.11) with ESMTP id i8AFunOX010461
+%	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+%	for <wstuff@cs.dartmouth.edu>; Fri, 10 Sep 2004 11:56:49 -0400
+%Received: (from lute-arc@localhost)
+%	by mail.cs.dartmouth.edu (8.12.11/8.12.8/Submit) id i8AFunO1010460
+%	for wstuff@cs.dartmouth.edu; Fri, 10 Sep 2004 11:56:49 -0400
+%Received: from mailfe04.swip.net (mailfe04.swip.net [212.247.154.97])
+%	by mail.cs.dartmouth.edu (8.12.11/8.12.11) with ESMTP id i8AFrsJu008707
+%	for <lute@cs.dartmouth.edu>; Fri, 10 Sep 2004 11:53:54 -0400
+%Received: from [193.217.37.179] (HELO u0r3y8)
+%  by mailfe04.swip.net (CommuniGate Pro SMTP 4.2.1)
+%  with SMTP id 159527387 for lute@cs.dartmouth.edu; Fri, 10 Sep 2004 17:53:52 +0200
+%X-RF-Exists: 
+%Message-ID: <003801c4974e$05025a20$b325d9c1@u0r3y8>
+%X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+%X-Mailing-List: lute@cs.dartmouth.edu
+%Date: Fri, 10 Sep 2004 17:50:23 +0200
+%MIME-Version: 1.0
+%To: "lute" <lute@cs.dartmouth.edu>
+%From: "G.R. Crona" <kaleido@c2i.net>
+%Subject: Re: hip
+%Status: RO
+%
+%>and that the majority of them were owned by armatures
+%
+%They were truly nucular! ;)
+%
+%Like this piece: "Aria del gran Duca", found both in Besard 1603 and this
+%version (E.M.)
+%
+%***
+-t
+-f
+{Praeludium}
+b
+2fda   a
+3d
+xc
+xa
+x d
+x c
+x a
+x  d
+x  b
+x  a
+x   c
+x  a
+x  b
+x  d
+x  b
+b
+x  a
+x  b
+x  d
+x  a
+x  b
+x   c
+x  a
+x   a
+x   c
+x   e
+x   f
+x   e
+x   c
+x   a
+x    e
+x    c
+b
+
+b
+x    e
+x   a
+x   c
+x   e
+x   c
+x   a
+x    e
+x    c
+2  d a
+x a
+x c
+x     d
+b
+x     c
+x   a
+x d
+x  d
+xaab  a
+xc
+xd
+x    e
+b
+xcdd   a
+xd
+xf
+x   c
+x  a
+x  b
+xa d
+xc
+b
+xd  c
+x  a
+x  b
+x  d
+x d  c
+x    e
+x   a
+x   c
+b
+x  d  c
+x     e
+x    a
+x    c
+x  d e
+x   a
+1  bce
+b
+
+b
+2  a   a
+x  b
+x  d
+x a
+x cdca
+x d
+xa
+x  b
+b
+x  a
+x d
+x   c
+x   a
+x c  a
+xf
+x   c
+xd
+b
+xc
+x  d
+xa
+x  b
+x  a
+x d
+x   c
+x   a
+b
+x  d a
+x a
+x c
+x  a
+x    c
+x c
+x d
+x  b
+b
+xa   e
+x d
+xa
+x  d
+x d a
+xa
+xc
+x a
+b
+
+b
+x   c
+xc
+xd
+x c
+x dda
+xa
+xc
+x    d
+b
+x    c
+x    a
+x d   d
+x     c
+xd    a
+xc
+xa   a
+x d
+b
+xa
+x     d
+xf    c
+x     a
+x      a
+xd
+xc  a
+x    e
+b
+xa   c
+x    a
+x d  c
+x  c
+x c  a
+x    c
+x  d e
+x   a
+b
+x   c
+x  a
+x  b  a
+x  d  c
+x aba d
+x  d
+x a
+x c  a
+b
+
+b
+x d  c
+x   c
+x  a
+x  c
+x  d a
+x a
+x c
+x d
+b
+xd  c
+x  a
+x  b
+x  d
+xda
+x c
+1cd
+b
+2  d
+xc
+xa
+x d
+xa d
+3 c
+x a
+1 c
+b
+xcd
+xf  a
+xc
+x d  c
+b
+xd  c
+xa   e
+xcdda
+x d  c
+b
+x a
+x     d
+x  b  a
+xd  c
+b
+xa   e
+x c  a
+x  d  c
+x d    a
+b
+
+b
+2 a   d
+x    a
+x    c
+x    e
+x   a
+x   c
+x  a   a
+x  b
+b
+x  d
+x     a
+x     c
+x     d
+x  d a
+x a
+1 c
+b
+x d  c
+xa    d
+2ccd  c
+xd
+1f
+b
+x c ca
+x  d
+2aab  a
+xc
+1d
+b
+x aba d
+x db
+2 dda  a
+xa
+xc
+x a
+b
+xa   e
+x  d
+xc  a
+xa
+xd   c
+xc
+xa c
+x d
+b
+
+b
+1 cdca
+xf
+xda c
+xc a
+b
+xc b
+xaa
+xccde
+2 d
+x   e
+b
+x   a
+x a
+x  d
+x    e
+x    c
+x  b
+x  a
+x    a
+b
+x   a d
+x     c
+1   ccd
+2ccd  c
+x     e
+x c  a
+x e
+b
+xaab  a
+x     c
+x a   d
+x c
+x d  c
+x    e
+xcdda
+xe
+b
+
+b
+xf   a
+x    c
+x    e
+x   a
+x   c
+x   e
+x dff
+xd
+b
+xcdda
+x   c
+x cde
+x d
+xa   e
+x   a
+x a c
+x c
+b
+x daac
+x    e
+x  def
+x  f
+x    a
+xa
+x c
+x d
+b
+xa
+x  d
+x da
+x  c
+x    a
+xf
+xc
+xe
+b
+xf
+x d
+xda
+x c
+xc     a
+x  d
+x  a
+x  b
+b
+
+b
+x  d
+x    a
+x  b c
+x    e
+x      a
+x d
+x a
+x c
+b
+x d
+x   a
+x b c
+x   e
+x a   d
+x b
+x  d
+x a
+b
+x  b
+xa
+x  a
+x d
+x    a
+x   c
+x  d
+x a
+b
+x c
+x d
+xa
+x     d
+x     c
+x c
+x d
+x     d
+b
+x ddca
+3 c
+x a
+2 c
+x  b
+x daac
+xa
+xc
+x    a
+b
+
+b
+1ddf  d
+xfdd   e
+2ddf  d
+xf
+xh
+x f
+b
+0fdaa
+x      a
+b
+b
+x
+b
+
+e
+
+
+
+
+
+

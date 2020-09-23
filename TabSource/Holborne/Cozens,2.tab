@@ -1,0 +1,723 @@
+% 
+% The following is the second piece of music in Cozens Lute Book. I've
+% tried my best this time; some places in the MS are difficult to read, but
+% here's a list of those:
+% 
+% Bar 13, pos. 6: It's a spot of ink, but I interpret it as 'a' on 1. course
+% Bar 16, pos. 10: Some of the letter is missing. My interpretation: 'd', 
+% course 2
+% Bar 21, pos. 4: The letter on course 3 doesn't look quite like the other 
+% 'h'-es in this piece.
+%      I've chosen to read it as 'h', but I haven't tried to play it yet (I'm 
+% at work!)
+% Bar 23, pos. 1: Letter on 4. course unclear; I read it as 'c'.
+% Bar 30, pos. 6: Letter on 1. course blurred; interpreted as 'a', but it 
+% could be 'e' or 'd'.
+% Bar 32, pos. 10: Letter on course 1; could be both 'h' and 'f'; interpreted 
+% as 'f'.
+% Bar 34, pos. 5: Flag should have a 'dot' on it, but I can't see it on my 
+% copy. I put there anyway.
+% Bar 35, pos. 2: A dotted flag, which is rather blurred; interpreted as '2'.
+% Bar 41, between pos. 4 and 5: A mark that could be seen as a ornamentation. 
+% Omitted.
+% Bar 45, pos. 44: Letter on course 3 could be both 'd' and 'e'; interpreted 
+% as 'd'.
+% 
+% Notice that bar 45 is extremely long; it's not one of my errors, it is like 
+% that in the
+% manuscript.
+% 
+% Cozens 2 (Anthony Hobornes Cradle of conceites):
+
+ -B
+ -C
+
+{Cozens 2. piece. 'Anthony Holbornes Cradle of conceites.}
+
+b
+%1 s1
+1.aaccca
+2c
+1ea-c
+#2c d e
+xa
+b
+%2
+2. efec
+3 f
+#2 e
+x c
+1 efec
+1aa-c-e
+b
+%3
+1ccd-a
+1ea-c-e
+1fc-e-c
+1fe
+b
+%4
+1.eff--a
+2f
+1eff--a
+1ea-c
+b
+%5
+1caabc
+1caa---a
+#2aa-c
+x  d
+#2aac
+x   a
+
+b
+%6 s2
+#2a-d-e
+x    c
+#2f---a
+xe
+1cdda
+1aacc
+b
+%7
+#2 ea-c
+x a
+#2a-c-e
+x  e
+2 f ec
+#3 e
+x c
+#2 ef
+x  d
+b
+%8
+2.aac--a
+#4 d
+x c
+#3 a
+x  d
+x  c
+x  a
+#2aac
+x   c
+1     a
+bb
+%9
+2aacc
+#3  d
+x a
+#3 c
+x d
+xa
+xc
+2ea c
+#3c
+xe
+#2c-d-e
+xa
+
+b
+%10 s3
+2 efec
+#3  f
+x  e
+x  f
+x c
+#4 e
+x c
+x e
+x f
+1 efec
+1aa-c-e
+b
+%11
+#3c---a
+x e
+xa
+xc
+#3e----e
+xa
+xc
+xe
+#3f----c
+x  f
+x c
+x e
+#3 f
+xc
+xe
+xf
+b
+%12
+#3e----a
+x  c
+x  d
+x a
+#3 c
+x d
+xa
+xc
+1ea-c
+1ea
+
+b
+%13 s4
+#3c---c
+xa
+#4c
+xa
+xc
+xa
+#2c
+x  d
+#3aacc
+x  a
+#4  c
+x  a
+x  c
+x  d
+#2  c
+x   a
+b
+%14
+#2a-d-e
+x    c
+#3f---a
+xe
+#4f
+xe
+xc
+xa
+#3cb-a
+xa
+#4c
+xa
+xc
+xe
+#2c
+xaacc
+b
+%15
+2 e--c
+#4 c
+x a
+x c
+x e
+
+2a---e
+#4  c
+x  a
+x  c
+x  e
+#3c---c
+x c
+x e-c
+x c
+#3 e-e
+x f
+xf
+x e
+b
+%16
+3a----a
+#4 e
+xa
+#4c
+xa
+x d
+x c
+#4 a
+x c
+x d
+x c
+#4 a
+x  d
+x  c
+x  a
+#2aac
+x   c
+1     a
+bb
+%17
+1.he-e-h
+2f
+1e-f-c
+#2c
+x  d
+
+b
+%18
+#2c-d---a
+xa
+1a-c
+2 f ec
+#3 e
+x c
+#3 ef
+x f
+xc
+x    a
+b
+%19
+1aa-c-e
+1ccd--c
+1.eff--a
+2f
+b
+%20
+1eff--e
+#2c
+x  d
+1.aacc
+2   a
+b
+%21
+1a-d-e
+#2cd--c
+xe
+2.ffh a
+3h
+#2f
+xe
+b
+%22
+1cdda
+#2a
+x    e
+2 ef c
+#3 f
+x e
+1 cd a
+
+b
+%23
+1 acc-e
+#2a----a
+xc
+#2e
+x     c
+2e----e
+#3c---a
+xa
+b
+%24
+#3 ef c
+xc
+xe
+xf
+1.h
+#5f
+xe
+#5c
+xa
+x e
+x c
+1 efec
+bb
+%25
+1he-e-h
+#2h
+xf
+2e-f-c
+#3c
+xe
+#2c
+x  d
+
+b
+%26
+2c-d-c
+#3a
+xc
+#2a
+x  c
+3 f-ec
+#4 e
+x f
+#3 e
+x c
+#4 e--c
+x c
+x e
+x f
+#3c
+x    a
+b
+%27
+#3a----e
+xc
+xe
+xa
+#3c----c
+xe
+xf
+xc
+#3e----a
+x a
+x c
+x e
+#3a
+xc
+xe
+xf
+b
+%28
+2ea---a
+#4f
+xe
+xc
+xa
+
+#2c
+x  d
+2a--c
+#4c
+xa
+x d
+x c
+#2 a
+x   a
+b
+%29
+2.  d-e
+3a
+#3c---c
+x f
+xc
+xe
+3f---a
+#4e
+xc
+#4a
+x d
+x c
+x a
+2  d
+#3f
+xe
+b
+%30
+#3c--a
+xa
+#4c
+xa
+xc
+xa
+#2c
+xa---e
+2 d--c
+#4 c
+x a
+x c
+x d
+#3 c--a
+x  d
+x c
+x e
+
+b
+%31
+#3a----e
+x a
+x c
+x e
+#3a----a
+x e
+xa
+xc
+#3e
+x a
+x     a
+x     c
+#3     e
+xe
+xc---a
+xa
+b
+%32
+3 efec
+#4  f
+x  e
+#4  f
+x c
+x e
+x f
+#4c
+xe
+xf
+xe
+#4c
+x f
+x e
+x c
+#2 ef
+x   e
+1    c
+b.b
+%33
+1 efec
+1he g e
+2.fcd-a
+3e
+#3ca--c
+xa
+2c
+
+b
+%34
+1aac--a
+2.ea-c
+3c
+1 gege
+2.ccee
+3   c
+b
+%35
+1ca-b
+2.aacc
+3   a
+2 ff e
+#3  e
+x  c
+#3  e
+x  f
+x f
+x  e
+b
+%36
+2. efec
+3 f
+#3 e
+x c
+#4 e
+x c
+x e
+x f
+1 efec
+1aa-c-e
+
+b
+%37
+2.ccd-a
+3a
+#3 efec
+x f
+2 e
+2a---e
+#3c
+xe
+#2c-e
+xa
+b
+%38
+#2 efec
+x f
+#3   e
+x f
+2 e
+#2aa-c-a
+x d
+#2 cd
+x ac
+b
+%39
+#2fc--a
+xe f
+#2c d
+xa c
+2 f ec
+#3 e
+x c
+#3 ef
+x f
+xc
+x  d
+
+b
+%40
+2.aac--a
+#4 d
+x c
+#3 a
+x  d
+x  c
+x  a
+#2aac
+x   c
+1     a
+.b.
+%not counted, because it starts with '.'
+2 efec
+#3e
+xf
+1he g
+#3f---a
+xe
+#4f
+xa
+xc
+xa
+#3ca-c
+xa
+2c
+b
+%41
+1ea---a
+#3ec-c
+xf
+xe
+xc
+1 gege
+#3cc-e
+xe
+xc
+x   c
+
+b
+%42
+1caab
+#3aacc
+x  d
+x  c
+x   a
+3 ff e
+#4  e
+x  f
+#3  e
+x  c
+#4  e-e
+x  c
+x  e
+x  f
+#3 f
+x  e
+b
+%43
+2 efec
+#3  c
+x  e
+x  f
+x c
+#4 e
+x c
+x e
+x f
+1 efec
+1aa-c-e
+
+b
+%44
+#3c---a
+xe
+xc
+xa
+2 e--c
+#4 c
+x a
+x c
+x e
+2a---e
+#4  c
+x  a
+x  c
+x  e
+#4 a
+x  e
+x a
+x c
+#4 e
+x c
+x e
+xa
+b
+%45
+#4 e--c
+x c
+x  f
+x  e
+#4  f
+x c
+x e
+x f
+#4c
+x f
+xc
+xe
+#4f
+xe
+xf
+xc
+
+#4e----a
+xc
+xe
+xf
+#4e
+xc
+xa
+x d
+#4 c
+x d
+xa
+xc
+#4e
+xa
+xc
+xe
+#4f---a
+xe
+xc
+xa
+#4 d
+x c
+x a
+x  d
+#4  c-e
+x  a
+x  c
+x  d
+#4  c-e
+x  a
+x  c
+x  d
+#4 a
+x c
+x e
+xa
+
+#4c---c
+x f
+xc
+xe
+#4c
+x f
+x e
+x c
+#4 f
+x e
+x f
+x e
+#4 f
+x e
+x c
+x e
+2.a----a
+#4 d
+x c
+#4 d
+x c
+x d
+x c
+#4 d
+x c
+x a
+x  d
+#2  c
+x  a
+yaaccca
+b.b.b
+e
+
+
+
+

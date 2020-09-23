@@ -1,0 +1,340 @@
+-R8
+{Merry Melancholy - Robinson # 12}
+
+b
+1  b
+b
+1 d
+2   a
+x d
+b
+1 b
+x  d
+b
+1 ab
+x  bc
+b
+1 daa
+x dff
+b
+1da c
+xacd
+b
+2f
+x   f
+x  a
+xd  c
+b
+1cdda
+xacd a
+b
+1   a
+x d
+b
+
+
+% line 2
+
+
+b
+1  d
+x aff
+b
+1  da
+xda c
+b
+1 daa
+2a b d
+x  d
+b
+1 df  d
+x bd a
+b
+2 a
+x     d
+x  d
+x  b
+b
+2  aa
+x  b
+x  d   d
+x  a
+b
+2     d
+x ab
+x   a
+x  d
+b
+1 ab  d
+3  b
+x  d
+x a
+x b
+.bb.i
+
+% line 3
+
+b
+1 d
+3   a
+x   c
+x  a
+x  b
+b
+1 bd
+x  d
+b
+1 ab
+3   c
+x  d
+x a
+x b
+b
+2 d a
+3   c
+x  a
+2 dff
+3a
+xc
+b
+2da c
+3  a
+x  b
+2a d
+3c
+xd
+b
+2f
+x   f
+x   e
+xda c
+b
+2c  a
+x d
+xadd a
+x c
+b
+1   a
+x d
+b
+
+%line 4
+
+b
+1  d
+x a f
+b
+1  da
+2da c
+x c
+b
+2 d a
+x  a
+xa b d
+x  d
+b
+1 df  d
+2 b ca
+x  a
+b
+2 ab
+x     d
+x  d
+x  b
+b
+2  aa
+x  b
+x  d   d
+x  a
+b
+2     d
+x ab
+x   a
+x  d
+b
+1 aba d
+x a
+.bb.i
+
+% line 5
+
+b
+1  d
+2   a
+x a
+b
+1 bd a
+2 b
+x    c
+b
+2    d
+x  a
+xa b
+x  d
+b
+2 a   d
+x b
+x d
+x    c
+b
+2ab  a
+xc
+xda
+x     d
+b
+1cd a
+xacd a
+b
+2 dda
+x    a
+x    c
+x    a
+b
+2     c
+x  d
+x a
+x  d
+b
+2  aa
+x  b
+x  d
+x a
+b
+
+% line 6
+
+b
+2 b  a
+x d
+xa   d
+xc
+b
+2dd   d
+xf
+xh
+xd
+b
+2f  a
+xc
+x d
+3a
+xc
+b
+2d ff d
+x d
+xa b d
+x daa
+b
+1 a f
+x  def
+b
+2     d
+x ab
+x   a
+x  d
+b
+1  ba d
+x a
+.bb.
+2  d
+x  b
+x  da
+x a
+b
+
+%line 7
+
+b
+1. bd a
+3 a  c
+x  d
+b
+2  b d
+x  a
+xa b
+x  d
+b
+3 a   d
+x  d
+x a
+x b
+2 d
+x    c
+b
+3a   a
+x d
+xa
+xc
+2da
+x     d
+b
+2cdda
+3a
+x d
+x c  a
+x d
+xa
+x c
+b
+2 dda
+x    a
+x    c
+3    a
+x     d
+b
+2     c
+x  d
+x a   d
+3  d a
+x  b
+b
+
+% line 8
+
+b
+2  aa  d
+x  b
+x  d
+x a
+b
+3 b  a
+x a
+x b
+x d
+xa   d
+x d
+xa
+xc
+b
+2dd   d
+xf
+xh
+xd
+b
+3f  a
+xd
+xc
+xa
+2 d
+3a
+xc
+b
+2d ff d
+x d
+xa b d
+x daa
+b
+2 a
+x   f
+x  de
+x    f
+b
+2  b c
+x     d
+x   a
+x  d
+b
+0 aba d
+Y.
+bb.
+e

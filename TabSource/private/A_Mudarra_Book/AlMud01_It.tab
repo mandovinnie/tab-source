@@ -1,0 +1,427 @@
+%First-pass conversion from original tablature 
+%to ASCII tab by Donald Sauter.
+%Wayne Cripps' TAB files generated
+%by Leonard Williams with assist from
+%Alain Veylit and StringWalker.
+
+$pstitlefont=pplb
+$psalttitlefont=pplri
+$titlesize=18
+$alttitlesize=14
+$flagstyle=smallitalian
+$numstyle=italian
+$line=o
+
+-R8
+-c
+
+%tuning = GDAFCG
+
+F2
+{\CL/ Fantasia de pasos largos para desenboluer las manos}
+F3
+{}
+{Tres Libros... I, f. 1/Alonso Mudarra      }
+
+%Line 1
+
+b
+SC
+0.   3
+1    0
+b
+%Bar 2
+x    1
+x    3
+x   3 0
+x    0
+b
+%Bar 3
+x    1
+x    3
+0    53
+b
+%Bar 4
+x    32
+x    15&^
+b
+%Bar 5
+x    0
+x     4
+b
+%Bar 6
+0. 0 3 5
+1 2
+b
+%Bar 7
+x 3
+x  0
+x 02
+x 2
+b
+%Bar 8
+x 3
+x  00
+0  21
+b
+%Bar 9
+x  00
+x 3 3
+b
+%Bar 10
+x-!^2
+x   2
+b
+%Bar 11
+x 0 3
+x  2
+b
+
+%Line 2
+
+%Bar 12
+b
+10
+x   0
+x   1
+x2  3
+b
+%Bar 13
+x3   0
+x 0
+x 2
+x 4 3
+b
+%Bar 14
+x  00
+x  2
+0  43
+b
+%Bar 15
+1   1
+x  2
+0 !^2
+b
+%Bar 16
+x   0
+x  1 0
+b
+%Bar 17
+1  2
+x   3
+x   1
+x  0
+b
+%Bar 18
+x 3
+x 2
+x 0   5Tdedi
+2     3
+x     2
+b
+%Bar 19
+x     0
+x    3
+x    1
+x    0
+x   3Tdosde
+x    0
+x    1
+x    3
+b
+
+
+%Line 3
+
+b
+%Bar 20
+1     0
+x   1
+0  2
+b
+%Bar 21
+1   0
+x    4
+0 2  4
+b
+%Bar 22
+1 32  0
+x   0
+2   1Tdedi
+x   0
+x   1
+x   3
+b
+%Bar 23
+x3   0Tdosde
+x 0
+x 2
+x 4
+x  0
+x  2
+x   0
+x   1
+b
+%Bar 24
+0   31
+x   53
+b
+%Bar 25
+1    1
+x   3
+0  !^3
+b
+%Bar 26
+1    0Tdosde
+x   2
+2   3
+x   2
+x   0
+x   2
+b
+
+%Line 4
+
+b
+%Bar 27
+2   3
+x    0
+x    1
+x    3
+0     0
+b
+%Bar 28
+2  2Tdosde
+x   0
+x   1
+x   3
+x    0
+x    2
+x    3
+x     0
+b
+%Bar 29
+x  0  2
+x     0
+x    3
+x     0
+x     2
+x     4
+1  4  5
+b
+%Bar 30
+x  2
+2     4Tdosde
+x     2
+x     5
+x     4
+x     2
+x     4
+b
+%Bar 31
+1   3 5
+2     3Tdedi
+x     2
+x     0
+x    3
+x    1
+x    0
+b
+
+%Line 5
+
+b
+%Bar 32
+2   3
+x   1
+x  3
+x  2
+x  0
+x 3
+x 2
+x 0
+b
+%Bar 33
+x3
+x 0Tdosde
+x 2
+x 3
+x  0
+x  2
+x  3
+x  2
+b
+%Bar 34
+x  3
+x   1
+x   3
+x    0
+x    1
+x    0
+x    3
+x    1
+b
+%Bar 35
+1  0 3
+x    1
+x    0
+x   3
+b
+%Bar 36
+0.  22
+1   3
+b
+%Bar 37
+x    0
+x  0
+x 3
+x 2
+b
+
+%Line 6
+
+b
+%Bar 38
+1 0  1
+x    3
+x     0
+x 2
+b
+%Bar 39
+x 3
+x  0 3
+x  2 1
+x    0
+b
+%Bar 40
+0  33
+1     5
+x    0
+b
+%Bar 41
+x    1
+x    3
+0  2 54
+b
+%Bar 42
+x  3  5
+x    3
+b
+%Bar 43
+x  2 54
+x0
+b
+%Bar 44
+1.0
+22Tdosde
+x3
+x 0
+x 2
+x 4
+b
+%Bar 45
+1  0
+x 2Tdosde
+2 3
+x  0
+x  2
+x   0
+b
+
+%Line 7
+
+b
+%Bar 46
+1   1
+x  2
+0 3 3
+b
+%Bar 47
+1  0 0
+2  2Tdosde
+x  0
+x  2
+x  0
+x 3
+x 2
+b
+%Bar 48
+x 0  1Tdedi
+x    3
+x     0
+x    3
+x    1
+x    0
+x   3
+x   1
+b
+%Bar 49
+1  00
+2    3Tdedi
+x    1
+x    0
+x   3
+x   1
+x   0
+b
+%Bar 50
+1 32
+2     3
+x     2
+x     0
+x    3Tdedi
+x    1
+x    0
+b
+
+%Line 8
+
+b
+%Bar 51
+2 0  1
+x    0
+x   3
+x   1
+x 3 3
+x   1
+x   0
+x  2
+b
+%Bar 52
+1 2 04
+x     0
+x 2 0
+x    4
+b
+%Bar 53
+1. 32  0
+2  0Tdosde
+x  2
+x   0
+x   1
+x   3
+b
+%Bar 54
+1 20 0
+x    2
+x   !^3
+x  2
+b
+%Bar 55
+x   0
+x   2
+0 0 32
+b
+%Bar 56
+1 20 3
+x   2
+2   3Tdosde
+x   2
+x   0
+x   2
+b
+%Bar 57
+YW 0232
+b
+B
+e

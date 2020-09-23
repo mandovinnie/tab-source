@@ -1,0 +1,1654 @@
+-R7
+{Vne jeune fillete,Jacques Pollonis/V.D.Hovep56}
+-b
+-t
+-c
+-p
+
+b
+c
+0  d
+1 a
+x c.
+0 dda
+1 b c
+x a.
+b
+1  dd
+#2 a
+x b.
+1 d a
+x b.
+x a c
+xa d.
+x  c
+x d.
+b
+1 b
+x  d.
+x d
+x b.
+x ab
+x c.
+x d
+x   a
+b
+1 c c
+x d d
+xa b
+x cd
+x dda  a
+2 b
+x  e.
+x  d
+x  b.
+x   d
+x   c.
+b
+
+%2
+b
+1   a
+x    a
+x   ac
+x   ce
+x   df
+x   c
+x   d
+x   a
+b
+1   ca
+x   a
+x    d
+x   a
+x    df
+x    a
+x    c
+x    d
+b
+1    cd
+x    d
+x   a
+x     b
+x   a d
+x     b
+x  b  a
+x    e
+b
+1 dda  a
+#2 b
+x  e.
+#2  d
+x  b.
+x   d
+x   c.
+1   a
+#2    d
+x    b.
+#2    a
+x     d.
+x     b
+x     a.
+b
+%3
+
+b
+0. dda  a
+1f.
+xfg d
+xg.
+xi
+xg
+b
+1fg
+xg.
+xdf
+xf.
+xbd
+x   a
+x   d
+x  b.
+b
+#2  d
+x d
+x c
+x d.
+#2a
+xb.
+xd
+xa.
+1b
+x d.
+xd
+x f.
+b
+1fg
+x f
+x d
+xb.
+xdf
+xf 
+xd
+x d.
+b
+1f g
+x  f.
+xf d
+xd.
+xbd
+xd.
+xb
+x b
+b
+
+%p2_st1
+b
+1b e
+x  d.
+xd b
+xb
+xdfg
+x d
+x f
+x  e.
+b
+1fgd
+x   f
+0fg d
+1ddef
+x g.
+xdfe
+x d.
+b
+1 cd a
+x da
+xd  c
+x c
+.bb.
+0cdd   a
+x  d.
+b
+0 dd   a
+xa.
+xb  a
+xd  c
+b
+0f  d
+x   a
+xf d
+1da
+xb.
+b
+
+%p2_st2
+b
+1afg
+x g.
+x f
+x  e.
+x bd
+x    a
+x   a
+x    d
+b
+1 d  b
+x    a
+x d   d
+x     b
+#1a  a a
+#2    e
+x    c
+1    e
+x   c
+b
+#1 dda  a
+#2 b
+x  e.
+#2  d
+x  b.
+x   d
+x   c.
+1   a
+x    a
+x   ac
+x   ce
+b
+1   af
+x      a
+x   a b
+x   c d
+x   da
+x     d
+x   da
+x    c
+b
+
+%p2_st3
+b
+1   cd
+x   d
+x  b
+x    c
+x bd a
+x     d
+x  d  b
+x   a
+b
+1 def d
+x  d
+x def
+x   d
+x c ca
+x d a
+x   c
+x c.
+b
+#1 dda  a
+#2 b
+x  e.
+#2  d
+x  b.
+x   d
+x   c.
+#1   a
+#2 a
+x b.
+#2 d
+xa.
+xb
+xd.
+b
+
+%p3
+b
+#2f  d
+xd.
+x g
+x f
+#2 g
+xd.
+xf
+xg
+#2d   d
+x g.
+x f
+x d.
+#2 f
+x g.
+xd
+xf.
+b
+#2b  a
+x   c.
+x   d
+x   c.
+#2   a
+x    e.
+x   a
+x   c.
+#2   d
+x   a
+x   d
+x  b.
+#2a d
+x  b.
+x   d
+x   c.
+b
+
+b
+#2b  a
+x    c.
+x    d
+x   a.
+#2d  c
+x   d.
+x  b
+x   c.
+#2f  d
+x   c.
+x   a
+x    d
+#2b  a
+x   c.
+x   d
+x   a.
+b
+#2d  c
+x   a.
+x   c
+x   d.
+#2   c
+x   a.
+x    d
+x    c.
+#2a   d
+x   a.
+x    d
+x    c.
+#2a   a
+x    c.
+x    d
+x    a.
+b
+#2b  a
+x   c.
+x   d
+x   c.
+#2   a
+x    d.
+x    c
+x    a.
+#2 d  c
+x    d.
+x    c
+x    a.
+#2 d   d
+x    a.
+x    c
+x     d.
+b
+
+b
+#2a   d
+x   a.
+x   c
+x   d.
+#2   c
+x   a.
+x    d
+x    c.
+#2 b  a
+x    c.
+x    a
+x     d.
+#2  d  b
+x     d.
+x    a
+x     b.
+b
+#2 a   d
+x    a
+x    c
+x    d
+#2 d a
+x   c
+x   d
+x  b
+1 cd
+x d   b
+xa    d
+x cdca
+b
+1 dda
+#2 b
+x a.
+#2  d
+x  b.
+x  a
+x   c.
+1   a
+#2 a
+x b.
+#2 d
+xa.
+xb
+xd.
+.bb.
+
+%p4-1
+b
+0 dda
+1 b c
+x a.
+x  dd
+#2 a
+x b.
+1 d a
+x b.
+b
+1 a c
+x  d.
+xa c
+x d.
+x bd
+x a.
+x b
+x  d.
+b
+1 ab
+x c.
+x d
+x  d.
+xaa c
+xc.
+xda
+x c.
+b
+0cdda
+1      a
+#2 b
+x a.
+#2  d
+x a.
+#2  d
+x a.
+x  b
+x  d.
+#2  a
+x  b.
+x   c
+x  a.
+b
+
+b
+1   a
+x    a
+x   c
+x    e
+x   df
+x      a
+x   f
+x   d
+b
+1   cdf
+x     a
+x   c
+x   a
+x    df
+x    c
+x    d
+x    a
+b
+1    cd
+x    e
+x   a
+x     b
+x   c d
+#2    e
+x    c
+0    ef
+b
+0   a  a
+#2d
+xb.
+xa
+x d.
+#2 c
+x d.
+xa
+xb.
+#2d
+xa.
+xb.
+xd.
+b
+
+b
+0fg
+1i
+xg
+xfg
+xg
+xdf
+xf.
+b
+1bd
+#2   a
+x   c.
+#2   d
+x   a.
+x   d
+x  b.
+#2a d
+x d.
+x c
+x d.
+#2a
+xb.
+xd
+xa.
+b
+1bd
+#2a
+xb.
+1df
+#2 g
+xd.
+1fg
+#2d
+xf.
+1gd
+xf.
+b
+1df
+xf.
+xd
+xbd
+xab
+x a
+#2  d
+x b.
+x d
+xa.
+b
+
+%p5-1
+b
+1bd
+xd.
+xb
+xab
+x df
+x  d.
+x  b
+x   d
+b
+1a  c
+x   d
+x  b
+x d.
+x bd
+#2  d
+x a.
+#2 b
+x  d.
+x a
+x b.
+b
+#2 ab
+x  d.
+x a
+x c.
+#2 d
+x   d
+x   c
+x   a.
+1 c c
+x d d
+xa b
+x cd
+b
+1 dda
+#2 b
+x a.
+#2  d
+x  b.
+x  a
+x   c.
+#2   a
+x   c.
+x   d
+x  b.
+1  d
+b
+%p5 st 2 (50)
+
+b
+1  d  b
+x     d
+x    a
+x    c
+x  b d
+x   a
+x   c
+x    d
+b
+1   df
+x      a
+x   d
+x     a
+x     b
+x     d
+x   ca
+x     a
+b
+1   d  a
+x   a
+x  bc
+x    d
+x  dd
+x     b
+x    a
+x    c
+b
+1  bcd
+x     b
+x  d
+x  b
+x   cd
+x    c
+x   ca
+x     d
+b
+1   d b
+x     a
+x   d  a
+x   c
+x   a d
+x    a
+x   ac
+x     d
+b
+1   cd
+x    b
+x   ca
+x     d
+x   d b
+x     a
+x   d  a
+x   c
+b
+
+b
+1   a d
+x   c
+x   d
+x   a
+x    ef
+x    f
+x   c
+x    e
+b
+1  aa  a
+#2   c
+x  a.
+#2  b
+x  d.
+x a
+x c.
+.bb.
+1 dda
+xb.
+xac
+xd.
+b
+1bd
+x   a
+x   d
+x  b
+xa d
+x    a
+x    d
+x   a
+b
+1   c
+x    a
+x d  b
+x b  a
+x  e  d
+x  d  b
+x  b a
+x   d  a
+b
+1 c ca
+x d d
+xa b
+x cd
+x dda  a
+#2 b
+x a.
+#2  d
+x  b.
+x  a
+x   c.
+
+%p6#1
+b
+1   a
+#2   c
+x  a.
+#2  b
+x  d.
+x a
+x c.
+1 d
+x   a
+xa
+x    e
+b
+1b  a
+x   c.
+x   d
+x  b.
+0a d
+1f   a
+xd.
+b
+1b d
+xa b
+x d d
+x b c
+x a a d
+x c c
+x d d  a
+xa b
+b
+1 c ca
+x da
+1. c c
+#3 a
+x c.
+1 dda  a
+#2   c
+x  a.
+#2  b
+x  d
+x a
+x c.
+b
+#2 dda
+x  d.
+x a
+x c.
+#2 d
+xa.
+xb
+xd.
+1f  d
+xg.
+xf.
+x   f
+b
+1  d
+x a
+xdfg
+x    d
+xbd a
+xd.
+xb
+x   c
+b
+1 d d
+x  b.
+x  d
+x c.
+x d
+xb
+xdf
+x  g.
+b
+1fg
+x f.
+x d
+xb.
+xdf
+xf.
+xd
+x d
+b
+1f g
+x  f
+xf d
+xd.
+xbd
+xd.
+xb
+x b.
+b
+1b e
+x  d
+xd
+xb.
+xafg
+x g.
+xdf
+x  e
+b
+1f d
+x   f
+0fg d
+1dd f
+x g.
+x fe
+x d.
+b
+
+b
+1 cd
+x d.
+1. cd a
+#3 a
+x c.
+1 dda
+#2 b
+x a.
+#2  d
+x  b.
+x  a
+x   c.
+b
+#2   a
+x    e.
+x   a
+x   c.
+#2   d
+x   c.
+x   a
+x   c.
+1  dd
+x     b
+x    a
+x    c
+b
+1  b d
+x   d
+x  b
+x   c
+x   d  a
+#2   f
+x   d.
+#2   c
+x   a.
+x    d
+x    c.
+b
+#2    a
+x    c.
+x    e
+x   a.
+1.   ca
+#3   a
+x   c.
+1   d
+x   a.
+x  b
+x   c.
+b
+1 d d
+x   c
+x d a
+x b.
+x a c
+x    d
+x   a
+x   c
+b
+1abd a
+x     d
+x     b
+x     a
+xbdd   a
+x    c
+x    d
+x   a
+b
+1 aba d
+x     b
+x     a
+x      a
+xabb d
+x    a
+x    b
+x    d
+b
+1bbd  b
+x     d
+x    a
+x     b
+x aba
+x c.
+x d d  a
+x  b.
+b
+1 cdca
+x d   b
+x     d
+x c  a
+x dd   a
+#2 c
+x a.
+#2  d
+x  b.
+x  a
+x   c.
+b
+1   a
+x d
+x dda
+xa d e
+.bb.
+
+%p7
+bb.
+1bdda
+#2   a
+x   c.
+#2   d
+x   a.
+x   d
+x  b
+1abd
+x    a
+xa
+x d
+b
+1 b
+x   c
+x d
+x b.
+x de  d
+x   f
+x  d  b
+x   a
+b
+1a ba a
+#2    e
+x    c.
+#2    e
+x   a.
+x    c
+x    e.
+1  def
+#2   f
+x   d.
+#2   c
+x   a.
+x    d
+x    c.
+b
+
+b
+#2    a
+x    c.
+x    d
+x    c.
+#2    a
+x     d.
+x     b
+x     a.
+1 dda  a
+x   a
+xa d
+x    e
+b
+1bdda
+#2a
+xb.
+#2 d
+xa.
+xb
+x d.
+1abd
+#2  b
+x   d.
+#2   c
+x   a.
+x    d
+x    c.
+b
+#2    a
+x b.
+x a
+x b.
+#2  dd
+x a.
+x b
+x  d.
+#2 a c
+x  d.
+x a
+x b.
+#2 d a
+xa.
+xb
+x d.
+b
+
+b
+#2a d
+x d.
+x c
+x a.
+#2 c  a
+x d.
+xa
+x c.
+1 dda  a
+#2  d
+x  b.
+#2   d
+x   c.
+x   d
+x  b.
+b
+1  d
+#2f
+xd.
+#2b
+xa.
+xb
+xd
+1f  d
+#2     b
+x     a.
+#2     b
+x     d.
+x    a
+x    c.
+b
+#2d   d
+x    c.
+x    a
+x    c.
+#2    d
+x   a.
+x   c
+x    d.
+#2b  a
+x    e
+x   a
+x   c.
+#2   a
+x   c.
+x   d
+x  b.
+b
+#2a d
+x  b.
+x  d
+x  e
+#2  d
+x  b.
+x   d
+x   c.
+#2b  a
+x   c.
+x   d
+x   a.
+#2d  c
+x    d.
+x   a
+x   c.
+b
+#2f  d
+x   c
+x   a
+x    d.
+#2b  a
+x   c.
+x   d
+x   a.
+#2d  c
+x   a
+x   c
+x   d.
+#2   c
+x   a.
+x    d
+x    c
+b
+#2a   d
+x   a.
+x    d
+x    b.
+#2    a
+x     d
+x     b
+x     a
+1bdd   a
+#2   a
+x   c.
+#2   a
+x    d.
+x    c
+x    a.
+b
+
+%p8
+b
+#2 d  c
+x    d.
+x    c
+x    a.
+#2 d   d
+x    a.
+x    c
+x     d.
+1a   d
+#2  d
+x a.
+#2 b
+x d.
+xa
+x d.
+b
+#2 b  a
+x d.
+x b
+x a.
+#2  d
+x a.
+x b
+x  d
+#2 a   d
+x  d.
+x a
+x c
+#2 d    a
+xa.
+xb
+x d
+b
+#2a d
+x d.
+x c
+x a.
+1 cd a
+#2 a
+x c
+1 dd   a
+#2  b
+x  d.
+#2 a
+x c.
+x d
+xa.
+b
+
+b
+#2b     a
+xd.
+xa
+xb.
+#2 d
+xa.
+xb
+xd.
+#2f  d
+xg.
+xf
+xd
+#2 g
+xd.
+xf
+x g.
+b
+#2d   d
+xf.
+xd
+x g.
+#2 f
+x g.
+xd
+x f.
+#2b  a
+xa.
+xb
+xd.
+#2b
+xa.
+#3 d
+xa.
+xb
+x d
+b
+
+b
+#2a d
+xb.
+xa
+x d.
+#2 c  a
+x d
+xa
+x c.
+#2 d a
+xb.
+xa
+xb.
+#2d  c
+xa.
+xb
+xd.
+b
+#2f  d
+xd.
+x g
+x f.
+#2 g
+xd.
+xf
+x g.
+1d  c
+#2a
+xb.
+#2d
+xb.
+xa
+x d.
+b
+#2a   d
+x d.
+x b
+x d.
+#2a
+xb.
+xd
+xb.
+#2d  a
+xb.
+xa
+x d.
+#2a
+x d.
+xa
+x b.
+b
+
+b
+#2 d  c
+x b.
+x a
+x b.
+#2 d   d
+xa.
+xb
+x d.
+#2a   d
+x d.
+xa
+xb.
+#2a
+x d.
+x b
+x a.
+b
+#2 b  a
+x d.
+x b
+x a.
+#2  d
+x a.
+x b
+x  d.
+#2 a   d
+x  d.
+x a
+x c.
+#2 d    a
+xa
+xb
+x d.
+b
+#2a   a
+x d
+x c
+x a.
+1 c  a
+#2 a
+x c
+1 dd   a
+#2   c
+x  a.
+#2  b
+x  d.
+x a
+x c
+.bb
+
+%p9
+b
+0 dda
+xa.
+xb  a
+xd  c
+b
+#2f  d
+x   f.
+x   d
+x   c.
+#2f  a
+x   c.
+x   d
+x  b.
+#2 bd
+x d.
+xa
+xb.
+#2da
+xb.
+xa
+x d.
+b
+#2ab
+x d.
+xa
+xb.
+#2a
+x d.
+x b
+x  e
+#2 bd
+x  b
+x   d
+x   c.
+#2 d a
+x    d.
+x    b
+x    a.
+b
+
+b
+#2 d  b
+x    d
+x    b
+x    a
+#2 d   d
+x     b
+x     a
+x      a
+1a  a a
+#2    e
+x    c
+#2    e
+x   a
+x   c
+x    e
+b
+1 dd   a
+#2  e
+x  b.
+x   d.
+x  b
+x   c.
+1   a
+x    a
+x   ac
+x   ce
+b
+#2   a
+x     a.
+x     b
+x     d.
+#2    a
+x    c.
+x    d
+x   a.
+#2   c
+x   a.
+x    d
+x    c.
+#2    a
+x    c.
+x    d
+x   a.
+b
+
+b
+#2   cd
+x   a.
+x   c
+x   d.
+1  b
+x   c
+x bdca
+x     d
+x  d  b
+x   a
+b
+1 def d
+x  d.
+#2 def
+x   d.
+x   f
+x   c.
+#2 d d
+x   c.
+x   d
+x   a.
+1. cdca
+#3 a
+x c.
+b
+1 dda  a
+#2 b
+x  e.
+#2  d
+x  b.
+x   d
+x   c.
+1   a
+#2 a.
+x b.
+#2 d
+xa.
+xb
+xd.
+b
+
+b
+#2f
+xd.
+xb
+xd.
+1f
+#2   d
+x   c.
+#2   d
+x  b.
+x  d
+x a.
+#2 b
+x d.
+xa
+x b.
+b
+#2 d
+xd.
+xb
+xa.
+1b
+#2   a
+x   e.
+#2   a
+x   c.
+x   d
+x  b
+1.acd
+#3 a
+x c.
+b
+1bd
+x   a
+#2 b c
+x d.
+x b
+x a.
+1  dd
+#2 a
+x b.
+#2 d a
+x b.
+x a
+x b.
+b
+
+%p10
+b
+1 a c
+x  d.
+x  c
+x   a
+x    e
+x   c
+x  d
+x  b.
+b
+1   df
+x   f
+x  d
+x    d
+x    c
+x   a
+x  b
+x   d.
+b
+1   cd
+x   d
+x  b
+x    c
+x  d a
+x     d
+x  d  b
+x   a
+b
+1  effd
+#2   f
+x   d.
+#2   c
+x   d.
+x   f
+x   d.
+1 c ca
+x da
+x c c
+#2 a
+x c.
+b
+
+b
+1 dda
+#2 b
+x  e.
+#2  d
+x  b.
+x   d
+x   c.
+1   a
+#2 d
+xa.
+#2b
+xd.
+xf
+xh
+b
+#2i   i
+xg.
+xf
+x i
+#2f
+x g
+xd
+xf.
+#2d   d
+x g
+x f
+x d.
+#2 f
+x g
+xd
+x f.
+b
+#2b  a
+xa.
+xb
+xd.
+#2ef
+xd.
+xb
+xa.
+1b  a
+#2a
+xb.
+1d  c
+#2b
+xd.
+b
+
+b
+#2f  d
+x   f.
+x   d
+x   c.
+#2b  a
+x   c.
+x   d
+x   a.
+#2d  c
+x   a.
+x   c
+x   d.
+#2   c
+x   a.
+x    d
+x    c.
+b
+#2f   a
+x i
+xf
+xh.
+#2f
+x i
+x g
+x f.
+#2b  a
+x    d
+x   a
+x   c
+#2   a
+x    d
+x    c
+x    a
+b
+#2d    d
+xb.
+xd
+xf.
+#2d
+xb.
+xa
+x d.
+#2a   d
+x    c.
+x    d
+x   a.
+#2    d
+x    b.
+x    a
+x     d.
+b
+
+b
+0fb d b
+1dde  d
+x g.
+x cdca
+#2 a
+x c.
+#2 d  b
+xa.
+xb
+x d.
+b
+#2a   a
+x d.
+x c
+x d.
+#2a x d.
+x c
+x a.
+#3 d
+x c.
+x d
+x c.
+#3 d
+x c.
+x d
+x c.
+#3 d
+x c.
+x d
+x c.
+#3 d
+x c.
+x a
+x c.
+b
+0 dda
+x    a
+w      a
+bb
+Q
+e
+

@@ -1,0 +1,572 @@
+-R9
+{Gigue (BWV 996)/J. S. Bach}
+-F
+-l "7.5 in"
+
+b
+3!
+0!   a  a
+0!    d /a
+0!    c //a
+0!    a ///a
+5!
+bb
+S3
+2!
+2
+2   c
+x   a
+x    d
+x    c
+x    a
+1     d
+x   c
+x  a  c
+b
+2  b  a
+x a
+x  b  c
+x   c
+xa    d
+x a
+x b  a
+x a
+x  d c
+x  b
+x  a d
+x   c
+b
+x   bc
+xc
+x e ce
+x a
+xh a g
+x h
+3!
+
+3!
+2d  c
+xc
+xa  e
+x d
+x bb
+x a
+b
+x bd
+x df
+x bd
+x ab
+x  de
+x  bc
+x  de
+x ab
+x bd
+x ab
+x  de
+x  bc
+b
+x  ab
+x    d
+x    c
+x    a
+x  ab d
+x     c
+x  bc a
+x    c
+x     d
+x     a
+x  cc
+x    c
+b
+x  d d
+x   c
+x    d
+x    a
+x  ee
+x    e
+3!
+
+3!
+2 a  c
+x b
+x a  e
+x  d
+x  bb
+x  a
+b
+x  bc
+x  d
+xa b
+x  a
+xc  c
+x   b
+xd  c
+xf
+xd a
+xc
+xa b
+x d
+b
+x cd
+x  f
+x dd
+x   f
+xa a
+x   c
+xc  a
+xd
+xc  c
+xa
+x da
+x b
+b
+x  ff
+x d
+x  f
+x   f
+xd f
+x d
+3!
+
+3!
+2ab
+x     d
+x     a
+x      /a
+x    d
+x     d
+b
+x    a
+xa
+x c
+x  d
+xf   e
+x f
+xcd a
+x    a
+x     c
+x      a
+x   a
+x    a
+b
+x    c
+x d
+x a  a
+x  b
+xd   c
+x d
+xa   d
+x d
+x b a
+x a
+x  dc
+x  b
+b
+x  aa
+x   c
+x  ba
+x    d
+x  d c
+x    a
+3!
+
+3!
+2 a   d
+x    a
+x b   d
+x     c
+x d   a
+x      a
+b
+xa     /a
+xd
+xi     a
+xh
+xf    a
+xd
+xc     a
+xd
+xc    a
+xa
+x d   c
+x b
+b
+x a   d
+x    c
+x     d
+x     a
+x abc
+x    c
+x  d d
+x   c
+x    d
+x    a
+x  def
+x      a
+b
+x  b  d
+x a
+x  d
+x  b
+x  a  d
+x   c
+3!
+
+3!
+2 b  a
+x a
+x  d c
+x  b
+x  a d
+x   c
+b
+x   bc
+xc
+xa  ce
+x e
+x cab
+x a
+xd  c
+xc
+xa a 
+x d
+x cb
+x a
+b
+x  ee
+x c
+x  e
+x   e
+xc e
+x c
+x df
+x  a
+x   a
+x    c
+x ef
+x   e
+b
+xaab
+x ea
+xaab
+x ea
+xaab
+xc a
+3!
+
+3!
+1da c
+x ca
+2     c
+x a
+b
+x a  c
+x  a
+x   bc
+x  a
+x a  c
+x  a
+x  b c
+x   c
+x  b c
+x a
+xa   c
+x  e
+b
+x a  c
+xa b
+xc d
+xa b
+x ea
+x c c
+0. efe  //a
+.bb.
+2
+2    c
+x    e
+x   b
+x   c
+x  a
+x  b
+x     a
+x     c
+x     d
+x  a a
+x    c
+b
+
+b
+2   cd
+xa
+xc
+xd
+xf  a h
+xh
+xi   a
+x  a
+xh  f
+x   h
+xda
+x b
+b
+xfd
+xd
+xc
+xa
+x d
+x  g
+x  f
+x d
+xa
+xc
+xd d
+xf
+b
+xh  f
+x a
+x b
+x d
+xa a
+xc
+xd  c
+x  b
+x a
+xa
+xd d
+x b
+b
+
+b
+2c  a
+x  a
+x  d
+x d
+xc b
+x a
+xa   d
+x   c
+x  b
+x b
+xa  e
+x  d
+b
+x e  c
+x   b
+x  a
+x  f
+x d c
+x  c
+x c  a
+x    e
+x   c
+x  d
+x b a
+x  a
+b
+x a   d
+x  b
+x  d
+x a   d
+x b  a
+x d  c
+xa   d
+x d  c
+xa   d
+xc  a
+xd  c
+xf  e
+b
+
+b
+2h  f
+x  de
+x ab
+x bd
+x df
+x     d
+xa b   /a
+x     a
+x     d
+x    d
+x  a   a
+x  ba
+b
+x  b  d
+x a
+x d
+xd
+x  b c
+xc
+xab  d
+x   c
+x  b
+x b
+x    d
+x  b
+b
+x  d e
+x c
+xa
+xf
+x  d e
+xd
+xc  a
+x  a
+x  d
+x d
+x   a
+x  d
+b
+
+b
+2  f g
+x e
+x h
+xh
+x a
+xf
+x i  h
+x   f
+x  g
+xif
+x h a
+xh i
+b
+xa   d
+x   c
+x  d
+xfb
+x d  c
+xd
+x b  a
+x    d
+x   d
+xb d
+x a   d
+xa
+b
+x ede
+xi
+xf
+x h
+xh a g
+x h
+x if h
+xh
+x i
+xa
+xf  ce
+x f
+b
+
+b
+2c  a
+xf a
+xc d
+x da
+xda
+x d  c
+xa   d
+xd  c
+xa b
+x b c
+xb d
+xf   a
+b
+x e  c
+xc  b
+x ea
+x a b
+xa b
+xd    d
+x  g a
+xi
+xf
+x g
+xi  h
+xa
+b
+x ef
+x    c
+x    e
+x   b
+x   c
+x  a
+x  b
+x a
+x c
+x e
+xa a
+xc
+b
+
+b
+2d  c
+x  b
+x  d
+x a
+x b a
+x d
+xa   d
+x   c
+x  a
+x  b
+x  d c
+x a
+b
+x b  a
+x d
+xa   d
+x d
+x b c d
+x a
+x  dca
+x  b
+x  a c
+x   c
+x  a   //a
+x   b
+b
+x   c  c
+x    c
+x     dc
+x    c
+x   c  c
+x    c
+x    da
+x    a
+x    da
+x   c
+x  d  a
+x   b
+b
+
+b
+2   c a
+x  d d
+x  c c
+x  a a
+x   c e
+x   b c
+0.   ccec
+.bbb
+Q
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+e

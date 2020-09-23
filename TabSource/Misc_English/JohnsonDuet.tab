@@ -1,0 +1,1149 @@
+%
+% This tab file is a copy of a lute duet by John Johnson
+% from the Pickering Book
+%
+% Rainer aus dem Spring
+% Rainer.adS.BERA_GmbH@t-online.de
+%
+-R8
+-B
+%-fc
+%-C
+
+
+{\CL/John Johnson}
+{\CL/XL Short Almain, No. 1}
+V "15mm"
+{A treble by Mr Johnson/Mr Johnson}
+{The Pickering Lute Book, ff 13v, 14r/f 13v}
+
+% **********
+% The Treble
+% **********
+% ########
+% System 1
+% ########
+i
+#2 b
+x d
+b
+% =====
+% Bar 1
+% =====
+1. f
+2 f
+b
+% =====
+% Bar 2
+% =====
+1 d
+1 b
+b
+% =====
+% Bar 3
+% =====
+1. a
+2 b
+b
+% =====
+% Bar 4
+% =====
+1 a
+1 a
+b
+% =====
+% Bar 5
+% =====
+#2 b
+x d
+#2a
+x b
+b
+% =====
+% Bar 6
+% =====
+#2 d
+x b
+#2d
+xb
+b
+% =====
+% Bar 7
+% =====
+2a
+#3 d
+x b
+#3 a
+x b
+x d
+x a
+b
+% =====
+% Bar 8
+% =====
+1 b
+#2 b
+x d
+b
+% =====
+% Bar 9
+% =====
+#3a
+x d
+xa
+xb
+#2a
+x b
+b
+% ======
+% Bar 10
+% ======
+#2 d
+xa
+#2 b
+x d
+b
+% ======
+% Bar 11
+% ======
+2a
+#3 d
+x b
+#3 a
+x  d
+
+% ########
+% System 2
+% ########
+#3  c
+x  a
+b
+% ======
+% Bar 12
+% ======
+#3   c
+x  a
+x  c
+x  d
+#3 a
+x b
+x d
+xa
+b
+% ======
+% Bar 13
+% ======
+#2b
+xa
+#2 b
+x d
+b
+% ======
+% Bar 14
+% ======
+#3a
+xc
+xd
+xc
+#3a
+x d
+x c
+x a
+b
+% ======
+% Bar 15
+% ======
+2 c
+#3 a
+x c
+#3 d
+xa
+xc
+xe
+b
+% ======
+% Bar 16
+% ======
+1f
+#2f
+xh
+b
+% ======
+% Bar 17
+% ======
+2i
+#3 b
+x a
+#3 b
+x d
+xa
+xb
+b
+% ======
+% Bar 18
+% ======
+#3d
+xb
+xa
+x d
+#3 b
+xa
+x d
+x b
+
+% ########
+% System 3
+% ########
+b!
+% ======
+% Bar 19
+% ======
+#3 a
+x d
+x b
+x a
+#3  d
+x b
+x a
+x  d
+b
+% ======
+% Bar 20
+% ======
+2  c
+#3 a
+x c
+#3 d
+xa
+xc
+xe
+b
+% ======
+% Bar 21
+% ======
+2f
+#3  d
+x a
+#3 b
+x d
+xa
+xc
+b
+% ======
+% Bar 22
+% ======
+2d
+#3  b
+x  d
+#3 a
+x b
+x d
+x a
+b
+% ======
+% Bar 23
+% ======
+2 b
+#3  i
+x f
+#3 g
+x i
+xf
+xh
+b
+% ======
+% Bar 24
+% ======
+1i
+#2f
+xh
+b
+% ======
+% Bar 25
+% ======
+2i
+#3  g
+x  i
+#3 f
+x h
+x i
+xf
+
+% ########
+% System 4
+% ########
+b!
+% ======
+% Bar 26
+% ======
+#2h
+xi
+#2f
+xh
+b
+% ======
+% Bar 27
+% ======
+2e
+#3h
+xf
+#3h
+xf
+xe
+x h
+b
+% ======
+% Bar 28
+% ======
+1. f
+2i
+b
+% ======
+% Bar 29
+% ======
+#2h
+xf
+2f
+#3e
+xf
+b
+% ======
+% Bar 30
+% ======
+#3h
+xf
+xe
+x h
+#3e
+xf
+xh
+xe
+b
+% ======
+% Bar 31
+% ======
+2f
+#3d
+xc
+#3a
+x d
+x c
+x a
+b
+% ======
+% Bar 32
+% ======
+1  d
+#3  d
+x a
+x b
+x d
+b
+% ======
+% Bar 33
+% ======
+2a
+#3 d
+x b
+#3 a
+x b
+x d
+xa
+b
+5!
+
+% ########
+% System 5
+% ########
+%b
+% ======
+% Bar 34
+% ======
+2 d
+#3 b
+x a
+2 b
+#3 a
+x  d
+b
+% ======
+% Bar 35
+% ======
+#3 a
+x b
+x d
+xa
+#3b
+xa
+x d
+x b
+b
+% ======
+% Bar 36
+% ======
+#3 a
+x  d
+x  c
+x  a
+#3  c
+x  d
+x a
+x  c
+b
+% ======
+% Bar 37
+% ======
+#3  d
+x  c
+x  d
+x a
+#3 b
+x d
+xa
+xb
+b
+% ======
+% Bar 38
+% ======
+2d
+#3b
+xa
+#3 d
+xa
+xb
+x d
+b
+% ======
+% Bar 39
+% ======
+2a
+#3 d
+x b
+#3 a
+x b
+x d
+x a
+b
+% ======
+% Bar 40
+% ======
+1 b
+#3 b
+x a
+x b
+x d
+
+% ########
+% System 6
+% ########
+b!
+% ======
+% Bar 41
+% ======
+#2a
+x b
+#3 b
+x d
+2a
+b
+% ======
+% Bar 42
+% ======
+#3d
+xb
+xa
+x d
+#3 b
+x d
+xa
+xc
+b
+% ======
+% Bar 43
+% ======
+#2e
+xa
+#3e
+xf
+2h
+b
+% ======
+% Bar 44
+% ======
+#2e
+x a
+#3 b
+x d
+2a
+b
+% ======
+% Bar 45
+% ======
+#3b
+xa
+x d
+x b
+#3 a
+x  d
+x  c
+x  a
+b
+% ======
+% Bar 46
+% ======
+#3  c
+x  d
+x a
+x c
+#3 e
+xa
+xc
+xe
+b
+% ======
+% Bar 47
+% ======
+2f
+#3h
+xf
+#3e
+xf
+xh
+xe
+b
+% ======
+% Bar 48
+% ======
+1f
+#2d
+xb
+b
+
+% ########
+% System 7
+% ########
+b!
+% ======
+% Bar 49
+% ======
+#2a
+x b
+#2d
+xa
+b
+% ======
+% Bar 50
+% ======
+#2 d
+x a
+#2 b
+xa
+b
+% ======
+% Bar 51
+% ======
+#2 a
+x  c
+#2e
+xh
+b
+% ======
+% Bar 52
+% ======
+#2e
+xa
+#2a
+x a
+b
+% ======
+% Bar 53
+% ======
+#2 b
+xa
+#2i
+xf
+b
+% ======
+% Bar 54
+% ======
+#2h
+xd
+#2d
+xb
+b
+% ======
+% Bar 55
+% ======
+#2a
+x b
+#2  d
+x a
+b
+% ======
+% Bar 56
+% ======
+#2 b
+xa
+#2 b
+x a
+b
+% ======
+% Bar 57
+% ======
+#2 b
+xd
+#2a
+xi
+b
+% ======
+% Bar 58
+% ======
+#2h
+xi
+#2f
+xh
+b
+% ======
+% Bar 59
+% ======
+#2e
+xi
+5!
+
+% ########
+% System 8
+% ########
+#2f
+xh
+b
+% ======
+% Bar 60
+% ======
+#2e
+xa
+#2 b
+xa
+b
+% ======
+% Bar 61
+% ======
+#2b
+xa
+#2 d
+x b
+b
+% ======
+% Bar 62
+% ======
+#2 a
+xf
+#2f
+xe
+b
+% ======
+% Bar 63
+% ======
+#2f
+x c
+#2c
+xa
+b
+% ======
+% Bar 64
+% ======
+1 cdca
+#3  d
+x a
+x b
+x d
+b
+% ======
+% Bar 65
+% ======
+2a
+#3  d
+x a
+#3 b
+x d
+2a
+b
+% ======
+% Bar 66
+% ======
+2 d
+#3 a
+x b
+#3 d
+xa
+2 b
+b
+% ======
+% Bar 67
+% ======
+2 a
+#3   c
+x  a
+#3  c
+x  d
+2 a
+b
+% ======
+% Bar 68
+% ======
+2e
+#3 f
+x h
+5!
+
+% ########
+% System 9
+% ########
+#3e
+xf
+2h
+b
+% ======
+% Bar 69
+% ======
+2f
+#3  d
+x a
+#3 b
+x d
+2a
+b
+% ======
+% Bar 70
+% ======
+2d
+#3  b
+x  d
+#3 a
+x b
+2 d
+b
+% ======
+% Bar 71
+% ======
+2 b
+#3  d
+x a
+#3 b
+x d
+2a
+b
+% ======
+% Bar 72
+% ======
+2 b
+#3    a
+x    c
+#3    d
+x   a
+2   c
+b
+% ======
+% Bar 73
+% ======
+2 f
+#3  g
+x d
+#3 f
+x g
+2 f
+b
+% ======
+% Bar 74
+% ======
+2d
+#3  d
+x a
+#3 b
+x d
+2 b
+b
+% ======
+% Bar 75
+% ======
+2 a
+#3 c
+x e
+#3a
+xc
+2e
+b
+4!
+
+% #########
+% System 10
+% #########
+% ======
+% Bar 76
+% ======
+2a
+#3  a
+x  c
+#3  d
+x a
+2 b
+b
+% ======
+% Bar 77
+% ======
+2 d
+#3 a
+x b
+#3 d
+xa
+2b
+b
+% ======
+% Bar 78
+% ======
+2e
+#3 f
+x h
+#3e
+xf
+2h
+b
+% ======
+% Bar 79
+% ======
+2f
+#3  d
+x a
+#3 c
+x d
+2a
+b
+% ======
+% Bar 80
+% ======
+1 c
+#3 b
+x a
+x b
+x d
+b
+% ======
+% Bar 81
+% ======
+#3a
+xb
+xd
+xa
+#3 b
+x d
+xa
+x b
+b
+% ======
+% Bar 82
+% ======
+#3 d
+xa
+xb
+xa
+#3 d
+x b
+x a
+x  d
+b
+% ======
+% Bar 83
+% ======
+#3  c
+x  a
+x  c
+x  d
+
+V "10mm"
+{/f 14r}
+% #########
+% System 11
+% #########
+#3 a
+x  d
+x  c
+x  a
+b
+% ======
+% Bar 84
+% ======
+#3  c
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xe
+b
+% ======
+% Bar 85
+% ======
+#3f
+x  d
+x  d
+x a
+#3 b
+x d
+xa
+xc
+b
+% ======
+% Bar 86
+% ======
+#3d
+x  b
+x  b
+x  d
+#3 a
+x b
+x d
+xa
+b
+% ======
+% Bar 87
+% ======
+#3 b
+x  b
+x  d
+x a
+#3 b
+x d
+xa
+xc
+b
+% ======
+% Bar 88
+% ======
+1d
+#3d
+xb
+xa
+x d
+b
+% ======
+% Bar 89
+% ======
+#3 b
+xa
+xa
+x d
+#3 b
+x  d
+x a
+x b
+b
+
+% #########
+% System 12
+% #########
+b!
+% ======
+% Bar 90
+% ======
+#3 d
+x a
+x a
+x d
+#3 b
+x  d
+x  d
+x b
+b
+% ======
+% Bar 91
+% ======
+#3 a
+x  c
+x  c
+x  d
+#3 a
+x   c
+x   c
+x  a
+b
+% ======
+% Bar 92
+% ======
+#3  c
+x  d
+x a
+x  c
+#3 b
+x d
+xa
+x b
+b
+% ======
+% Bar 93
+% ======
+#3 g
+xd
+xf
+x g
+#3f
+xh
+xi
+xf
+b
+% ======
+% Bar 94
+% ======
+#3e
+xf
+xh
+xe
+#3 a
+x c
+x d
+x a
+b
+% ======
+% Bar 95
+% ======
+#3 c
+x d
+xa
+x c
+b
+
+% #########
+% System 13
+% #########
+#3 d
+xa
+xc
+xe
+b
+% ======
+% Bar 96
+% ======
+y0ffh a
+.bb.
+q
+T-A treble by !!	Mr Johnson !!
+% **********
+% The ground
+% **********
+b
+% =====
+% Bar 1
+% =====
+#2a
+x d
+1 bbcd
+1 bbc
+b
+% =====
+% Bar 2
+% =====
+1 aba d
+1  dca
+b
+% =====
+% Bar 3
+% =====
+1.  cc-a
+2  d
+b
+% =====
+% Bar 4
+% =====
+1  cc-a
+1  cc
+b
+% =====
+% Bar 5
+% =====
+#2  dca
+x a
+1 bdc
+b
+% =====
+% Bar 6
+% =====
+1 bb- d
+1 ab
+b
+
+% #########
+% System 14
+% #########
+b!
+% =====
+% Bar 7
+% =====
+1. bbcd
+2 d
+b
+% =====
+% Bar 8
+% =====
+1 bbcd
+#2a
+x d
+b
+% =====
+% Bar 9
+% =====
+1 bbcd
+1 bbc
+b
+% ======
+% Bar 10
+% ======
+1 aba-d
+1  dca
+b
+% ======
+% Bar 11
+% ======
+2.  cc-a
+3  d
+#2  c
+x  a
+b
+% ======
+% Bar 12
+% ======
+1 acc-a
+1 bd-a
+b
+% ======
+% Bar 13
+% ======
+#2 dda
+x b
+#2 a d
+x  d
+b
+% ======
+% Bar 14
+% ======
+#2  dc
+x   a
+1 acc
+b
+% ======
+% Bar 15
+% ======
+2.  dca
+3  d
+#2   c
+x    a
+b
+% ======
+% Bar 16
+% ======
+y0  dca
+.bb.
+q
+T-the	grownd	to the treble
+x
+e
+
+

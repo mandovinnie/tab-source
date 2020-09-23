@@ -1,0 +1,144 @@
+%
+% This is a transcription of Heinrich Isaac's Innsbruck, ich muss dich lassen
+% It tries to stick to the original as close as possible, but some chords had
+% to be simplified to be playable. The text is an approxiamtion, as different
+% voices have the words at different times. So the text is just for orientation.
+%
+% Also, the text includes the special german "sz", which is similar to a greek
+% beta. This is represented by an ^Y in this text, as this leeds to correct
+% output, but only if you use the dvi file for output (no -P option). For
+% Postscript output you should maybe change all ^Y to 'sz'.
+%
+% The text is meant to be printed in landscape format (A4)
+%
+-e
+-l 9in
+
+{Innsbruck, ich mu dich lassen  /  Heinrich Isaac}
+{/aus Georg Forster\: Ein Auzug guter alter und neuer Teutscher liedlein ..., N:urnberg 1539}
+
+b
+0  da   T    Inns
+x d a   T-
+b
+1 da c  Tbruck
+xacbc   Tich
+xcdda   Tmu
+x   e
+b
+1f&U de   Tdich
+2 d&U c
+x   a
+1"Xd"Xdbc   Tlas
+x c     T-
+b
+0cdda   Tsen  /
+1R
+1c da   Tich
+b
+1f&U d&Uef  Tfar
+2   e&Uf&U
+x"Xda"X     Tdo
+0abb"X "Xd  Thin
+b
+1c&Uaaa&U   Tmein
+x  \3d&U
+x"X d&U "X \2c&U  Tstra
+2  "Xb&Uc   T-
+x  &X &Xa &X
+b
+0 cdca  Tssen  /
+1R
+1 da c  Tin
+b
+1aab  a Tfrem-
+x da c  Tde
+x cdce  Tland
+x da c  Tdo
+b
+
+-l 7.6in
+
+b
+0a bc a Thin  /
+1R
+1aa c   Tmein
+b
+1 da c  Tfreud
+xacbc   Tist
+xcdda   Tmir
+x   e
+b
+1f&U de   Tge
+2 d&U c   T-
+x   a
+1"Xd"Xdbc   Tnom
+x c     T-
+b
+0cdda   Ten  /
+1R
+1c da   Tdie
+b
+1f&U d&Uef   Tich
+2   e&Uf&U
+x"Xda"X     Tnit
+0abb"X "Xd  Twei
+b
+1c&Uaaa&U   Tbe
+x  \3d&U      T-
+x"X d&U "X \2c&U  Tkum
+2  "Xb&Uc   T-
+x  &X &Xa &X
+b
+0 cdca  Tmen  /
+1R
+1acd a  Two
+b
+
+-l 9in
+
+b
+1 da c  Tich
+xacbc   Tim
+0cdda   TE
+b
+1d&Ud&Uf  \2d&U T-
+2   \4f&U
+x"Xc"Xc
+xaa   "X
+x dd"Xe   T-
+xa&Ua&U c d&U
+x  &X a  &X
+b
+2  d&U e&Uf&U
+x"X d
+1 \4d&U"Xba"Xc"X  T-
+x  \3d\1ca  Tlend
+x "Xc
+b
+0 dda  aTbin  /
+1R
+1acd a  Two
+b
+1 da c  Tich
+xacbc   Tim
+0cdda   TE
+b
+1d&Ud&Uf  \2d&U T-
+2   f&U
+x"Xc"Xc
+xaa   "X
+x dd"Xe   T-
+xa&Ua&U c d&U
+x  &X a  &X
+b
+2  d&U e&Uf&U
+x"X d
+1 \4d&U"Xba"Xc"X  T-
+x  \3d\1ca  Tlend
+x "Xc
+b
+w daa  aTbin.
+bb
+
+e

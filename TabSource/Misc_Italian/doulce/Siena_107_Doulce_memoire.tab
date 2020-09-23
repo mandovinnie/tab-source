@@ -1,0 +1,568 @@
+-t
+-f
+{No. 107 Doulce Memoire}
+b
+0 dfec
+b
+2 dfec
+x c
+3 d
+x c
+x d
+x f
+b
+1 ddef
+x cdca
+b
+2 aaac
+3d
+xc
+xa
+x d
+x c
+x a
+b
+x  eeec
+x  f
+x c
+x  f
+x  e
+x  c
+x  f
+x  e
+b
+2  a c
+x a
+x  a
+x    c
+b
+
+b
+x df c
+3  f
+x  d
+x  f
+x c
+x d
+x f
+b
+1caaa
+2 df
+x   c
+b
+x cde
+3 d
+xa
+2c da
+x aa
+b
+3 hhge
+x g
+x h
+x g
+x h
+x g
+4 h
+x g
+x e
+x g
+b
+3c de c
+xe
+xf
+xe
+xc
+x f
+x d
+x c
+b
+2 dfec
+3  f
+x  d
+x  f
+x c
+x d
+x f
+b
+
+b
+1 dfec
+x dfec
+b
+2aabc
+x  aa
+xac ce
+x   ac
+b
+x c ca
+x a
+x  d e
+3 a
+x c
+b
+x ddaa
+x  c
+x  d
+x  c
+x  d
+x  c
+4  d
+x  c
+x  a
+x  c
+b
+2 cdca
+x a
+3 c
+x a
+x c
+x d
+b
+x cdca
+x a
+x c
+x d
+xa
+x c
+4 d
+x c
+x d
+xa
+b
+
+b
+1cdda
+x dd
+b
+2cdda
+xa
+xc  a
+xd
+b
+xcdf c
+x    e
+x   a
+x   c
+b
+1ccde
+2 g ge
+3 h
+x g
+b
+2cca a
+xe
+xfc   c
+xc
+b
+xec ce
+xc
+xc aa
+x a
+b
+x hhge
+x g
+3 h
+x g
+x e
+x g
+b
+1c de c
+2c de c
+x     c
+b
+
+b
+xc de c
+x f
+x d
+x c
+.
+b
+b
+.
+x dfe c
+3  f
+x c
+x d
+x  f
+x c
+x d
+b
+1aab  a
+xaab  a
+b
+1. dfec
+3  d
+x  c
+b
+2  aa
+x c
+x dc c
+x a
+b
+x cdca
+x a
+x  de c
+3  c
+x  d
+b
+1 aa cd
+x a ccd
+b
+0  eeec
+b
+2 cde c
+3  d
+x  c
+x  d
+x a
+x c
+x d
+b
+
+b
+2 cdca
+3  d
+x  c
+x  d
+x a
+4 c
+x a
+x c
+x d
+b
+1 cdca
+x dfec
+b
+xa cce
+2acc e
+x e
+b
+xaacc
+xc
+xeccc
+xf
+b
+xedda
+xc
+xcdf c
+x  d
+b
+x hhge
+x g
+3 h
+x g
+x e
+x g
+b
+2c de c
+3  c
+x   e
+x  c
+x  d
+x  f
+x c
+b
+1cd ec
+x   e
+b
+xccde
+xcdf c
+b
+
+b
+2ccfe
+x  e
+3  f
+x  e
+4  f
+x  e
+x  c
+x  e
+b
+2 df c
+x f
+xc da
+x d
+b
+3aacc
+x d
+x c
+x a
+x cdca
+x  d
+x a
+x c
+b
+2 ddcc
+3  c
+x  a
+2 ddac
+4  d
+x  c
+x  a
+x  c
+b
+3 cdca
+x a
+x c
+x d
+x c
+x a
+4 c
+x a
+x  d
+x  c
+b
+
+b
+3  dca
+x  c
+x  d
+x a
+x c
+x  d
+x a
+x c
+b
+2 daa
+xa
+xc
+xe
+b
+xfhi f
+x h
+xh   e
+x     h
+b
+xh he
+3g
+xe
+2gh
+xh
+b
+1h ik h
+x  i k
+b
+x dfec
+x dfe
+b
+2acd
+3    a
+x  c
+x  d
+x a
+4 c
+x a
+x c
+x d
+b
+2acd a
+x a
+xacd a
+x  c
+b
+
+b
+x dfec
+x c
+xcdf c
+x  f
+b
+x hhge
+x g
+3 h
+x g
+4 h
+x g
+x e
+x g
+b
+2c de c
+xe
+xf  e
+x  c
+b
+x  de
+xe  c
+xc  a
+xa c e
+b
+x daa
+x c c
+x a a
+x  d
+b
+x  ccca
+x  a
+x ac  a
+x   a
+b
+3  feec
+x  e
+x  f
+x  e
+x  f
+x  e
+4  f
+x  e
+x  c
+x  e
+b
+
+b
+3 aa c
+x c
+x d
+x c
+xa
+x d
+x c
+x a
+b
+x  de
+x  c
+x  d
+x a
+x c
+x  d
+x a
+x c
+b
+x dda
+x c
+x d
+xa
+xc
+x d
+xa
+xc
+b
+xaabc
+x d
+xa
+xc
+xd
+xa
+xc
+xd
+b
+xccee
+xa
+xc
+xe
+xg
+xc
+xe
+xg
+b
+
+b
+xghhe
+x h
+xe
+xg
+xh
+xe
+xg
+xh
+b
+xk
+xh
+xg
+xe
+xhhhe
+xg
+4h
+xg
+xe
+xg
+b
+2ha a h
+3f
+xe
+xc
+xa
+x d
+x c
+b
+1 dfec
+x dfe
+b
+2acd
+3    a
+x  c
+x  d
+x a
+x c
+x d
+b
+2acd a
+x a
+xacd a
+x  c
+b
+x dfec
+x c
+xcd  c
+x  f
+b
+
+b
+1 hhge
+x g
+b
+2c de c
+xe
+xf  e
+x  c
+b
+x  de
+xe  c
+xc  a
+xa c e
+b
+x daa
+x c c
+x aaa
+x  d
+b
+x  ccca
+x  a
+x ac  a
+x   a
+b
+x  feec
+x  e
+3  f
+x  e
+x  c
+x  e
+b
+2    c
+x aa
+x   b
+x    c
+b
+1 aabc
+x aabc
+b
+
+b
+2 abc a
+x  a
+3  b
+x  a
+x  b
+x  d
+b
+1 abc a
+2   b
+x    e
+b
+0 aabc
+b
+b
+b
+
+e

@@ -1,0 +1,415 @@
+-t
+-f
+{Page 86_Doulce memoire}
+b
+0 dfec
+b
+2 dfec
+3  f
+x c
+x d
+x c
+x d
+x f
+b
+1 ddef
+x cdca
+b
+3 aaac
+x d
+x c
+x a
+x c
+x a
+x  e
+x  c
+b
+2  eeec
+x  f
+x  e
+x  c
+b
+1  a c
+x a
+b
+3 df c
+x c
+x  f
+x c
+x d
+x c
+x d
+x f
+b
+
+b
+1cdda
+2 dfa
+x   c
+b
+1 cde
+2c aa
+x  a
+b
+x  hge
+3 g
+x e
+2 h
+x g
+b
+xc ee c
+x f
+x d
+x c
+b
+1 dfec
+x dfec
+b
+3 dfec
+x c
+x  f
+x c
+x d
+x  f
+x c
+x d
+b
+2aacc
+x  aa
+xa  ce
+x   ac
+b
+x cdca
+x a
+1  d e
+b
+
+b
+2 d ac
+3  c
+x  a
+x  c
+x  d
+x a
+x  c
+b
+2 cdca
+x a
+x c
+x d
+b
+xacd a
+3 d
+x c
+x d
+x c
+x a
+x c
+b
+2cdda
+xa
+x d
+x c
+b
+xcdf c
+x    e
+x   a
+x   c
+b
+1cdde
+x ghge
+b
+xcca a
+xfc   c
+b
+xec ce
+xc
+b
+2  hge
+3 g
+x e
+x g
+x h
+xe
+x g
+b
+
+b
+0c ee c
+.
+b
+b
+.
+2 dfec
+3  f
+x c
+x d
+x  f
+x c
+x d
+b
+2 cee c
+x   c
+x  a
+x  c
+b
+3 cdca
+x  d
+x a
+x c
+x da c
+x a
+x c
+x d
+b
+2a cce
+3    a
+x    c
+x    e
+x    c
+x    e
+x   a
+b
+xaacc
+x e
+xa
+xc
+1eccc
+b
+
+b
+2 dda
+xc
+3cdf c
+x  d
+x  c
+x   e
+b
+2  hge
+x h
+x    e
+x g
+b
+xc ee c
+x  e
+x a
+x c
+b
+1cd  c
+x  a
+b
+xccee
+xcdf c
+b
+xccfe
+x  e
+b
+x df c
+2cdda
+x c
+b
+1aacc
+x cdca
+b
+x da c
+x dcac
+b
+3 cdca
+x a
+x c
+x d
+x c
+x a
+x  d
+x  c
+b
+
+b
+1  dca
+x c
+b
+2 ddef
+xa
+xc
+xe
+b
+xfhi f
+x h
+xh   e
+x     h
+b
+x hhe
+3g
+xe
+xg
+x h
+xe
+xg
+b
+1h ik h
+x da
+b
+x da c
+x dfec
+b
+xacd
+2    a
+x d
+b
+xacd a
+x a
+xacd a
+x  c
+b
+x dfec
+x c
+xcdf c
+x  d
+b
+
+b
+1  hge
+x g
+b
+xc ee c
+2f  e
+x  c
+b
+x  de
+xe  c
+xc  a
+xa c e
+b
+x daa
+x c c
+x aaa
+x  d
+b
+x  ccca
+x  a
+x acc a
+x   a
+b
+x   eec
+3  e
+x  c
+2  f
+x  e
+b
+x aa c
+3  c
+x  a
+x  c
+x   c
+x  a
+x  c
+b
+1  de
+x c
+b
+
+b
+2 ddef
+xa
+xc
+xe
+b
+xfhi f
+x h
+xe   h
+x     h
+b
+1 hhe
+xg
+b
+xh ik h
+x da
+b
+x da c
+x dfec
+b
+xacd
+2    a
+x d
+b
+xacd a
+x a
+xacd a
+x  c
+b
+x dfec
+x c
+xcdf c
+x  d
+b
+1  hge
+x g
+b
+xc de c
+2f  e
+x  c
+b
+x  de
+xe  c
+xc  a
+xa c e
+b
+
+b
+x daa
+x c c
+x aaa
+x  d
+b
+x  ccca
+x  a
+x acc a
+x   a
+b
+1   eec
+x  e
+b
+2 aabc
+x   c
+x  a
+x   c
+b
+x aabc
+3   c
+x   b
+x   c
+x   b
+x    e
+x   b
+b
+1 acc a
+x acc a
+b
+x aabc
+x aabc
+b
+2 acc a
+3  a
+x  c
+x  d
+x a
+x c
+x d
+b
+
+b
+x c
+x a
+x  d
+x  c
+x  d
+x  c
+x  a
+x   c
+b
+0 aabc
+b
+b
+b
+
+e

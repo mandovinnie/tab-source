@@ -1,0 +1,168 @@
+
+-b
+-e
+% -tuning c4d4e4f4g4a3d3g3b2d2f2
+-tuning c4d4e-4f4g4a3d3g3a+2d2f2
+$midi-volume=90
+
+{Panmure 5 23R/tuning c4d4e-4f4g4a3d3g3a+2d2f2}
+
+b
+b
+1   c&,.
+x   a:
+b
+0    d.
+1      /a
+x   a:
+x   c.
+x  a:
+b
+1  c.
+x    d
+0.  cac
+1  a.
+b
+0.   c&,- /a
+2   a.
+x   c:
+0    d.
+b
+0  a a a
+0.  c&, da
+1 a.
+b
+0. aaddb
+1 c.
+0a -  a
+b
+
+% line 2
+
+b
+0c  -  a
+0.c&,aaa
+2 d.
+xc:
+b
+0.E  -  /a
+1E.
+0c&,  -  //a
+b
+0E  -  /a
+1    a
+xh.
+xg&,:
+2 h.
+xg:
+b
+0h .
+x      ///a
+x     d|
+b
+wccc.
+b
+b
+
+% line 3
+
+b
+b
+0c
+b
+1  c &{
+x c.
+xc: &}
+xE.
+xf a
+b
+0h   h
+0.f&, g f
+1h.
+b
+0E&,:
+1      /a
+xc.
+xa:
+x c.
+b
+1  a
+x a:
+x c.
+xa:
+xc.
+xE:
+b
+
+% line 4
+
+b
+wf  a
+xE  c
+0.c&,a d&{
+2a.
+xc: &}
+b
+0E.
+1   c
+x  E.
+x  d&,
+xc.
+b
+0  E
+1 E:
+x  c.
+x  a&,:
+x   c.
+b
+1   a
+x a.
+xc:
+xE.
+0Ea  E
+b
+
+% line 5
+
+b
+0fa a
+0.E&,E  a
+2 f.
+xE:
+b
+0 f.
+w   a
+b
+1     c&,
+x a.
+x     d&{
+x   a.
+x c:
+x d.&}
+b
+1     a
+x d:
+x  c.
+x a:
+x     b
+x  a:
+b
+1   c.
+x  a:
+0.   a&, d
+2    d.
+x   a:
+b
+0    d
+x      /a
+x    d
+b
+wadcc.
+b
+b
+m
+e
+
+
+
+

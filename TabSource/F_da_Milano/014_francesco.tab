@@ -1,0 +1,215 @@
+
+-i
+%-T
+-Q
+$tempo=6
+
+{Ricercar - Francesco/ness nr 14 }
+
+b
+W     0
+b
+w    3
+x    0
+b
+W   32
+b
+w   20
+0  2
+x    2.
+b
+w   03
+x    2.
+b
+x  2
+x    0
+b
+0  0
+x   3.
+x 2 2
+x   0.
+b
+w 42  0
+x 0 3
+b
+x 2  3
+x   20
+b
+0 0 32
+x 2.
+x 4
+x  0.
+b
+w  220
+x 42  0
+b
+x 2 0
+x    3.
+b
+
+% ness line 2
+
+b
+w!0 2 2
+x    0.
+b
+03 0
+x   3.
+x   1
+x 2 0
+b
+w542
+x   3
+b
+002 2
+x   0.
+x   3
+x   2.
+b
+w 0 3
+x     0.
+b
+x     2
+x  2  4
+b
+x  0  5
+0  2
+x     4.
+b
+x   3 2
+x     0.
+x     2
+x   2
+bv
+x   0
+x  2  4
+w4 2  0
+b
+x 0 0
+x 2  4
+b
+x 42  0
+0   2.
+x 2
+b
+w 0 3
+x4   0
+b
+x 0  20
+x   3
+b
+x     2.
+x   204
+b
+x   025
+x    4.
+b
+
+% ness line 3
+
+b
+w!  2 54
+x     0.
+b
+0   3
+x    3.
+x    2
+x   20
+b
+w  43
+x  220
+b
+x    2.
+x  003
+b
+x 4 2 0
+x   3.
+b
+x 2 03
+0    0
+x    2.
+b
+x 2  3
+x     0.
+w  03 2
+b
+x    0
+x  2 20
+b
+x  43
+x    4.
+b
+x  2Q200
+x 0  2
+b
+x     2.
+x4   04
+b
+x2   25
+x    4.
+b
+
+% ness line 4
+
+b
+w!0   54
+x     0.
+b
+0 0
+x    3.
+x    20
+x    0.
+bv
+x   3
+x    3.
+x    2
+x   20
+b
+w  43
+x  2 2
+b
+x  0 0
+x 4 3
+b
+x 2  3
+0   2
+x     0.
+b
+w 0 3
+x     0.
+b
+00  1
+x    3.
+x    0
+x    2.
+b
+w2  03
+x  2 2
+b
+x2
+0  1 0
+x   3.
+b
+w0 2 2
+x    0.
+b
+03 0
+x   3.
+x   1
+x   0.
+b
+w542
+x2 03
+b
+002 2
+x   0.
+x   3
+x   2.
+b
+Y 023
+b
+B
+e
+
+
+

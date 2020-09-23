@@ -1,0 +1,686 @@
+-R7
+-e
+-F
+-b
+
+{The New Highland Ladie, mr becks way/Balcarres 4}
+
+b
+.
+b
+1     d
+x    a
+b
+0.    d
+1   c
+0.  a&,   /a
+1 a
+b
+x  d
+x  a
+x   a
+x  a
+x  d
+x   c
+x  a
+x   a
+b
+0  a&,   /a
+x   c
+x   c  4
+1   a[
+x   c]
+b
+0  a   /a
+x   c
+x   c d
+1   a
+x    a
+b
+0   a  ///a
+1      //a
+x   c
+0.  a&,   /a
+1 a
+b
+x  d  a
+x  a
+x   c
+x   a
+x   c  a
+x  a
+x  b   /a
+x  d   //a
+b
+0 a    ///a
+x    a
+x    a&,
+1.     d
+2    a
+b
+0   a
+x    a
+x      ///a
+b
+.
+b
+1e
+xc
+
+
+% line 2
+
+b
+1a     /a
+x  d
+xa
+xc
+xa  a
+xc
+xe
+xc
+b
+xa     /a
+x  d
+x a
+xa
+x  d
+x  a
+x   c
+x   a
+b
+0  a&,a  /a
+x   c
+x   c  4
+1   a[
+x   c]
+b
+x  a   /a
+x  d
+x  a
+x   a
+0   c  4
+1   a  ///a
+x    a
+b
+xa
+xc
+xe     //a
+xc
+xa     /a
+x  d
+x a
+xa
+b
+x  d  a
+x  a
+x   c
+x   a
+x a    a
+x c
+xa
+xc
+b
+
+%line 3
+
+b
+0e     /a
+x    a
+x    a ///a
+1     d
+x    a
+b
+0   a&,
+x    a
+x    a ///a
+b
+.
+b
+1     d
+x    a
+b
+x   a  /a
+x    c
+x   a
+x   c
+x  aa
+x   c
+x  a
+x  b
+b
+x  d   /a
+x  a
+x   a
+x a
+x  d  a
+x  a
+x   c
+x   a
+b
+0  a&,
+x   c
+x   ccd
+1   a
+x   c
+b
+x  a   /a
+x  d
+x  a
+x   a
+x   c  4
+x  a
+x   c
+x    a
+b
+x   a  ///a
+x    c
+x   a  //a
+x   c
+
+% line 4
+
+i
+1  a   /a
+x   c
+x  a
+x a
+b
+x  d  a
+x  a
+x   c
+x   a
+x   c  a
+x  a
+x  b   /a
+x  d   //a
+b
+2  b[  ///a
+x  d
+1 a ]
+0    a
+x    a&,
+1     d
+x    a
+b
+x   a  ///a
+x   c
+x   a
+x    c
+0    a
+b
+.
+b
+1e
+xc
+b
+xa     /a
+x  d
+xa
+xc
+xe  a
+xa
+xc
+xe
+b
+xa     /a
+x  d
+x a
+xa
+x  d  a
+x  a
+x   c
+x   a
+
+
+% line 5
+
+i
+0  a
+x   c
+x   ccd
+1   a
+x   c
+b
+x  a   /a
+x  d
+x  a
+x   a
+x   c  a
+x  a
+x   c
+x    a
+b
+xa     /a
+xc
+xe     //a
+xc
+xa     /a
+x  d
+x a
+xa
+b
+x  d  a
+x  a
+x   c
+x   a
+x a    a
+x c
+xa
+xc
+b
+0e     /a
+x    a
+x    a
+1     d
+x    a
+b
+x   a
+x   c
+x   a
+x    c
+0    a ///a
+b
+.
+b
+1     d
+x    a
+
+
+% line 6
+
+
+i
+1    d /a
+x     d
+x     a
+x     d
+x   a  ///a
+x   c
+x  a
+x  b
+b
+x  d   //a
+x  a
+x   a  /a
+xa
+x  d   //a
+x   c
+x  a   /a
+x   a
+b
+x  b   a
+x   c
+x  d   //a
+x  b
+x  a   /a
+x   a
+x  b   ///a
+x  a
+b
+x   c  //a
+x  a
+x  b   4
+x  d
+x  a   /a
+x   a
+x   c  a
+x    a
+b
+x   a  ///a
+x    c
+x   a  //a
+x   c
+x  a   /a
+x   c
+x  a
+x a
+b
+
+p
+% page 2
+
+b
+1  d  a
+x  a
+x   c b
+x   a
+x   c d
+x  a
+x  b
+x  d
+b
+x a   b
+x  d
+x a
+x d
+x    a
+x   a
+x     d
+x    a
+b
+x   a  ///a
+x   c
+x   a
+x    c
+0    a
+b
+.
+b
+1e
+xc
+b
+xa   a
+x   a
+xa
+xc
+xe     /a
+xa
+xc     a
+x a
+b
+xa    a
+x  d
+x a  a
+x  a
+x  d c
+x   c
+x  a d
+x   a
+b
+
+
+% line 2
+
+b
+1  a   /a
+x  d
+x  a
+x   a
+x   c  4
+x  a
+x   c
+2   a[
+x   c]
+b
+1  a   /a
+x  d
+x  a
+x   a
+x   c  a
+x  a
+x   c
+x    a
+b
+xa     /a
+xc
+xe     //a
+xc
+xa     /a
+x  d
+x a
+xa
+b
+x  d  a
+x  a
+x   c
+x   a
+x a    a
+x c
+xa
+xc
+b
+xe     /a
+xc
+xe
+x   a
+x    a
+x   a
+x     d
+x    a
+b
+
+
+% line 3
+
+i
+1!   a  4
+x   c
+x   a
+x    c
+0    a
+b
+.
+b
+1     d
+x    a
+b
+x    d /a
+x    c
+x    d
+x     d
+x     a
+x     d
+x   a
+x   c
+b
+x  d   /a
+x   a
+xa
+x a
+x  d   //a
+x   c
+x  a   /a
+x   a
+b
+0  aad
+x   c
+x   ccd
+1   a
+x   c
+b
+x  a   /a
+x  d
+x   a
+x  d
+x  a d
+x   a
+x   c
+x    a
+b
+x   a d
+x    c
+x   a
+x   c
+x  a   /a
+x   a
+x  a
+x a
+b
+
+
+
+% line 4
+
+b
+1  d   //a
+x   c
+x  a   /a
+x   a
+x   c  a
+x  a
+x  b  a
+x  d
+b
+x a   b
+x  d
+x d
+x   a
+x    a
+x    d
+x     d
+x    a
+b
+x   a  ///a
+x   c
+x   a&,
+x    c
+0    a
+b
+.
+b
+1e[    //a
+xc]
+b
+xa     /a
+x   a
+xa
+xc
+2e[ a
+xc
+1a]
+2c[
+xa]
+1 a
+b
+2a
+x a
+1  d
+2  f[
+x  d
+1  a]
+2  d[
+x  a]
+1   c
+2  a
+x   c[
+1   a]
+b
+
+% line 5
+
+b
+0  aad
+x   c
+x   ccd
+1   a
+x   c
+b
+x  a   /a
+x   a
+x  d
+x  b
+x  a d
+x   a
+x   c
+x    a
+b
+xa     ///a
+x a
+xc
+xa
+x c    4
+x  d
+x d  a
+x a
+b
+x  d c
+x   c
+x  a d
+x   a
+x a  a
+x c
+xa   c
+xc
+b
+xe   d
+xa
+xh
+x   a
+x    a
+x   a
+x     d
+x    a
+b
+x   a  ///a
+x   c
+x   a
+x    c
+0    a
+b
+.
+b
+
+{the New Highland Ladie, mr becks way it may want the last measure}
+
+
+
+b
+.
+b
+0  d
+x  d
+2- a[
+1. d]
+2-h[
+1.e]
+b
+2-e[
+x-c
+1-a]
+0 a   b
+x a
+x d
+b
+w  d
+0  d   /a
+x  d
+b
+2- a[
+1.a ]
+2-h[
+1.e]
+2-e[
+x-c
+1-a]
+2-a[
+x-c]
+1-h
+b
+xh  a
+x h
+x f
+xa
+2a[    /a
+xc
+1e
+2e[    ///a
+xc
+1a]
+b
+0 a   b
+1 a[
+x d]
+w  d
+b
+T-5:
+2-  d[  /a
+1.  a]
+1-  b
+x-  b
+0  d
+1e[
+xc]
+b
+0a    a
+1  d
+x a
+w da   /a
+b
+.
+b
+T-Sweet Willie, mr Becks way
+b
+e
+
+

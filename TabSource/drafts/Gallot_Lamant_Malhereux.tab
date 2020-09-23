@@ -1,0 +1,230 @@
+
+-R8
+-b
+$line=o
+$tempo=1
+
+{L'Amant Malheureux allemande du V Gallot Saizenay nr. 60}
+
+i
+SC
+0  h&@
+1   h&@|
+x  h
+x  f&,g|
+x    h|
+2    g|&{
+x  h
+1  f&,&}
+b
+2    h|
+x   h
+1     a
+1.   g&,  //a
+2     f.
+1  a !/ /a
+2     h
+x   a
+1.     f&,
+2   g
+b
+1    g&, //a
+x     h
+x   g
+x     f&,
+x      //a
+1.  c!/c/d
+2   E
+1   d c
+b
+
+% line 2
+
+i
+1  ad.a
+x    c|
+x  ".a".E_
+x     c
+1.  a!/cd
+2   a
+x     c&,
+x    a|
+x   c
+x    d.
+b
+1    c&,d
+x      4
+1.   c&@
+2     d
+1.   c/a/c
+2   c
+1  d!/ a
+2   b&,
+x  d
+b
+1  c&,   a
+x   c
+1.  f&@
+2  f
+1.  f/e!  /a
+2  f
+1.  f!/f!///a
+2  E&,
+b
+
+% line 3
+
+i
+1  f   ///a
+x  a
+1.  i&@
+2  i
+1   \2g- a
+2   \3h
+x  \2h
+1.  "-f"-h"-f|
+2   g&,
+b
+1  h !/ 4
+x    h
+x  ha. ///a
+x  f&,
+x  \4f&,e. //a
+x   d&,
+x  d&,/e!/a
+2   g.
+x  d
+b
+1   g.
+x      //a
+x   d
+x  c
+x    c
+0.  cdc
+b
+.
+b
+
+% line 4
+
+0  c&,
+1      //a
+x  d!/c|
+x  c&,-a|
+x  a!/ d
+x   d&,-c
+x  a!/ a
+b
+1  c !/ b
+x    c.
+x  d!/ a
+x  "-c"-!/"- c
+1.  c!/c/d{
+2   E
+1.   c&, c}
+2   c
+b
+1   ccd
+x      4
+1.  h&@
+2  h
+1  a   /a
+x   a
+1. f&@f
+2 ff
+b
+
+% line 5
+
+b
+1    f-//a
+x  d&,
+1.  \4d/a!/ ///a
+2  c&,
+1.  c!/c!/4
+2  d
+1  a&,
+x     a
+b
+0  a!/b/c
+1.   c&, c//a
+2    E
+1   c
+2  a  a
+x   c
+1   b&, c
+2    c.
+x   b
+b
+1    c.
+x      //a
+x   d&,c|
+x  a!/e|
+x  cd/|
+x      //a
+x  dEc|
+2   d&,
+x  c
+b
+
+
+%line 6
+
+i
+1  d/e|
+x     a
+1.  i&@h
+2  i.
+1  ih.!/a
+x   g&,
+1.  h&@h
+2  h
+b
+1  h!/  /a
+x   E
+1.  f&,g
+2  f
+1  fe  //a
+x   d&,
+1.  d&,e a
+2  f
+b
+1  c&,   a
+x    a|
+x  d!/c|
+x  c&,
+x  a c /a
+x    a&,
+x  c&,
+2   a.
+x  a
+b
+
+% line 7
+-l "5.9 in"
+
+
+i
+1   d&,c|
+x      //a
+x  +d
+x  d!/c|
+x  c!/a|
+x  a!/ d
+x  a--c//a
+2   d&,
+3  a{
+x   d}
+b
+1  a
+x     a
+x   d
+x  a
+x    c|
+0.  a_E
+b
+.
+b
+Q
+e
+

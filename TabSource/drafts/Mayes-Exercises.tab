@@ -1,0 +1,1430 @@
+-p
+
+{Exercises/Joseph Mayes}
+
+b
+1!  dTC
+x  c
+x  d
+x  f
+x c
+x  f
+x c
+x d
+x f
+x d
+x f
+xc
+xe
+x f
+xc
+xe
+xf
+xe
+xc
+x f
+x d
+x c
+x  f
+x  d
+x  c
+x  d
+x  f
+x  c
+x  d
+x  c
+x   e
+x   c
+x    f
+x    e
+x    c
+x     f
+x     e
+x     f
+x    c
+x     e
+b
+
+% line 2
+
+b
+1!     f
+x     e
+x     f
+x    c
+x    e
+x    c
+x    e
+x    f
+x   c
+x    f
+x   c
+x   e
+x  c
+x   c
+x   e
+x  c
+x  d
+x  c
+x  d
+x  f
+x c
+x  f
+x c
+x d
+x f
+x d
+x f
+xc
+xe
+x f
+xc
+xe
+xf
+bQ
+x dTtransition
+x f
+xc
+xd
+x c
+x d
+x f
+xc
+b
+
+% line 3
+
+b
+1!  f
+x e
+x d
+x f
+x  d
+x  f
+x cTF
+x \2d
+x \1c
+x \2d
+x \4f
+x \4h
+x \2f
+x \1h
+x \2i
+x \4l
+x i
+x l
+xh
+xk
+x l
+xh
+xk
+xl
+xk
+xh
+x l
+x i
+x h
+x  l
+x  i
+x  h
+x  i
+x  l
+x  h
+x  i
+x  h
+x  i
+x  l
+b
+
+% line 4
+
+b
+1! h
+x  l
+x h
+x i
+x l
+x i
+x l
+xh
+xk
+x l
+xh
+xk
+xl
+xk
+xh
+x l
+x i
+x \1h
+x \1f
+x  i
+x  h
+x  i
+x f
+x  h
+x  i
+x  h
+x  f
+x   \4h
+x   \2f
+x   \1e
+x    h
+x    f
+x    e
+x    f
+x    h
+x    e
+b
+
+% line 5
+
+b
+1!    f
+x    e
+x    f
+x    h
+x   e
+x    h
+x   e
+x   f
+x   h
+x   f
+x   h
+x  \1f
+x  \4h
+x   \3h
+x  f
+x  h
+x  i
+bQ
+x   \1fTtransition
+x   \3h
+x  \1f
+x  \3g
+x   \1e
+x   \2f
+x   \4h
+x  \2f
+x    \4h
+x   \2e
+x   \4f
+x   h
+x    \2f
+x    \4h
+x   \1e
+x   \3fTBb
+x   e
+x   f
+x  d
+x  f
+x  d
+x  f
+x  g
+b
+
+% line 6
+
+b
+1! d
+x  g
+x d
+x \4f
+x\1c
+x \2d
+x f
+xc
+xd
+xc
+x \4f
+x \1d
+x  \4g
+x  f
+x  d
+x   \4f
+x   e
+x   f
+x  d
+x   e
+x   f
+x   e
+x   c
+x    f
+x    d
+x    c
+x     f
+x     d
+x     c
+x     d
+x     f
+x     c
+x     d
+x     c
+x     d
+x     f
+x    c
+x     f
+x    c
+x    d
+b
+
+
+% page 2
+
+b
+1!    f
+x    d
+x    f
+x   c
+x   e
+x    f
+x   c
+x   e
+x   f
+x   e
+x   f
+x  \1d
+x  f
+x  d
+x  f
+x  g
+x d
+x  g
+x d
+x \4f
+x\1c
+x d
+x f
+x\1c
+x\1d
+bQ
+x  gTtransition
+x d
+x f
+x g
+x  f
+x  g
+x d
+x f
+x  d
+x  f
+x  g
+x d
+x   f
+x  d
+x  f
+b
+
+
+% line 2
+
+b
+1!  \2gTEb
+x  f
+x  g
+x  i
+x f
+x  i
+x f
+x g
+x i
+x g
+x i
+xf
+xh
+x i
+xf
+xh
+xi
+xh
+xf
+x i
+x g
+x f
+x  i
+x  g
+x  f
+x  g
+x  i
+x  f
+x  g
+x  f
+x   h
+x   f
+x    i
+x    h
+x    f
+x     i
+x     h
+x     i
+x    f
+x     h
+x     i
+x     h
+x     i
+x    f
+b
+
+%line 3 page 2
+
+b
+1!    h
+x    f
+x    h
+x    i
+x   f
+x    i
+x   f
+x   h
+x  f
+x   f
+x   h
+x  f
+x  g
+x  f
+x  g
+x  i
+x f
+x  i
+x f
+x g
+x i
+x g
+x i
+xf
+xh
+x i
+xf
+xh
+xi
+xh
+xf
+x i
+x g
+x \1f
+x \1d
+x  g
+x  f
+x  g
+x d
+x  f
+b
+
+% line 4
+
+b
+1!  g
+x  f
+x  d
+x   \4f
+x   d
+x   c
+x    f
+x    d
+x    c
+x    d
+x    f
+x    c
+x    d
+x    c
+x    d
+x    f
+x   c
+x    f
+x   c
+x   d
+x   f
+x   d
+x   f
+x  d
+x  \4f
+bQTtransition
+x   \3f
+x  d
+x  f
+x   f
+x  d
+x  f
+x  g
+x   d
+x   f
+x  d
+x  \3e
+x   c
+x   d
+x   f
+x  d
+b
+
+% line 5
+
+b
+1!    f
+x   c
+x   d
+x   f
+x    d
+x    f
+x   cTAb
+x   \3d
+x   c
+x   d
+x  b
+x  d
+x  b
+x  d
+x  e
+x b
+x  e
+x b
+x d
+xa
+x b
+x d
+xa
+xb
+xa
+x d
+x b
+x  e
+x  d
+x  b
+x   d
+x   c
+x   d
+x  b
+x   c
+b
+
+% line 6
+
+b
+1!   d
+x   c
+x   a
+x    d
+x    b
+x    a
+x     d
+x     b
+x     a
+x     b
+x     d
+x     a
+x     b
+x    a
+x     b
+x     d
+x    a
+x     d
+x    a
+x    b
+x    d
+x    b
+x    d
+x   a
+x   c
+x    d
+x   a
+x   c
+x   d
+x   c
+x   d
+x  b
+x  d
+x  b
+x  d
+x  e
+b
+
+% page 3
+% line 1
+
+b
+1! b
+x  e
+x b
+x d
+xa
+x b
+x d
+xa
+xb
+bQ
+x  eTtransition
+x b
+x d
+x e
+x  d
+x  e
+x b
+x d
+x  b
+x  d
+x  e
+x b
+x   d
+x  b
+x  d
+x  \2eTC#
+x  d
+x  e
+x  g
+x d
+x  g
+x d
+x e
+x g
+x e
+x g
+xd
+b
+
+% line 2
+
+b
+1!f
+x g
+xd
+xf
+xg
+xf
+xd
+x g
+x e
+x d
+x  g
+x  e
+x  d
+x  e
+x  g
+x  d
+x  e
+x  d
+x   f
+x   d
+x    g
+x    f
+x    d
+x     g
+x     f
+x     g
+x    d
+x     f
+x     g
+x     f
+x     g
+x    d
+x    f
+x    d
+x    g
+x   d
+x    g
+x   d
+x   f
+b
+
+% line 3
+
+b
+1!  d
+x   d
+x   f
+x  d
+x  e
+x  d
+x  e
+x  g
+x d
+x  g
+x d
+x e
+x g
+x e
+x g
+xd
+xf
+x g
+xd
+xf
+xg
+bQ
+x eTtransition
+x g
+xd
+xe
+x d
+x e
+x g
+xf
+x  g
+x d
+x e
+x g
+x  e
+x  g
+x \2d
+x \2eTF#
+x \1d
+x \2e
+x \4g
+b
+
+% line 4
+
+b
+1! \4i
+x \2g
+x \4i
+x \2k
+x m
+x k
+x m
+xi
+xl
+x m
+xi
+xl
+xm
+xl
+xi
+x m
+x k
+x i
+x  m
+x  k
+x  i
+x  k
+x  m
+x  i
+x  k
+x  i
+x  k
+x  m
+x i
+x  m
+x i
+x k
+x m
+x k
+x m
+xi
+xl
+b
+
+% line 5
+
+b
+1! m
+xi
+xl
+xm
+xl
+xi
+x m
+x k
+x \1i
+x \1g
+x  k
+x  i
+x  k
+x g
+x  i
+x  \4k
+x  \3i
+x  \1g
+x   \4i
+x   \2g
+x   \1f
+x    i
+x    g
+x    f
+x    g
+x    i
+x    f
+x    g
+x    d
+x    g
+x    i
+x   f
+x    i
+x   f
+x   g
+x   i
+x   g
+x   i
+x  \1g
+x  \4i
+b
+
+% line 6
+
+b
+1!   \3i
+x  g
+x  h
+x  k
+bQ
+x   gTtransition
+x   i
+x  g
+x  \3h
+x  e
+x   \1f
+x   e
+x   g
+x   i
+x  g
+x    \4i
+x   f
+x   g
+x   i
+x    g
+x    i
+x   f
+x   \3gTB
+x   f
+x   g
+x  e
+x  g
+x  e
+x  g
+x  h
+x e
+x  h
+x \4g
+xd
+x \2e
+x \4g
+xd
+xe
+xd
+x g
+x \1e
+b
+
+% page 4
+% line 1
+
+b
+1!  h
+x  g
+x  e
+x   g
+x   f
+x   g
+x  e
+x   f
+x   \4g
+x   f
+x   d
+x    g
+x    e
+x    d
+x     g
+x     e
+x     d
+x     e
+x     g
+x     d
+x     e
+x     d
+x     e
+x     g
+x    d
+x     g
+x    d
+x    e
+x    g
+x    e
+x    g
+x   d
+x   f
+x    g
+x   d
+x   f
+x   g
+x   f
+x   g
+x  \1e
+b
+
+% line 2
+
+b
+1!  g
+x  e
+x  g
+x  h
+x e
+x  h
+x e
+x g
+xd
+x e
+x \4g
+x\1d
+x\1e
+x  hTtransition
+x e
+x g
+x h
+x  g
+x  h
+x e
+x g
+x  e
+x  g
+x  h
+x e
+x   g
+x  e
+x  g
+x  h
+bQ
+x  \2gTE
+x  h
+x  k
+x g
+x  k
+x g
+x h
+b
+
+% line 3
+
+b
+1! k
+x h
+x k
+xg
+xi
+x k
+xg
+xi
+xk
+xi
+xg
+x k
+x h
+x g
+x  k
+x  h
+x  g
+x  h
+x  k
+x  g
+x  h
+x  g
+x   i
+x   g
+x    k
+x    i
+x    g
+x     k
+x     i
+x     k
+x    g
+x     i
+x     k
+x     i
+x     k
+x    g
+x    i
+x    g
+x    i
+x    k
+x   g
+x    k
+x   g
+x   i
+b
+
+% line 4
+
+b
+1!  g
+x   g
+x   i
+x  g
+x  h
+x  g
+x  h
+x  k
+x g
+x  k
+x g
+x h
+x k
+x h
+x k
+xg
+xi
+x k
+xg
+xi
+xk
+xi
+xg
+x k
+x h
+x \1g
+x \1e
+x  h
+x  g
+x  h
+x e
+x  g
+x  h
+x  g
+x  e
+x   g
+x   e
+x   d
+x    g
+x    e
+b
+
+% line 5
+
+b
+1!    d
+x    e
+x    g
+x    d
+x    e
+x    d
+x    e
+x    g
+x   d
+x    g
+x   d
+x   e
+x   g
+x   e
+x   g
+x  e
+x  g
+x   g
+x  e
+x  g
+x  h
+x   eTtransition
+x   g
+x  \3e
+x  f
+x   d
+x   e
+x   g
+x  e
+x    g
+x   d
+x   e
+x   g
+x    eTA
+x    g
+x   d
+x   \3e
+x   d
+x   e
+x  c
+b
+
+% line 6
+
+b
+1!  e
+x  c
+x  e
+x  f
+x c
+x  f
+x c
+x \4e
+x\1b
+x c
+x e
+xb
+xc
+xb
+x e
+x \1c
+x  \4f
+x  e
+x  c
+x   e
+x   d
+x   e
+x  c
+x   d
+x   \4e
+x   d
+x   b
+x    e
+x    c
+x    b
+x     e
+x     c
+x     b
+x     c
+x     e
+x     b
+x     c
+x     b
+x     c
+x     e
+x    b
+x     e
+x    b
+x    c
+b
+
+% page 5
+% line 1
+
+b
+1!    e
+x    c
+x    e
+x   b
+x   d
+x    e
+x   b
+x   d
+x   e
+x   d
+x   e
+x  \1c
+x  e
+x  c
+x  e
+x  f
+x c
+x  f
+x c
+x \4e
+xb
+x c
+x e
+x-\1b
+x-\1c
+x  fTtransition
+x c
+x e 
+x f
+x  e
+x  f
+x c
+x e
+x  c
+x  e
+x  f
+x c
+x   e
+x  c
+x  e
+b
+
+% line 2 page 5
+
+b
+1!  \2fTD
+x  e
+x  f
+x  h
+x e
+x  h
+x e
+x f
+x h
+x f
+x h
+xe
+xg
+x h
+xe
+xg
+xh
+xg
+xe
+x h
+x f
+x e
+x  h
+x  f
+x  e
+x  f
+x  h
+x  e
+x  f
+x  e
+x   g
+x   e
+x    h
+x    g
+x    e
+x     h
+x     g
+x     h
+x    e
+x     g
+b
+
+% line 3
+
+b
+1!     h
+x     g
+x     h
+x    e
+x    g
+x    e
+x    g
+x    h
+x   e
+x    h
+x   e
+x   g
+x  e
+x   e
+x   g
+x  e
+x  f
+x  e
+x  h
+x e
+x  h
+x e
+x f
+x h
+x f
+x h
+xe
+xg
+x h
+xe
+xg
+xh
+bQ
+x fTtransition
+x h
+xe
+xf
+x e
+x f
+x h
+xe
+b
+
+% line 4
+
+b
+1Q  h
+x e
+x f
+x h
+x  f
+x  h
+x e
+x fTG
+x e
+x f
+x \4h
+x \4k
+x h
+x k
+x \2l
+x n
+x l
+x n
+xk
+xm
+x n
+xl
+xm
+xn
+xm
+xk
+x n
+x l
+x k
+x  n
+x  l
+x  k
+x  l
+x  n
+x  k
+b
+
+% line 5
+
+b
+1!  l
+x  k
+x  l
+x  n
+x k
+x n
+x k
+x l
+x n
+x l
+x n
+xk
+xi
+xn
+x n
+xk
+xm
+xn
+xm
+xk
+x n
+x l
+x \1k
+x \1h
+x  l
+x  k
+x  l
+x h
+x  k
+x  l
+x  k
+x  h
+x   \4k
+x   h
+x   \1g
+b
+
+% line 6
+
+b
+1!   \1e
+x    \4h
+x    \3g
+x    \4h
+x   \1e
+x    g
+x    \4h
+x    \3g
+x    \1e
+x    \1c
+x     \4f
+x     \3e
+x     \1c
+x     a
+x      \1b
+x     a
+x     c
+x      b
+x     a
+x      b
+x     a
+x     c
+x     e
+x     c
+x     e
+x     f
+x    c
+x     f
+x    c
+x    e
+x   b
+x    c
+x    e
+x   b
+b
+
+% page 6  last page
+% line 1
+
+b
+1!   c
+x   b
+x   c
+x   e
+x  c
+x   e
+x  c
+x  d
+x  f
+x  d
+x  f
+x c
+x e
+x  f
+x c
+x e
+x f
+x  dTtransition
+x  f
+x c
+x d
+x  c
+x  d
+x  f
+x c
+x   e
+x  c
+x  d
+x  f
+x   c
+x   e
+x  c
+b
+
+% line 2
+
+b
+1!  dTC
+x  c
+x  d
+x  f
+x c
+x  f
+x c
+x d
+x f
+x d
+x f
+xc
+xe
+x f
+xc
+xe
+xf
+x f
+xc
+x d
+x f
+x c
+x d
+x  f
+x c
+x  d
+x  f
+x  c
+x  d
+x   c
+x   e
+x    f
+x   c
+x    e
+x    f
+x    c
+b
+
+% line 3 last line
+
+-l "1.4 in"
+
+b
+1!    e
+x     f
+x    c
+x     e
+x     f
+b
+Q
+e
+

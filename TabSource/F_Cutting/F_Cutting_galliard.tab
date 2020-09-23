@@ -1,0 +1,432 @@
+
+{Galliard}
+{Francis Cutting/Selected Works for Lute, Oxford University Press p.20}
+-D
+% bar 1
+b
+S3
+2.aa-c
+3c
+#2d
+x   c
+#2da-b
+xc
+% bar 2
+b
+2.a- c{
+3  a}
+#2  b
+x   c
+#2  de{
+x e }
+% bar 3
+b
+#2da-c
+x c
+#2cd-a
+x a
+#2aa- e{
+x  e}
+% bar 4
+b
+2. df c
+3    e
+#2   a
+x    c
+#2a b d{
+x  d}
+% bar 5
+b
+2. ab-c&{
+3 c
+#2 d }
+x    c
+#2 b- a
+x  a
+% bar 6
+b
+2. ab- d
+3    a
+#2    c
+x     d
+#2ab- a
+xc
+% bar 7
+b
+2.da-  a
+3     c
+#2aa-  d
+x    a
+#2aa- c
+x e
+b
+
+% bar 8
+b
+#2     a
+xaac
+#2   c
+x  d
+1aac- a
+% bar 9
+.bb.
+#3a- c%{
+x d
+xa
+xc }
+#2d
+xa
+#2da b{
+xc }
+% bar 10
+b
+#3a- c
+x   b
+x   c
+x  a
+#2  b
+x   c
+#2  de{
+x e}
+% bar 11
+b
+2da-c{
+#3 a
+x c}
+#2cd-a
+x a
+#2aa- e
+x  e
+% bar 12
+b
+2. df-c
+3    e
+#2   a
+x    c
+#2a b-d
+x  d
+% bar 13
+b
+#3 a- c{
+x  d
+x a
+x c}
+#2 d
+x    c
+#2 b- a
+x  a
+b
+
+% bar 14
+b
+#3 ab- d
+x  a
+x  b
+x    a
+#2    c
+x     d
+#2ab- a
+xc
+% bar 15
+b
+2da-  a
+#3     a
+x     c
+#2aa-  d
+x    a
+#2aa- c
+x e
+% bar 16
+b
+#2     a
+xaac
+#3   c
+x  d
+x  c
+x  a
+1aac- a
+% bar 17
+.bb.
+1 da-c
+#2 da
+x c- a
+#2 a-  d
+x  d- c
+% bar 18
+b
+#2  b- a
+x   c
+#2 ab
+x   a
+#2a-  e
+x d- c
+% bar 19
+b
+#2 c- a
+x  d
+#2ac
+x  b
+#2f- e
+xd- c
+b
+
+% bar 20
+b
+#2c- a
+x d
+#2c
+xac
+#2 df
+x cd
+% bar 21
+b
+#2 d-f
+x  f
+#2 d{
+x  de}
+#2 abc{
+x c}
+% bar 22
+b
+#2 daa
+xc
+#2 ab{
+xa}
+#2  de{
+x e}
+% bar 23
+b
+#2aa-c{
+xd}
+#2   b{
+xc}
+#2aabc
+x     a
+% bar 24
+b
+#2    c
+xcaa
+#2   b
+x    c
+1caabc
+% bar 25
+.bb.
+2 da-c
+#3 a
+x c
+#2 d
+x c- a
+#2 a-  d
+x  d- c
+% bar 26
+b
+#3  b- a
+x  a
+x  b
+x  d
+#2 ab
+x   a
+#2a-  e
+x d- c
+b
+
+% bar 27
+b
+#3 c- a
+x a
+x c
+x d
+#2ac
+x  b
+#2f- e
+xd- c
+% bar 28
+b
+#3c- a
+xa
+xc
+xd
+#2c
+xac
+#2 df
+x cd
+% bar 29
+b
+2 d-f
+#3  f
+x d
+#2 d
+x  de
+#2 abc
+x c
+% bar 30
+b
+#2 daa
+xc
+#2 ab{
+xa}
+#3   e&{
+xa
+2 e}
+% bar 31
+b
+#2aa-c{
+xd }
+#2   b{
+xca}
+#2aab- a
+x   c
+% bar 32
+b
+2 ea-c{
+#3 a
+x c
+#3 e
+xa
+xc
+xd
+1c }
+.bb
+
+% bar 33
+bb.
+1a-d-d
+#2 d- c
+x  b
+#2 b- a
+x  a
+% bar 34
+b
+#2 a-  d
+x   c
+#2  d- c
+x   b
+#2     a
+xda-c
+% bar 35
+b
+#2c- a
+x a
+#2a-  d
+x  d
+#2 d- c
+x  b
+% bar 36
+b
+#2  dff
+x   \1e
+#2   \2f{
+x\4h }
+#2\3f  \1e{
+x \2e }
+% bar 37
+b
+#2d- c{
+x c}
+#2c- a
+x a
+#2a-  e{
+x  e}
+% bar 38
+b
+#2 e&{a-c
+x   }a
+#2     d{
+x d  }
+#2 bd-a
+x ab
+% bar 39
+b
+#2  a-d{
+x   c}
+#2 a-bc{
+x   c
+#2  d }
+x   b
+b
+
+% bar 40
+b
+#2     a
+x ac
+#2   c
+x  d
+1aac- a
+% bar 41
+.bb.
+2a d-d{
+#3  b
+x  d}
+#2 d- c{
+x  b}
+#2 b- a
+x  a
+% bar 42
+b
+2 a-  d{
+#3   c
+x a  }
+#2  d- c{
+x   b}
+#2     a
+xda-c
+% bar 43
+b
+2c- a
+#3 a
+xc
+#2a-  d{
+x  d }
+#2 d- c{
+x  b }
+% bar 44
+b
+2  dff
+#3   e
+x   f
+#2   f{
+xh  }
+#2f  e{
+x e }
+% bar 45
+b
+#2d- c{
+x c }
+#2c- a
+x a
+#2a-  e{
+x  e}
+b
+
+% bar 46
+b
+#2 e&{a-c
+x  } a
+#2     d{
+x d }
+#2 bd-a
+x ab
+% bar 47
+b
+#2  a-d{
+x   c}
+#2 a-bc{
+x   c}
+#3    c
+x  a
+x   b
+x  d
+% bar 48
+b
+#2     a
+x ac
+#3   c
+x  d
+x  c
+x  a
+1 acc-a
+% end
+Y.bb
+Q
+e
+

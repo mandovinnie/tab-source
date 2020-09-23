@@ -1,0 +1,556 @@
+-R9
+{O Passi Sparsi - II / Albert de Rippe}
+
+%-l "7.0 in"
+
+
+% ligne 1
+bb
+0 abc a
+b
+2 abc a
+x     c
+x     d
+x    a
+b
+x da c
+x    e
+x daa
+x    c
+b
+x    d
+xa b
+xda
+x     d
+b
+x   a
+xc d
+xaab
+x   c
+b
+x    c
+x cb
+x ea
+xa  c
+b
+x ea c
+xa    d
+3    a
+x c
+2 ea c
+b
+x     a
+xaab
+x   c
+x     a
+b
+xaab  a
+x ea c
+xa b
+xc d c
+b
+
+% ligne 2
+b
+2da
+x   c
+xda
+xdc c
+b
+xcd a
+x a  c
+xaa  d
+x  dc
+b
+x da c
+x    a
+x    c
+x    e
+b
+x baa
+x a
+x bbc
+x aa
+b
+xa  cd
+3  d
+x  b
+x  dcd
+x  a
+x  b
+x  d
+b
+2 aab
+x    c
+x aab
+x   c
+b
+x aabc
+x ea c
+xa b
+xc d
+b
+xda
+3   c
+x  a
+x  b
+x  d
+xda c
+x c
+b
+2cd a
+x a  c
+xaa  d
+x  dc
+b
+
+% ligne 3
+b
+x da c
+x    a
+x    c
+x d  e
+b
+x baa
+x a
+x bbc
+x a
+b
+x  d d
+x  b
+x a cd
+x  d
+b
+x aabc
+x  bc a
+x aa c
+x   b
+b
+x   c
+x     a
+x ab
+x   c
+b
+x aabc
+x   c d
+x aa a
+x   bc
+b
+x ab  d
+x     c
+x a   d
+x    a
+b
+x aaac
+x   ce
+x  aa
+x  c c
+b
+x cdca
+x e
+xa d a
+x  b
+b
+xaaa c
+x   c
+x ea c
+xa
+b
+x     a
+xaab
+x   c
+x     a
+b
+1aab  a
+x     a
+bb
+
+% ligne 4
+b
+1hd f d
+2   f
+xh
+b
+1hd f d
+xfd ef
+b
+2dabc
+x  d
+x a
+xdc c
+b
+xcd a
+x a
+xaa  d
+x  dc
+b
+1 daac
+x db  d
+b
+x bdca
+2 ab c
+x  a
+b
+2 a cd
+3  d
+x  b
+xa d
+x  a
+x  b
+x  d
+b
+2 aa\1b\2c
+x  b\3c
+x aacc
+x   b
+b
+
+%ligne 5
+b
+2   c
+x     a
+x ab
+x   c
+b
+1 da c
+x db  d
+b
+x bdca
+2b
+xa
+b
+x d  a
+x b
+x a  a
+x  d
+b
+x ac
+x   c
+x     a
+x acc
+b
+xabd
+x    a
+xabd
+x  b
+b
+x ea
+x    c
+1a  cd
+b
+2aaa c
+3 e
+x c
+x e
+x a
+x c  c
+x e
+b
+1a b d
+xa d a
+b
+2  aac
+x d
+x db  d
+x  a
+b
+
+%ligne 6
+b
+2 d ca
+x   a
+1 c ca
+b
+2 ddef
+x   f
+x dd
+x   e
+b
+x   \3f
+x     d
+x df
+x   f
+b
+xabb d
+x d
+xab
+x a
+b
+xcdd
+x   a
+xd  c
+x cb
+b
+x dda
+3c
+xa
+i
+2ddda
+xc
+b
+x\1d
+x     d
+xddf
+x     d
+b
+1ddf  d
+xcdda
+b
+1.cdda
+2cdda
+b
+xc da
+x d
+xa ba
+xc d
+b
+
+% ligne 7
+b
+2da c
+x     a
+xda c
+xc d  c
+b
+xa    d
+xd
+xc   a
+xa
+b
+x ea c
+3 c
+x a
+x  d
+x  b
+x  a
+x   c
+b
+2 aab
+x    c
+x ea c
+x c
+b
+x ea c
+x a
+x ca c
+x e
+b
+xa bc
+xc d
+xda
+xac
+b
+xcd
+x  d e
+x   a
+xd  c
+b
+1cdda
+xcdda
+b
+2ab c
+x a
+1 a a
+b
+2aa cd
+3  d
+x  b
+2aa  d
+x  d
+b
+
+%ligne 8
+b
+2 ea c
+x    a
+x    c
+x    d
+b
+x ea c
+x    a
+x     d
+x     c
+b
+x     \2d
+x\3da a 
+x     a
+x     c
+b
+xda a d
+x    a
+xda  c
+x    e
+b
+xc da
+x    c
+xc d e
+x   a
+b
+xaabc
+x  d
+xaabc
+x c
+b
+x ea c
+x    a
+x    c
+x    d
+b
+x ea c
+x     d
+x    a
+x    c
+b
+x    d
+xabb
+xa d a
+x  b
+b
+xaaa c
+x   c
+x ea c
+xa
+b
+
+%ligne 9
+b
+2     a
+xaab
+x   c
+x     a
+b
+xabb d
+x a
+x b
+x d
+b
+xabb d
+xd
+xc   d
+xa
+b
+1 dda
+2 db
+x   c
+b
+x  aa
+x db
+x dba
+x ba
+b
+x aba
+x     d
+x d
+x  bcc
+b
+x b ca
+x  a
+1 aba d
+b
+2 dda
+3 b
+x a
+x  d
+x  b
+x  a
+x   c
+b
+
+% ligne 10
+b
+x   a
+x   c
+x   d
+x   c
+x   a
+x    d
+x    c
+x    a
+b
+2     d
+x ab
+x   a
+x     d
+b
+1ha a d
+2     a
+x     c
+b
+2ha a d
+x    a
+x    c
+x    e
+b
+1fdaa
+xfdaa
+b
+2dabc
+x  d
+xdabc
+x c
+b
+xcd
+x  d
+x   a
+xd
+b
+xcdda
+3 c
+x a
+x  d
+x  b
+x  a
+x   c
+b
+Ycdda
+b
+
+%ligne 11
+b
+1
+xda c a
+b
+2da c a
+xc
+xa   cd
+x    a
+b
+xaaa c
+x     d
+x e  a
+x    c
+b
+x     a
+xaac
+x   c
+x  d
+b
+xaa   a
+x  c
+xa d  a
+x a
+b
+xab c
+x    a
+xaa c
+x     e
+b
+x    a
+xa d
+x  c
+x   c
+b
+xa \4d a
+x    c
+xa c d
+x  aa
+b
+xaac 
+x   c
+x     a
+x  d
+b
+Yaaccca
+bb
+
+e

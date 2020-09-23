@@ -1,0 +1,530 @@
+-t
+-f
+{051_Recercare de Francesco/}
+b
+0  a
+b
+1   a
+x   c
+b
+0  a c
+b
+1  b  d
+x    a
+b
+x  a c
+x a a
+b
+x  bcd
+x  d
+b
+x aa c
+xc  a
+b
+x da c
+xa  c d
+b
+xc    c
+x  b
+b
+x a c a
+xa
+b
+2    c
+x c
+x ef
+x    c
+b
+xa   d
+x  b
+x  de
+x   c
+b
+
+b
+x a bc
+x   c
+x ea
+x    c
+b
+xab  a
+x  a
+x   c
+x     d
+b
+1c d  c
+x   b
+b
+2da c a
+x  d
+x a
+x b
+b
+1cd ac
+xa dcd
+b
+x a  c
+x dff d
+b
+2 bdca
+x a
+x aba
+x    c
+b
+x   cd
+x  b
+1  dca
+b
+x aaac
+2ca a
+x    a
+b
+xd    d
+x     c
+x   c a
+xda
+b
+
+b
+2cd ac
+xa
+xa d d
+x   c
+b
+xaaa c
+3 e
+x c
+2 e
+xa
+b
+1a  c a
+2  b
+x  d
+b
+x a
+x b
+x d a
+x   c
+b
+x  de
+x ab
+x bd
+x d
+b
+xa  c
+x  a
+x  b
+x  d
+b
+1 df
+2     d
+x bd a
+b
+xa b c
+x    d
+1  def
+b
+2 b ca
+x    c
+x d  d
+x   a
+b
+
+b
+1 a c
+2  b
+x b
+b
+1 daa
+xa  cd
+b
+x   ec
+x df
+b
+x b
+x  d
+b
+x ab
+2   c
+x  d
+b
+x a c
+x b
+1 daa
+b
+x abc
+x b
+b
+2  aa
+x a
+1 ab c
+b
+2a  cd
+3  d
+x  b
+2  d
+x a
+b
+x    c
+x c
+x df
+xa
+b
+xc d
+xd
+1f
+b
+
+b
+xda
+2c
+x  d
+b
+x  b
+xa
+1a d
+b
+2  a c
+x d
+x d c
+x   a
+b
+x   ca
+x d
+1 c
+b
+2 d ac
+x    a
+x    c
+x   ce
+b
+x  def
+x   f
+x  d
+x   e
+b
+x ab  d
+x b  a
+x d  c
+xa   e
+b
+xc da
+xd
+xfd
+xc
+b
+1dabc
+xabd a
+b
+xaaa c
+x e
+b
+
+b
+xa c  a
+2 a
+x  a
+b
+x  b
+x bd
+x df
+xab
+b
+xcd
+xda
+xfb
+xc
+b
+1da   a
+2    c
+x     c
+b
+x    cd
+x    df
+x   ac
+x   cd
+b
+x   e
+x  b c
+x  d d
+x  a
+b
+1  b c
+2 aa
+x   c
+b
+x   ac
+x b
+x d  cd
+xa
+b
+xc   ac
+xd
+xf
+xc
+b
+
+b
+1d   ca
+2   c
+x  a
+b
+xd b
+x  d
+xca
+x b
+b
+x d
+x a
+1ab
+b
+xda
+2 d  c
+xab  d
+b
+xc  a
+x   c
+x ba
+x ab
+b
+xabd
+x  a
+1 dff d
+b
+2d
+x   ea
+x a ac
+x   cd
+b
+2c aa
+x  b
+xabd a
+x  b
+b
+xaaa c
+x   c
+1 ea c
+b
+
+b
+2a  c a
+xc
+xd
+xc
+b
+xa  c
+xc
+xd
+xc
+b
+xa  c
+x  d
+x bd a
+x a
+b
+x b  a
+x    c
+x  d d
+x   a
+b
+x  bc
+x  d
+xda
+x   a
+b
+x d  c
+x  d d
+xc aa
+x b
+b
+x abc
+xa
+1abd a
+b
+xaaa c
+x db  d
+b
+xa dca
+x dbac
+b
+2  bcd
+x a
+x  de
+x   c
+b
+
+b
+x a bc
+x    e
+x   c
+x   b
+b
+1  bc a
+x a
+b
+x a
+x b c
+b
+xa  c
+2   c
+x d
+b
+1 bd
+2 a
+x  b
+b
+1  de
+x a c
+b
+x b
+x d a
+b
+x a c
+2d
+x  a
+b
+x  b
+x  d
+1ca  c
+b
+x d  c
+xa d d
+b
+xc  a
+xd bc
+b
+2   cd
+xd
+xc
+xa
+b
+
+b
+1 d ec
+2  f
+xa
+b
+xca
+xd
+1ca
+b
+x  d
+2a
+x a
+b
+x b
+xc
+xda
+x  d
+b
+x  b
+xd
+xc d
+xa
+b
+1 df
+2   ac
+x  d
+b
+x  bac
+x  a
+1  bac
+b
+x  a df
+xa  ccd
+b
+xc    c
+xc  b
+b
+xd  cca
+x a
+b
+xab
+xfb
+b
+
+b
+2  d
+xd
+xcd
+xab
+b
+x df
+x  d
+xd b
+x a
+b
+xc d
+x  b
+xa a
+x   c
+b
+x  a
+xa
+1 ef c
+b
+xa bcd
+x  d
+b
+x aaa
+2 bbc
+x   a
+b
+x  bc
+x a
+1 ddef
+b
+xa   d
+2  dc
+xc
+b
+1da  c
+xc  b
+b
+2  bc
+xa
+1abd a
+b
+
+b
+2  fec
+x d
+x d f d
+x   e
+b
+x  dca
+x   a
+x c c
+x  b
+b
+1 daac
+x aba d
+b
+x   cdf
+2  d
+x   e
+b
+1 ab ca
+xa
+b
+2  bc a
+xc
+xd
+x  a
+b
+x  b
+xc
+xa    a
+x e
+b
+xa b
+x     c
+x     d
+x    a
+b
+0 ea c
+b
+b
+b
+
+e

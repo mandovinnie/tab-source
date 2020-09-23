@@ -1,0 +1,110 @@
+
+
+-b
+$tempo=2
+$midi-patch=32
+
+
+{Sar/Panmure 4 10}
+
+b
+0 aaaa ///a
+x aaa
+x aaa
+b
+0.  d&, - //a
+1  b
+0  a - /a
+b
+0  aad
+0.    c&,
+1  caa
+b
+0  dccd
+x   c
+x  a
+b
+0  b - a
+0.  b&,ca
+1  a
+b
+
+% line 2
+
+0  aaa ///a
+1    a
+x a
+x     d
+x  a
+b
+1     b
+x    a
+x   a
+x   c
+x   c&,
+2   a
+x   c
+b
+0  a
+w     a
+b
+.
+b
+0 c   a
+0. cee
+1 c
+b
+
+% line 3
+
+0ac  a
+0. a
+1     d
+b
+1c -  c
+x a
+xc
+x d
+1. c&,
+2 a
+b
+0. c&, c d
+1  d
+0     b&,
+b
+0 d a a
+0.c --  a
+1      //a
+b
+0.edd   /a
+1c
+xa&,  -  a
+x c
+b
+
+% line 4
+
+0a
+0. c&, - a
+2 a
+x  e
+b
+0 af a
+w      ///a
+b
+.
+b
+T-Bouvier
+b!
+w!
+W!
+b!
+W!
+W!
+b!
+W!
+W!
+e
+
+
+

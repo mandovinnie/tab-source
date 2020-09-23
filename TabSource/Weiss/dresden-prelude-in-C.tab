@@ -1,0 +1,270 @@
+-R9
+-b
+-e
+{Prelude in C/Weiss, Dresden ms.}
+
+i
+T-Prelude
+SC
+1      4
+x-\4h
+xg
+x \3h
+x f
+x-\4h
+x  h
+x f
+x      4
+x  \2d
+x  \1cU
+x  aX
+x   \2c
+x  \4d
+x    c
+x   c
+
+
+1!      4
+xc
+x c
+x  d
+xeU
+xcX
+x dU
+x cX
+x      ///a
+x c
+xa
+x  a
+x a
+xa
+x  d
+xa
+x      a
+x  \1c
+x a
+xa
+i
+
+% line 2
+
+i
+1-\2cU
+xaX
+x \2cU
+x aX
+x      4
+x \2c
+x   \1c
+x c
+x     d
+x \2c
+xa
+x c
+x     \1c
+x a
+x   c
+x a
+x      a
+x a
+x \2cU
+x aX
+x     a
+x  d
+x   \2eU
+x   c
+x    e
+x a
+xe
+x  d
+
+1!      a
+x  c
+x   e
+x  c
+x   c
+x a
+x  dU
+x  cX
+x      ///a
+x  a
+x   c
+x  a
+x    e
+x  a
+x   c
+x  a
+i
+
+% line 3
+%p
+
+i
+1      4
+x  a
+x   b
+x  a
+x    a-
+x a
+x   b
+x a
+x     c
+x a
+x   c
+x a
+x      a
+x \3c
+x  \2c
+x a
+x     a
+x  \4d
+x   \3c
+x  a
+
+p
+
+1!   \1b
+1!  a
+x a
+x  d
+x      a
+x  \2c
+x   \1c
+x      /a
+x      //a
+xc
+x  d
+x c
+x      ///a
+xa
+x a
+x  d
+x      a
+x  c
+xcU
+xaX
+
+
+% line 4
+
+
+i
+1      4
+x cU
+x aX
+x  d
+x      ///a
+xa
+x cU
+x aX
+x      //a
+xcU
+xaX
+x c
+x      /a
+x-\4e
+xcU
+xaX
+x      a
+x-\2g
+x \4hU
+x fX
+
+1!\2h
+x  \4h
+x  \1f
+x\2g
+x   \3h
+x \4h
+x   g
+x f
+x  a
+xa
+x   c
+x c
+x   a
+x a
+x    c
+x  d
+x    a
+xa
+i
+
+
+% line 5
+%p
+
+i
+1     \3d
+x \2c
+x     \1c
+x a
+x     a
+x  d
+xb
+x  d
+x a
+xb
+0-\2ca\1c   a
+xaac   a
+x \2c\3d\1c  a
+x bdc  a
+x bdb  a
+x adb  a
+x a\2ca  a
+x  dcc a
+
+
+1      a
+x    a
+x   a
+x  \4d
+x   \1c
+x  \2c
+x    d
+x  c
+x      4
+x  d
+x    c
+x   c
+x   a
+x  a
+x    a
+x   a
+i
+
+%p
+
+% line 6
+
+-l "8.0 in"
+
+i
+1     \1c
+x    \2c
+x      4
+x      ///a
+x      //a
+x   \2c
+x  d
+x      /a
+x      a
+x- \1c
+x-\2c
+x-  \4d
+0   \1c
+x  \2c&, U
+w  \4d\1cX 4
+.
+b
+b
+.
+Y
+e
+
+
+
+
+
+
+

@@ -1,0 +1,190 @@
+
+%-l "8.45 in"
+%-R8
+{Progresse/Anon.}
+bb.
+%1
+i
+#2cdda
+xd
+1fdde
+1ddff
+1acd
+b
+%2
+2cdda
+#3 a
+x c
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+#2 d
+x   a
+1  d
+b
+%3
+#2 cdca
+x d
+1a dce
+1 dfa
+1 acc
+b
+%4
+2 cdca
+#3  a
+x  c
+#3  d
+x  c
+#4  d
+x  c
+x  a
+x  c
+#2  d
+x    a
+#2   c
+x     d
+b
+
+%line 2
+b
+%5
+#2cdd  c
+xd
+1fd
+1da c d
+1acd a
+b
+%6
+#2cdda
+xd
+1fdde
+1ddff
+1c da
+b
+%7
+#2aa c d
+x    a
+#3 db c
+x  a
+x   c
+x   a
+2ad ca
+#3 c
+x a
+#3 d
+x c
+#4 d
+x c
+x a
+x c
+b
+%8
+2 ddef
+#3   a
+x  d
+#3 d
+x  b
+x  #a
+x   c
+#2 d
+x   a
+1  d
+.bb
+
+%line 3
+bb.
+%9
+i
+#2 cdca
+x d
+1a dce
+1ca a
+#2ec c
+x a
+b
+%10
+1fdde
+#2df f
+xcd
+1acd
+1fdde
+b
+%11
+1hf f
+1fh h
+#2  f
+xf
+#2 d
+xe
+b
+%12
+2fc ca
+#3c
+xe
+#4f
+xe
+xf
+xe
+#4f
+xe
+xc
+xe
+1f
+1i
+b
+
+%line 4
+b
+%13
+1hf f
+1fh h
+1dfg
+1cdda
+b
+%14
+2acd a
+#3 a
+x c
+#3 d
+xa
+xc
+xd
+#2f
+x     c
+#2 d
+xf
+b
+%15
+1da c d
+#2 db c
+x  a
+2ad ca
+#3 c
+x a
+#4 d
+x c
+x d
+x c
+#4 d
+x c
+x a
+x c
+b
+%16
+2 d
+#3   a
+x  d
+#3 d
+x  b
+x  #a
+x   c
+#2 d
+x   a
+1  d
+.bb
+Q
+e
+

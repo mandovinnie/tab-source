@@ -1,0 +1,796 @@
+$pstitlefont=pzcmi
+$psalttitlefont=ptmr
+$titlesize=18
+$flagstyle=standard
+$charstyle=robinson
+-highlightparen
+-R9
+-c
+-p
+
+F2
+{\CL/The Grizzly Bear}
+{\CL/(or Doing That Grizzly Bear)}
+F3
+{George Botsford (1910)/Lute 1}
+{Lute arrrangement: Robert White/Tuning = GDAFCG}
+
+b
+2f
+xe
+xf
+1ace
+2 e
+1ace
+b
+2ced
+xb
+xc
+1 ad
+2
+1  d
+b
+x ac
+x  a
+x d c
+x  c
+b
+x  dca
+x     a
+x     c
+x     e
+b
+
+%line 2
+
+B
+b
+.
+1    a
+xacd
+x     a
+xacd
+b
+x    c
+x dc
+2     a
+x d
+x c
+x a
+b
+2 d
+1c
+xc c
+2
+1 dc
+b
+1    a
+x cd
+x     a
+x cd
+b
+2 b
+x c
+xc
+x b
+x c
+xc
+x c
+x b
+b
+
+%line 3
+
+b
+2 a
+1e
+xeff
+2
+1
+b
+x    e
+x fee
+x    c
+x ede
+b
+2     a
+x     c
+x     e
+x     a
+0
+b
+2 b
+x c
+xc
+x b
+x c
+xc
+x b
+x c
+b
+2 d
+1c
+xc c
+2
+1 dc
+b
+x    c
+x dc
+2     a
+x d
+x c
+x a
+b
+x c
+1c
+xc d
+2
+1
+b
+
+%line 4
+
+b
+1acd a
+x   f
+x   e
+x   c
+b
+x a b
+x    e
+x    c
+x  d
+b
+x  c
+x  a
+2   c
+x b
+1 cca
+A1
+1  d e
+x     a
+x     c
+x     e
+.
+B
+A2
+1  d e
+1
+0acb a
+B
+b
+.
+1   a
+xcdd
+x    a
+xcdd
+b
+x    c
+x ede
+x   b
+x ad
+b
+
+%line 5
+
+b
+2 acc
+2
+1
+0
+b
+2a
+xc
+xe
+xa
+xc
+xe
+xc
+xb
+b
+1a
+2 e e
+1 f f
+2 e e
+1 f f
+b
+1ccd
+2  d
+x c
+xa
+x d
+x c
+x a
+b
+x  d
+x a
+x d
+x  d
+x a
+x d
+x a
+x  d
+b
+2 dda
+2
+1
+0
+b
+
+%line 6
+
+b
+1c d
+2b c
+1c d
+2b c
+1c d
+b
+xdef
+2  f
+x e
+xc
+x  d
+x e
+xc
+b
+1d    a
+x a
+x   c
+x ab
+b
+1a b
+x a
+xb c
+x d
+b
+2cdda
+2
+1
+2
+2 d
+xa
+xb
+b
+0c
+2
+2 d
+x c
+x a
+b
+
+%line 7
+
+b
+2c
+xb
+xc
+1f
+2c
+1a
+b
+1 dda
+1
+0
+.
+b
+B
+x
+b!
+1    a
+xacd
+x     a
+xacd
+b
+1    c
+x dc
+2     a
+x d
+x c
+x a
+b
+x d
+1c
+xc c
+2
+1 dc
+b
+x    a
+x cd
+x     a
+x cd
+b
+
+%line 8
+
+b
+2 b
+x c
+xc
+x b
+x c
+xc
+x c
+x b
+b
+x a
+1e
+xeff
+2
+1
+b
+x    e
+x fee
+x    c
+x ede
+b
+2     a
+x     c
+x     e
+x     a
+0
+b
+2 b
+x c
+xc
+x b
+x c
+xc
+x b
+x c
+b
+x d
+1c
+xc c
+2
+1 dc
+b
+
+%line 9
+
+b
+1    c
+x dc
+2     a
+x d
+x c
+x a
+b
+x c
+1c
+xc d
+2
+1
+b
+xacd a
+x   f
+x   e
+x   c
+b
+1 a b
+x    e
+x    c
+x  d
+b
+x  c
+x  a
+2   c
+x b
+1 cca
+b
+x  d e
+x     a
+0    a
+b
+B
+Q
+
+p
+
+
+F2
+{\CL/The Grizzly Bear}
+{\CL/(or Doing That Grizzly Bear)}
+F3
+{George Botsford (1910)/Lute 2}
+{Lute arrrangement: Robert White/Tuning = GDAFCG}
+
+
+b
+1acd
+x  b
+x  a
+x   c
+b
+x a b
+x    e
+2    c
+x c
+x d
+x e
+b
+xa
+x e
+xa
+1 ccc
+2 b
+1 ccc
+b
+x  d e
+1
+0
+B
+b
+.
+2 b
+x c
+xc
+x b
+x c
+xc
+x b
+x c
+b
+
+%Line 2
+
+b
+2 d
+1c
+2c c
+1
+1 dc
+b
+x    c
+x dc
+2     a
+x d
+x c
+x a
+b
+x c
+1c
+1.c d
+1
+b
+x    a
+xacd
+x     a
+xacd
+b
+1     a
+xaac
+2    c
+xa
+x e
+x c
+b
+
+%line 3
+
+b
+1cce
+2b
+1ccd
+2  f
+1ee
+b
+2adc
+1.
+2     c
+x     e
+x     c
+x     a
+b
+1    a
+xacd
+x     a
+xacd
+b
+1    c
+x dc
+2     a
+x d
+x c
+x a
+b
+x d
+1c
+2c c
+1
+1 dc
+b
+
+%line 4
+
+b
+1    a
+x cd
+x     a
+x cd   
+b
+2f
+xe
+xf
+1ace
+2 e
+1ace
+b
+2ced
+xb
+xc
+1 ad
+2 c
+x d
+x e
+b
+xa
+x e
+xa
+1 ccc
+2
+1     a
+A1
+1  dca
+1
+0
+.
+b
+B
+
+%line 5
+
+A2
+b!
+1  dca
+2  d
+x a
+x c
+x d
+xa
+xb
+B
+b
+.
+1c d
+2b c
+1c d
+2b c
+1c d
+b
+xdef
+2  f
+x e
+xc
+x  d
+x e
+xc
+b
+x a
+x c
+x d
+x a
+x c
+x d
+x c
+x a
+b
+
+%line 6
+
+b
+2 dc  a
+2
+1
+0
+b
+1    a
+x cd
+x     a
+x cd
+b
+x    a
+x cd
+x     a
+x cd
+b
+2 da   a
+2
+1
+0
+b
+2 d
+xa
+xc
+x d
+xa
+xc
+xa
+x d
+b
+1   a
+xcdd
+x    a
+xcdd
+b
+
+%line 7
+
+b
+1    c
+x ede
+x   b
+x ad
+b
+2a
+x e
+1.aab
+2 e
+1a
+b
+0h
+xg
+b
+2f
+xc
+xd
+xe
+2f
+2
+1
+b
+2
+2 d
+x  f
+x d
+x  d
+2
+1
+b
+
+%line 8
+
+b
+1    a
+xdcd
+x    a
+xdcd
+A1
+1cd a
+2  d
+x a
+x c
+x d
+xa
+xb
+.
+B
+A2
+1cd a
+2  a
+x  b
+x  c
+x  d
+x  e
+x a
+b
+x b
+x c
+xc
+x b
+x c
+xc
+x b
+x c
+b
+x d
+1c
+2c c
+1
+1 dc
+b
+
+%line 9
+
+b
+1    c
+x dc
+2     a
+x d
+x c
+x a
+b
+x c
+1c
+1.c d
+1
+b
+x    a
+xacd
+x     a
+xacd
+b
+x     a
+xaac
+2    c
+xa
+x e
+x c
+b
+1cce
+2b
+1ccd
+2  f
+1ee
+b
+2adc
+1.
+2     c
+x     e
+x     c
+x     a
+b
+
+%line 10
+
+b
+1    a
+xacd
+x     a
+xacd
+b
+x    c
+x dc
+2     a
+x d
+x c    
+x a
+b
+x d
+1c
+2c c
+1
+1 dc
+b
+x    a
+x cd
+x     a
+x cd
+b
+2f
+xe
+xf
+1ace
+2 e
+1ace
+b
+
+%line 11
+
+-l "4.5in
+
+b
+2ced
+xb
+xc
+1 ad
+2 c
+x d
+x e
+b
+xa
+x e
+xa
+1 ccc
+2
+1     a
+b
+x  dca
+xadc
+xfcd   
+1
+b
+B
+Q
+
+e

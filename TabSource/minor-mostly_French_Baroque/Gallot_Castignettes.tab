@@ -1,0 +1,174 @@
+
+-R9
+-b
+-i
+-e
+-E
+$tempo=3
+
+
+{Canaries - du V. Gallot, Les Castagnettes/saiz 132 (a)}
+
+i
+S3
+0     a
+b
+0. cdE||
+1     c
+0     d&_
+b
+w cdc||
+0      a
+b
+0 acc||
+x c&_
+x     a
+b
+w  d&_Ec||
+0      //a
+b
+0.  c&,cc||
+1  d&_.
+0      /a
+b
+0  aad&_||
+x a
+x      ///a
+b
+0 a d  //a
+x c.
+x  d"/E|
+b
+0  c"/d&,|
+x    c|
+x     a
+b
+0. cdE||
+1     c
+0     d
+b
+
+% line 2
+
+i
+w cdc||
+0      a
+b
+0 acc||
+x c&_
+x     a
+b
+w  d&_Ec||
+0      a
+b
+0.  c&,ca||
+1    d|
+0  d!/c&,|
+b
+0  aad&_||
+x a
+x  d!/c|
+b
+0.  c&,aa||
+1   E.
+0   d&,c|
+b
+w  aE&_
+0     a
+b
+.
+b
+0.  aEc||
+1  a
+0      ///a
+b
+0.   b&,a||
+1 a
+0      a
+b
+0 a c c
+x   a&,
+x      4
+b
+
+% line 3
+
+i
+0.    c&,d{
+1  d.
+0     "}b&,
+b
+0  d da
+0.  b&,a  a
+1    c
+b
+0.  aad&_ /a
+1  c.
+0  d c|
+b
+0  d c /a
+0.  d a&, a
+1  c.
+b
+0  d&_  d
+1      4
+x  c.
+x  d
+x a.
+b
+0 c !/ d{
+x  a.
+x a d "}c
+b
+0.  d"/E!/a
+1 a.
+x c
+x d.
+b
+0 c&, !\  a
+0. c/a!\  /a
+1 a.
+b
+w c&_
+0      //a
+b
+0. c d&,c||
+1 a.
+0     a
+b
+0.  E&, f|
+1 a.
+0      ///a
+b
+
+% line 4 last
+
+-l "6.0 in "
+
+i
+0 a EE||
+x  d.
+x      a
+b
+w  c&,ca||
+0      //a
+b
+0  dcc||
+x  c&,
+x      /a
+b
+0  aad&_||&{
+x a
+1    } ///a
+x  d.
+b
+0.  c&,   //a
+1   E.
+0   d&,c|
+b
+w  a&.E&.
+0     a
+b
+B
+e
+

@@ -1,0 +1,445 @@
+-5
+-t
+-f
+{Canaries/Skene}
+b
+1 a a
+x c
+x e
+b
+1 a a
+x c
+x e
+b
+1 f a
+xa
+x e
+b
+0 c a
+x
+x
+1 a
+b
+b
+1 a a
+xa
+x f
+b
+1 e a
+x f
+xa
+b
+1c  a
+xa
+x e
+b
+0 c a
+x
+x
+1 a
+b
+b
+1f  a
+xa
+xc
+b
+
+b
+1 e a
+x f
+xa
+b
+1 f a
+0 e
+x
+x
+b
+0 ca
+x
+x
+1 a
+b
+b
+1 a a
+xa
+x f
+b
+1 e a
+x f
+xa
+b
+1c  a
+xe
+xf
+b
+1e  a
+xc
+xa
+b
+b
+0f  a
+x
+x
+1a
+b
+1 e a
+x f
+xa
+b
+1c  a
+xa
+x e
+b
+
+b
+0 c a
+x
+x
+1 a
+b
+b
+x
+b
+
+{Alace I lie my alon I'm lik to die awld/Skene}
+b
+1 a
+x   a
+x a
+x c
+b
+1 ef
+x c
+x a
+xf
+b
+1c  a
+2a
+xc
+1f
+x e
+b
+0 c  a
+x
+1 a
+x  c
+b
+1 a
+x   a
+x a
+x c
+b
+1 ef
+x c
+x a
+xf
+b
+1c  a
+2a
+xc
+1f
+x e
+b
+
+b
+0a  a
+x
+1a
+xf
+b
+1c  a
+2a
+xc
+1f
+x e
+b
+0a  a
+x
+x
+1 f
+x e
+b
+2 f
+x e
+x f
+xa
+xc
+xa
+x f
+x e
+b
+0 c  a
+x
+1 a
+x  c
+b
+1 a a
+2  e
+x a
+1 c  a
+2 a
+x c
+b
+1 ef
+2 c
+x e
+1 f f
+2 e
+x f
+b
+
+b
+1a
+x e
+1. c  a
+x
+3 a
+x  c
+b
+0 a
+x
+x   a
+x
+b
+b
+1 a
+x    a
+2 a
+x c
+x e
+x c
+b
+2 e
+x f
+x e
+x c
+1 a
+xf
+b
+1c
+2a
+xc
+xf
+xc
+xa
+x e
+b
+2 c  a
+x e
+x c
+x a
+0  c
+x
+x
+b
+
+b
+1 a
+x   a
+2 a
+x c
+x e
+x c
+b
+2 e
+x f
+x e
+x c
+1 a
+xf
+b
+1c  a
+2a
+xc
+xf
+xc
+xa
+x e
+b
+0.a  a
+x
+x
+1f
+b
+1c  a
+2a
+xc
+xf
+xc
+xa
+x e
+b
+2a
+xc
+xa
+x f
+0 e
+x
+x
+b
+
+b
+2 f
+xa
+xc
+xe
+1f
+x e
+b
+2 c  a
+x e
+x c
+x a
+0  c
+x
+x
+b
+2 e
+x a
+x c
+x e
+x f
+x c
+x e
+x f
+b
+2a
+x e
+x f
+xa
+xc
+x f
+xa
+xc
+b
+2a
+xc
+xa
+x e
+x c  a
+x e
+x c
+x a
+b
+
+b
+0. a a
+x
+x
+x
+x
+x
+b
+b
+x
+x
+b
+
+{My Ladie Laudians Lilt/Skene  }
+b
+1 a
+x  c
+x  a
+x   f
+x a
+x  c
+b
+1  a
+x  c
+x  a
+x   f
+0   c
+x
+x
+x
+b
+0  c
+x
+x a
+x
+x f
+x
+b
+w a a
+x
+x
+x
+0 f
+x
+x
+b
+b
+1 c
+x a
+x c
+x f
+xc
+xa
+b
+
+b
+0 f f
+x
+x a
+x
+x f f
+x
+b
+1 c
+x a
+x c
+x f
+xa
+xc
+b
+wa a
+x
+x
+x
+0 f
+x
+x
+b
+1c
+xa
+x f
+x c
+x f
+x c
+b
+1 a
+x  c
+x a
+x c
+xc
+xa
+b
+1 f
+x c
+x a
+x  c
+x  a
+x  c
+b
+
+b
+w   f
+x
+x
+x
+0  a
+x
+x
+b
+w.  c
+x
+x
+x
+x
+x
+b
+b
+x
+b
+
+e

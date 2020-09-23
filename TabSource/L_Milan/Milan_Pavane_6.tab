@@ -1,0 +1,152 @@
+{Pavenne 6/Luis Milan}
+
+-i
+
+b
+c
+S3
+W2330
+W2330
+W335  3
+b
+L2330
+W335  3
+b
+W2330
+W0 3 4
+W 32 2
+b
+w 2320
+w 3
+w 2
+w 0
+w  3
+w  2
+b
+w0 3 0
+w 3
+w02
+w 0
+w 300
+w 2
+b
+w 010 3
+w    0
+w    2
+w    3
+W  345
+b
+
+% line 2
+
+b
+W 3 02
+W  320
+W 2
+b
+L 330
+b
+w23 0
+w3
+w5
+w2
+w30 2
+w 2
+b
+w23 0
+w3
+w5
+w2
+w30 2
+w 2
+b
+W2330
+w0 1
+w 30
+b
+w 23 0
+w   2
+w  0
+w  2
+w  3
+w  2
+b
+
+
+% line 3
+
+
+b
+w0 3 0
+w    2
+w0 3 4
+w    0
+w 3 02
+w 2
+b
+w 010 3
+w  3
+w 0
+w 2
+w 330
+w  1
+b
+W530
+W5  20
+W 2
+b
+L 3 0
+b
+w23
+w 2
+w 0
+w  3
+w30
+w 2
+b
+w23 0
+w    3
+w    2
+w    0
+w33  2
+w    3
+b
+
+% line 4
+
+b
+w2  0
+w 3
+w02  0
+w  3
+w 3  2
+w  2
+b
+w 23 0
+w  2
+w  0
+w   2
+w  0
+w  2
+b
+w0 3
+w 0
+w02
+w  3
+w 30
+w 2
+b
+w 01
+w  0
+w   2
+w   0
+w0 3 4
+w  1
+b
+W 300
+W  320
+W 2
+b
+L 330
+bb
+e

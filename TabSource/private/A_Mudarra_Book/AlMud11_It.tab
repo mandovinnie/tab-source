@@ -1,0 +1,591 @@
+%First-pass conversion from original tablature 
+%to ASCII tab by Donald Sauter.
+%Wayne Cripps' TAB files generated
+%by Leonard Williams with assist from
+%Alain Veylit and StringWalker.
+
+$pstitlefont=pplb
+$psalttitlefont=pplri
+$titlesize=17
+$alttitlesize=14
+$flagstyle=smallitalian
+$numstyle=italian
+$line=o
+
+-R8
+-c
+
+%tuning = GDAFCG
+
+F2
+{\CL/ La segunda parte de la gloria de la misa de faysan regres de Josquin}
+F3
+{}
+{Tres Libros... I, f. 10v/Alonso Mudarra      }
+
+%Line 1
+
+b
+SC
+1   0 2
+x   2
+x   3
+x    0
+b
+%Bar 2
+0   3 2
+x   5
+b
+%Bar 3
+x    4
+1   3
+x   1
+b
+%Bar 4
+0   04
+x   5
+b
+%Bar 5
+1  2  0
+x   0
+x   1
+x   3
+b
+%Bar 6
+0   1 0
+x   3
+b
+%Bar 7
+x     0
+1   1
+x   0
+b
+%Bar 8
+0  2  0
+x   3
+b
+%Bar 9
+x  0 3
+1    3
+x     0
+b
+%Bar 10
+x     3
+x    1
+x    03
+x   3
+b
+%Bar 11
+
+%Line 2
+
+b
+1    0
+x   3 5
+0    32
+b
+%Bar 12
+1     0
+2    2
+x    0
+x    3
+x    2
+x    0
+x    2
+b
+%Bar 13
+w    3
+b
+%Bar 14
+03 55
+x    3
+b
+%Bar 15
+w 321 0
+b
+%Bar 16
+x 323 0
+b
+%Bar 17
+1 2454
+x     0
+2    2
+x    0
+x    2
+x    4
+b
+%Bar 18
+1 321
+2    3
+x    1
+x    0
+x   3
+x   1
+x   0
+b
+%Bar 19
+
+%Line 3
+
+b
+2  2
+x   0
+x   1
+x   3
+x    0
+x    2
+x    4
+x    5
+b
+%Bar 20
+1 2454
+x    2
+x     0
+x    4
+b
+%Bar 21
+0  2  0
+x   1
+b
+%Bar 22
+x 3
+x   3
+b
+%Bar 23
+1 0
+x   0
+0   0
+b
+%Bar 24
+1 2
+x  0
+0   1
+b
+%Bar 25
+x 2 0
+x  0
+b
+%Bar 26
+1 2
+x  2
+x   0
+x   2
+b
+%Bar 27
+x 0 3
+x 2
+x 3
+x  0
+b
+%Bar 28
+
+%Line 4
+
+b
+1  21
+x   3
+0  0 0
+b
+%Bar 29
+1    0
+x 3 3
+x 2 3
+x 0
+b
+%Bar 30
+x 2
+x   2
+x   3
+x   2
+b
+%Bar 31
+x 0 3 5
+2     3
+x     2
+x     0
+x    3
+x    1
+x    0
+b
+%Bar 32
+1   3
+x   1
+x   0
+x  2
+b
+%Bar 33
+0 2003
+x   1
+b
+%Bar 34
+x 2 03
+x  0
+b
+%Bar 35
+1 2  3
+x  2
+x   0
+x   2
+b
+%Bar 36
+0 0232
+x 0
+b
+%Bar 37
+
+%Line 5
+
+b
+1 2 03
+x    2
+2    3
+x    2
+x    0
+x   3
+b
+%Bar 38
+1.0 210
+2   0
+1   1
+x   3
+b
+%Bar 39
+x    0
+x    2
+2    3
+x    2
+x    0
+x    2
+b
+%Bar 40
+w 2 03
+b
+%Bar 41
+0 2 03
+x  0
+b
+%Bar 42
+1 2
+x  2
+x   03
+x   1
+b
+%Bar 43
+x 2 0
+x     0
+x     2
+x     3
+b
+%Bar 44
+0     2
+x  0 0
+b
+%Bar 45
+x  2
+x   03
+b
+%Bar 46
+
+%Line 6
+
+b
+0   1 0
+x   3 2
+b
+%Bar 47
+x    03
+x    25
+b
+%Bar 48
+1    3
+x     5
+x    52
+x     0
+b
+%Bar 49
+0    !^2
+x    4
+b
+%Bar 50
+x    50
+x  210
+b
+%Bar 51
+x  210
+x   10
+b
+%Bar 52
+x 543
+1  21
+2  2
+x   0
+b
+%Bar 53
+x   1
+x   0
+x   1
+x   3
+1    0
+x  0
+b
+%Bar 54
+x 4
+x 2
+0 424 0
+b
+%Bar 55
+
+%Line 7
+
+b
+1 2 000
+2    4
+x    2
+1     0
+x    4
+b
+%Bar 56
+0  2  0
+x    0
+b
+%Bar 57
+x  2 20
+x    0
+b
+%Bar 58
+x    5
+1     0
+x    2
+b
+%Bar 59
+x    32
+x    5
+0    20
+b
+%Bar 60
+1     5
+x    0
+x    2
+x   3 2
+b
+%Bar 61
+x    03
+x     5
+0     2
+b
+%Bar 62
+1   3 2
+x     0
+x   0 2
+x    3
+b
+%Bar 63
+0   1 0
+x 0 3
+b
+
+%Line 8
+
+b
+%Bar 64
+0 20 3
+0.  0
+bT
+%Bar 65
+1!
+1 2
+x 4
+x  0
+b
+%Bar 66
+x3   0
+x 0
+x 2  3
+x 4
+b
+%Bar 67
+x  0
+x    0
+x  2 2
+x  0 3
+b
+%Bar 68
+x  21
+x  0
+0  55
+b
+%Bar 69
+x  !^3
+x  4
+b
+%Bar 70
+1  553
+x   3
+2   5
+x   3
+x   5
+x   7
+b
+%Bar 71
+1    3
+x    0
+x    10
+x    3
+b
+%Bar 72
+x   1 0
+x    3
+0     3
+b
+
+%Line 9
+
+b
+%Bar 73
+0  033
+x     2
+b
+%Bar 74
+x  2103
+1    2
+x  4
+b
+%Bar 75
+0  5 07
+x   !^3
+b
+%Bar 76
+x  4  5
+x  5 07
+b
+%Bar 77
+x  4 25
+x  5 07
+b
+%Bar 78
+x 5  35
+x  5 07
+b
+%Bar 79
+x 7 7
+x   0 6
+b
+%Bar 80
+x  0 07
+x  25 3
+b
+%Bar 81
+1    5
+x  0
+x     2
+x 4   0
+b
+%Bar 82
+w 2 542
+b
+%Bar 83
+0.    32
+1    04
+b
+%Bar 84
+0    25
+x    07
+b
+
+%Line 10
+
+%Bar 85
+b
+0.    20
+1   3 2
+%Bar 86
+b
+0    04
+x   3 5
+%Bar 87
+b
+x   53
+x    3
+b
+%Bar 88
+x     0
+x    2
+b
+%Bar 89
+S3
+0    3
+x    0TCum
+x    2
+b
+%Bar 90
+x   532Tsenctu
+x    04
+x   325Tspiritu.
+b
+%Bar 91
+x  5577
+x 7 653
+x  4345TTres
+b
+%Bar 92
+x  2554Tminimas
+x  4325
+x  0532Tal
+b
+%Bar 93
+x  2123Tcompas.
+x  0332
+x  2103
+b
+%Bar 94
+x 3 310
+x 543 2
+x 3 310
+b
+
+%Line 11
+
+%Bar 95
+b
+0 543 2
+x7 553
+x 323 0
+b
+%Bar 96
+x 2454
+x 323 0
+x 2 13
+b
+%Bar 97
+x 321 0
+x 0432
+x 1 03
+b
+%Bar 98
+x3 21 0
+1 02
+x    3
+x    2
+x   0
+b
+%Bar 99
+03 210
+x 0  2
+x   3
+b
+%Bar 100
+10 220
+2   0
+x   2
+x   4
+x    0
+x    2
+x    4
+1     0
+x     2
+b
+%Bar 101
+YW0 2 04
+b
+B
+e

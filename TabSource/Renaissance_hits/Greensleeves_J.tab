@@ -1,0 +1,323 @@
+{Greensleeves/Anon}
+{/Ballet lute book}
+
+-B
+
+i
+2  d
+b
+1 bd a
+2 d
+2.ab  d
+3b
+2a
+%b
+1 db  d
+2 a.
+2.  ba d &{
+3  d
+2 a   &}
+b
+1 bd a
+2  d.
+2.  d a
+3  c.
+2  d
+%b
+1 a-- a
+2  c.
+1   c
+2     a
+b
+2  d
+1 bd a
+2 d
+2.ab  d &{
+3b
+2a   &}
+1 db  d
+2 a.
+i
+
+
+
+i
+2.  ba d &{
+3  d
+2 a   &}
+%b
+2. bd a
+3 a
+2  d
+2.  c  a
+3  a
+2  c
+b
+1.  dca
+1.   c
+bb
+%1.dab  d
+1.dab  d
+#3c
+xa
+%b
+1 db  d
+2 a
+2.  ba d
+3  d
+2 a
+b
+1 bd a
+2  d
+2.  d a
+3  c
+2  d
+%b
+1 a - a
+2  c
+1   c
+2     a
+b
+1.dab  d
+%2.dab  d
+#3c
+xa
+%b
+1 db  d
+
+
+-l "2.7 in"
+i
+2 a
+2.  ba d &{
+3  d
+2 a   &}
+%b
+1 bd a
+2  d
+2.  c  a
+3  a
+2  c
+%b
+0  dca
+bb
+b
+
+p
+
+
+-l reset
+
+{Greensleeves/Francis Cutting}
+
+b
+2  d
+b
+1 bd a
+2 df
+1ab
+2 bd a
+b
+2. dfa
+3 f
+2 bd
+1 acc
+2 ac  a
+b
+2. bd a
+3 d
+2 acc
+2.  dcd
+3 a
+2 bd a
+b
+2. da c
+3a
+2 bd a
+1 acc a
+2 acc
+b
+1 bd a
+2 d- c
+1a   d
+2cdda
+b
+1.dab d
+1. d- c
+b
+2.a   d
+3 d a
+2 b
+2. acc
+3  a
+2  cc a
+b
+1.  dca
+b
+1.dab  d
+b
+
+% line 2
+
+b
+2. -  d
+3c
+2a
+b
+2. dfa
+3 f
+2 bd
+1. aba d
+b
+1.abd a
+2.    d
+3 d
+2 b
+b
+2. a a
+3 b
+2  dd
+2 acc a
+2 acc
+b
+1 bd a
+2 d- c
+1a-  d
+2c- a
+b
+1ddf  d
+2f
+1hdf  d
+2dfg d
+b
+2.ffg a
+3d
+2c  a
+2.aa c
+3 d
+2 ac  a
+b
+2. cd a
+3 d
+2 cd a
+1.  dca
+bb
+2  d
+b
+2. b  a
+3 d
+2a
+b
+
+
+% line 3
+
+b
+2f
+xa
+xabb d
+b
+2. dff
+3d
+2cdda
+2.dab  d
+3 d
+2 a
+b
+2. bd a
+3 d
+2 acc
+2.  dcd
+3 a
+2ab  a
+b
+2    c
+xa
+x ea
+1aac  a
+2 acc
+b
+2. bd a
+3a
+2 d  c
+2a   d
+xd
+xc  a
+b
+2dab  d
+x d  c
+xa   d
+x da c
+x a   d
+x bd a
+b
+2. acc
+3   a
+2a d d
+2. da c
+3 cd
+2 acc
+b
+
+% line 4
+
+b
+1. cd a
+1.   c
+b
+#2dab  d
+x  a
+x   c
+#2   a
+xc
+xa - d
+b
+2 db c
+xa
+x bd a
+2 aba d
+x d
+x a
+b
+2. bd a
+3 a
+2  dcd
+2a - d
+x d  c
+x bd a
+b
+2. a c e
+3 b
+2  dca
+1aac  a
+2 acc
+b
+2. bd a
+3 a
+2  d
+2.a - d
+3 d
+2 b
+b
+2.dab  d
+3c
+2a
+2.hd f d
+3f
+2d
+b
+2.i   a
+3h
+2f  a
+b
+
+% line 5
+
+b
+-l "1.8 in"
+2.eff  a
+3f
+2eff
+b
+0ffh a
+e

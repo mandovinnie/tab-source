@@ -1,0 +1,548 @@
+-R9 -c
+{The Spanish Measures/Richard Allison}
+{Lute 2/Board Lute Book?}
+
+-l "7.75 in"
+
+b
+S3
+1 abc a
+b
+0 aa c
+1 aa
+b
+x    c
+x acc a
+x   c
+b
+1. cdca
+2 d
+x c
+x a
+b
+1    a
+x cd
+x    a
+b
+0 dda
+1 cd a
+b
+1
+1 abc
+x     a
+b
+1. aa c
+2  b
+x  a
+x   c
+b
+1    c
+x aab
+x    c
+b
+0 daa
+1 da c
+b
+1
+1 acc
+x     a
+b
+1. cdca
+2 d
+x c
+x a
+b
+
+b
+1    a
+x cdc
+x abc a
+b
+0 aa c
+1 abc a
+b
+x cd a
+x aa c
+x      /a
+b
+1. acc a
+2  d
+x  c
+x  a
+b
+1     a
+x acc
+x     a
+bb
+3 e
+x c
+x e
+xa
+2c
+xc
+3 a
+x  e
+x a
+x c
+b
+2 e
+x e
+xa
+3d
+xc
+xa
+x d
+x c
+x a
+b
+2 c
+3  d
+x a
+x c
+x a
+x c
+x d
+xa
+x d
+x c
+x a
+b
+
+b
+3  d
+x  c
+x  d
+x a
+x c
+x a
+x c
+x d
+x c
+x  d
+x a
+x c
+b
+2 d
+3 a
+x c
+x d
+x a
+x c
+x d
+2 c
+3  d
+x a
+b
+x c
+x a
+x c
+x d
+xa
+x d
+xa
+xc
+xd
+xa
+xc
+xd
+b
+2c
+3e
+xf
+2h
+3f
+xe
+xc
+xa
+x e
+x c
+b
+
+b
+3 a
+x  e
+x a
+x c
+x e
+x c
+x e
+xa
+2c
+x e
+b
+3c
+xa
+xc
+xd
+xc
+xa
+x d
+x c
+x d
+x c
+x d
+x f
+b
+x d
+x a
+x c
+x d
+xa
+xc
+xd
+xc
+xa
+x d
+x c
+x a
+b
+x c
+x d
+2 f
+x c
+x  d
+xf
+xa
+b
+
+b
+3 c
+x a
+x  d
+x a
+x c
+x a
+x c
+x d
+xa
+xc
+xd
+xa
+b
+2c
+3 d
+xa
+xc
+xd
+xf
+xc
+xd
+xc
+xa
+x d
+b
+xa
+xc
+xd
+xa
+xc
+xa
+x e
+x c
+x e
+xa
+xc
+x e
+b
+xa
+x e
+xa
+xc
+2a
+3 e
+x c
+2 a
+3 c
+x e
+b
+
+b
+2a
+3 e
+x c
+x a
+x  d
+x  c
+x  a
+2   c
+xa
+bb
+0 aa c
+1 aa
+b
+x    c
+x acc a
+x   c
+b
+1. cdca
+2 d
+x c
+x a
+b
+1    a
+x cd
+x    a
+b
+0 dda
+1 cd a
+b
+1
+1 abc
+x     a
+b
+1. aa c
+2  b
+x  a
+x   c
+b
+1    c
+x aab
+x    c
+b
+0 daa
+1 da c
+b
+1
+1 acc
+x     a
+b
+
+b
+1. cdca
+2 d
+x c
+x a
+b
+1    a
+x cdc
+x abc a
+b
+0 aa c
+1 abc a
+b
+x cd a
+x aa c
+x      /a
+b
+1. acc a
+2  d
+x  c
+x  a
+b
+1     a
+x acc
+x     a
+bb
+2 e
+3 a
+x c
+x e
+xa
+xc
+xe
+xc
+xa
+x e
+x c
+b
+x e
+x a
+x c
+x e
+xa
+x e
+xa
+xc
+xe
+xa
+xc
+xe
+b
+
+b
+3f
+xa
+xc
+x d
+xa
+x c
+x d
+x a
+x c
+x  d
+x a
+x  c
+b
+x  d
+x  c
+x  d
+x a
+x c
+x a
+x c
+x d
+xa
+xc
+xd
+xa
+b
+xc
+xa
+xc
+xd
+2c
+3a
+x d
+x c
+x a
+x c
+x d
+b
+xa
+x d
+xa
+xc
+xd
+xc
+xa
+xc
+xd
+xc
+xd
+xf
+b
+
+b
+3h
+xg
+xh
+xk
+2h
+3f
+xe
+xc
+xa
+x e
+x c
+b
+x a
+x  e
+x a
+x c
+x e
+x c
+x a
+x c
+x e
+x c
+x e
+xa
+b
+xc
+xa
+xc
+xd
+xf
+xd
+xc
+xa
+x d
+x c
+x d
+xa
+b
+xc
+x d
+xa
+xc
+xe
+xc
+xe
+xf
+xe
+xa
+xc
+xe
+b
+
+b
+2f
+3e
+xc
+xa
+x d
+x c
+x a
+x  d
+x  c
+x  d
+x a
+b
+x c
+x a
+x c
+x d
+xa
+x d
+xa
+xc
+xd
+xa
+xc
+xd
+b
+xc
+xa
+xc
+xd
+xc
+x d
+xa
+xc
+xa
+x d
+xa
+xc
+b
+xd
+xa
+xc
+xd
+xc
+xa
+x e
+x c
+x e
+xa
+xc
+x e
+b
+
+b
+3a
+x e
+xa
+xc
+2a
+x a
+x c
+x a
+b
+1aac  a
+x   c
+x     a
+bbb
+Q
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+0!
+e

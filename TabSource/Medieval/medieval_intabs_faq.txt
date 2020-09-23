@@ -1,0 +1,23 @@
+Some notes on these pieces:
+
+Performing instrumental music before 1500 is a tricky business.  15th century manuscripts unambiguously containing music intended to be played on instruments are few and far between.  Nevertheless, a great deal of the polyphonic vocal music being produced in the 14th and 15th centuries was even then being adapted for instrumental performance, whether to accompany a solo voice or to serve as the basis for purely instrumental performace or solo improvisation.
+
+How was this music performed?
+
+While it is impossible to rule out a note-for-note intabulation of secular and sacred vocal music, using melodic devises inherent to the idioms of each particular instrument seems like a more logical approach, and this is in fact exactly what we see happening in 15th century instrumental sources such as the Buxheimer Orgelbuch and the Faenza Codex.
+
+In both of these sources, the upper melody is built upon the tenor line (generally quoted verbatim from the vocal model) first, and adheres more or less to the harmonic structure denoted by the tenor and (sometimes) the contratenor voices.  Some sources maintain the 3 part structure and others discard the contratenor voice to yield a cantus/tenor duet.  The cantus is almost always elaborated with florid, step-wise runs (often including extended sections in triplets) while the tenor often finds its note values doubled to accomodate the now burgeoning cantus line.
+
+How do I play this music today?
+
+...of course, the elegance of the counterpoint comes through even in a simple rendering of these songs, and in fact this is the primary reason I have chosen to make them available in this (non-historical) way.  The intabulations included here contain most of the cantus/tenor structure and incorporate notes from the countertenor when they are "essential" to the flow of the song (as in imitative passages, for example).   Rather than impose any additional editorial decisions as to elaboration, I urge advanced players or those interested in medieval performance instead to have a look at the example I have included from Buxheim as well as the numerous comparisons of vocal original to instrumental version to be found in the CMM edition of Codex Faenza (available in most music libraries worth their salt) to get ideas for extending these songs in a "historically informed" ;-) manner.
+
+
+Enjoy!
+
+Trystero Montevideo
+Brooklyn, NY  1999
+
+
+comments and suggestions are appreciated:
+trystero@mindless.com

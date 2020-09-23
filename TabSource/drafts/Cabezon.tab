@@ -1,0 +1,260 @@
+%% From lute-request+wstuff=cs.dartmouth.edu@cs.dartmouth.edu  Fri Nov 11 12:05:06 2005
+%% Return-Path: <lute-request+wstuff=cs.dartmouth.edu@cs.dartmouth.edu>
+%% Received: from mail.cs.dartmouth.edu (localhost.localdomain [127.0.0.1])
+%% 	by mail.cs.dartmouth.edu (8.13.4/8.13.1) with ESMTP id jABH56Zo026734
+%% 	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+%% 	for <wstuff@cs.dartmouth.edu>; Fri, 11 Nov 2005 12:05:06 -0500
+%% Received: (from lute-arc@localhost)
+%% 	by mail.cs.dartmouth.edu (8.13.4/8.12.8/Submit) id jABH56nw026733
+%% 	for wstuff@cs.dartmouth.edu; Fri, 11 Nov 2005 12:05:06 -0500
+%% Received: from mpls-qmqp-03.inet.qwest.net (mpls-qmqp-03.inet.qwest.net [63.231.195.114])
+%% 	by mail.cs.dartmouth.edu (8.13.4/8.13.1) with SMTP id jABH3Q7G025007
+%% 	for <lute@cs.dartmouth.edu>; Fri, 11 Nov 2005 12:03:26 -0500
+%% Received: from mpls-qmqp-03.inet.qwest.net (mpls-qmqp-03.inet.qwest.net [63.231.195.114])
+%% 	by mail.cs.dartmouth.edu (8.13.4/8.13.1) with SMTP id jABH3Q7G025007
+%% 	for <lute@cs.dartmouth.edu>; Fri, 11 Nov 2005 12:03:26 -0500
+%% X-RF-Exists: 
+%% Message-ID: <4374CED6.7040601@qwest.net>
+%% X-debug-to: lute-relay
+%% X-Mailing-List: lute@cs.dartmouth.edu
+%% Date: Fri, 11 Nov 2005 10:03:18 -0700
+%% MIME-Version: 1.0
+%% User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.4) Gecko/20030624
+%% To: "Lute net" <lute@cs.dartmouth.edu>
+%% From: "David Cassetti" <cassetti@qwest.net>
+%% Subject: [LUTE] Re: Cabezon tiento intabulation
+%% Status: RO
+%% 
+%% Thanks Goran,
+%% 
+%% It seems two measures are missing between 21 and 22 - I have supplied 
+%% them in the tab below.
+%% Also, for fun, I posted an mp3 of a mptrack realization of the score 
+%% using some home-made lute samples:
+%% 
+%% http://www.users.qwest.net/~leocassetti/cabet1.mp3
+%% 
+%% Best regards,
+%% David
+%% 
+%% ***
+-t
+-f
+{Tiento I/Antonio de Cabezon}
+b
+c
+0c
+b
+1 c
+xb
+b
+xc
+x a
+b
+xac
+x df
+b
+x c e
+x  d
+b
+x dc
+xa  c
+b
+1. cde
+2 d
+b
+1a cc
+xc aa
+b
+x  c e
+xa   e
+b
+x cd
+x dfec
+b
+x ccee
+2a  c
+x  d
+b
+1 dfec
+x caea
+b
+
+b
+2  cc e
+x   a
+x a ce
+x    c
+b
+1  a ec
+x  e
+b
+x a ac
+x d  c
+b
+x  a
+x c  a
+b
+x d  c
+x c ce
+b
+1.c def
+2 ac
+b
+1 cd e
+xa c
+b
+xcda
+2f a
+x  c
+b
+x cd
+x a
+1efh h
+b
+xfda
+2e fg
+xc
+b
+1acd
+xeffc
+b
+2 dde
+xc
+1caaa
+b
+x cc e
+xb
+b
+xc a  c
+x cd
+b
+1.ac
+2cd
+b
+
+b
+xef  e
+x f
+1f h
+b
+x a c
+xe
+b
+xf de
+2c d
+x a
+b
+x c   c
+xa c
+1 dde
+b
+x   ca
+x cd
+b
+x daac
+2ca
+x    a
+b
+1f d  c
+xf  eef
+b
+xh  a e
+x   dc
+b
+2f a ec
+x  c
+x  d e
+x a
+b
+xec  e
+x d
+1ffh e
+b
+xfa c
+xef
+b
+
+b
+2fcde
+xc
+xf
+x dde
+b
+1ac  e
+xea c
+b
+2 a a
+x  d
+1c a
+b
+x cc e
+xb
+b
+xcca
+x ca
+b
+x d
+xaa c
+b
+x ca
+2  d
+x d
+b
+1aa c
+xca a
+b
+x cd e
+xb c
+b
+xc de
+x   a
+b
+xa   e
+x dfec
+b
+x cc e
+x   d
+b
+x cde
+x cd
+b
+
+b
+x ccc
+xacc  a
+b
+xc de
+2 c   c
+x     e
+b
+1ac  a
+x dfec
+b
+x  cc
+x cd a
+b
+x aa c
+2 d a
+x  c
+b
+x cdca
+x   a
+x a cee
+x    c
+b
+1  a ec
+x  e
+b
+0 aa c
+b
+b
+b
+e
+%% ***
+%% 
+%% 
+%% 
+%% To get on or off this list see list information at
+%% http://www.cs.dartmouth.edu/~wbc/lute-admin/index.html
+%% 

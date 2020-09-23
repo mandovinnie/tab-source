@@ -1,0 +1,515 @@
+% Date: Sun, 21 Apr 96 20:42 +0100
+% From: Rainer.adS.BERA_GmbH@t-online.de (Rainer aus dem Spring)
+% Subject: Dargesson.tab
+% 
+% 
+%
+% This tab file is a copy of tablature No 2 from
+% Elizabethan Popular Music for the Lute by Brian Jeffery
+%
+% I tried, as far as possible, to create an exact copy of
+% the original tablature. No errors (barlines) were corrected.
+% 
+% Source: Cambridge University Library, MS Dd.2.11
+%
+% Rainer aus dem Spring
+% Rainer.adS.BERA_GmbH@t-online.de
+%
+-l "9.0 in"
+-R8
+-t
+-B
+{Cambridge University Library MS Dd.2.11, f. 8 "Dargesson"/Anonymus}
+% ########
+% System 1
+% ########
+% =====
+% Bar 1
+% =====
+i
+1. dba d
+1 aba
+2     d
+1 aba d{
+2 b.
+1 dba}
+2     d
+% =====
+% Bar 2
+% =====
+b
+1.abd a
+1 bd
+2    a
+1abd a
+2 df
+1ab
+2cd
+% =====
+% Bar 3
+% =====
+b
+1.dab  d
+1 db
+2     d
+1 ab  d{
+2 b.
+1 d   d
+2a . }
+% =====
+% Bar 4
+% =====
+b
+1 bd a
+2    c
+1  d d
+2   a
+2. acc
+3  d.
+2 ac--a
+1.  dca
+b
+% =====
+% Bar 5
+% =====
+2 aba d
+1 d
+1 aba
+2     d
+#2 aba d
+x d
+x bd
+1 aba
+2     d
+% =====
+% Bar 6
+% =====
+b
+2 bdca
+1a
+1 bd
+2    a
+#2 bd a
+xa
+x df
+
+% ########
+% System 2
+% ########
+i
+1 bd
+2    a
+% =====
+% Bar 7
+% =====
+b
+2 aba d
+1 d
+1 aba
+2     d
+#2d    d{
+x d.
+xa
+#2 d
+x a
+x  b }
+% =====
+% Bar 8
+% =====
+b
+#2 bd a
+x  d
+xa
+#2 df
+x f
+x bd
+#2aac  a
+x d
+x ac
+1. cdca
+b
+% =====
+% Bar 9
+% =====
+b
+#3  b  d{
+x  a.
+x  b
+x  d.
+x a
+x b.
+#2 d }
+x a.
+x  b
+2d -- d{
+#3c
+xa.
+#3 d
+x b.
+x a
+x  d.&#
+x  b }
+x  a
+2  b
+% ======
+% Bar 10
+% ======
+b
+#3  d a
+x  c.
+x  d
+x a.
+x b
+x d.
+#2a
+x b
+x  d
+2f --a
+#3d
+xc
+xa
+x d
+
+% ########
+% System 3
+% ########
+i
+#3a
+x d
+x c
+x a
+2  d
+% ======
+% Bar 11
+% ======
+b
+2 d   d{
+#3 a
+x b
+2 d
+#3 d
+x b
+x a
+x  d }&#
+2  b
+2d -- d{
+#3c
+xa.
+2 d
+#3 a
+x  d.
+#3 a }
+x b.
+2 d
+% ======
+% Bar 12
+% ======
+b
+#3    a
+x a
+x b
+x d
+2a
+#3    d
+x    c
+x    d
+x   a
+2   c
+#3     a
+x  a.
+x  c
+x  d
+2 a
+1. cdca
+% ======
+% Bar 13
+% ======
+b
+2.  ba d
+3  d
+2 a
+#2 ab
+x bd
+x df
+2.  b  d
+3  d
+2 a
+#2 d
+x a
+x  b
+% =====================
+% Bar 14 (line missing)
+% =====================
+b!
+2. bd a
+3 d.
+2a
+
+% ########
+% System 4
+% ########
+i
+#2 bd
+x df
+xab
+2. bd a
+3 d
+2a
+#2a
+x b
+x  d
+% =======
+% Bar 15a
+% =======
+b
+2. a   d{
+3 b
+2 d
+2 d
+#3a
+xc
+2d   }
+% ======
+% Bar 15b
+% ======
+b
+2d    d{
+#3c
+xa
+2 d
+#3 d
+x b
+x a
+x  d
+2  b}
+% ======
+% Bar 16
+% ======
+b
+2f   a
+#3d
+xc
+2a
+#3a
+x d
+x c
+x a
+2  d
+#2 ac  a
+xa
+x df
+1. cdca
+% ======
+% Bar 17
+% ======
+b
+b
+1. dba d
+2. a
+3 b
+2 d
+2.  ba d
+3  d
+2 a
+#3 d
+x b
+x a
+x b
+2 d
+% ======
+% Bar 18
+% ======
+b
+1.abd a
+2. bd
+3 d
+2a
+
+% ########
+% System 5
+% ########
+i
+#3  d a
+x  b
+x  d
+x a
+2 b
+#3 b
+x a
+x b
+x d
+2a
+% ======
+% Bar 19
+% ======
+b
+#2     d{
+x db
+xd
+#2 d
+xa
+xc  }
+#2d -- d{
+x d
+xa
+#3 a
+x  d
+x a
+x b
+2 d }
+% ======
+% Bar 20
+% ======
+b
+2. bdca
+3 d
+2a
+2. bdca
+3    c
+2    d
+#2ac  a
+xcd
+xef
+1.ffh a
+% ======
+% Bar 21
+% ======
+b
+b
+1 aba d
+2 bd
+1 df  d
+2 fg
+#2 d
+x  f
+x bd
+2. aba d
+3 b
+2 d
+% ======
+% Bar 22
+% ======
+b
+1 bd a
+2 df
+1ab
+2bd
+
+% ########
+% System 6
+% ########
+i
+#2a
+x b
+x df
+1 bd a
+#3a
+xc
+% ======
+% Bar 23
+% ======
+b
+#2d -- d
+x d
+xa
+#3 d
+x b
+x a
+x b
+2 d
+#2 ab  d
+x d
+x bd
+1 ab
+2     d
+% ======
+% Bar 24
+% ======
+b
+2. bdca
+3 d
+2a
+2.  d d
+3   a
+2 acc
+2.aac  a
+3 d
+2 ac
+1. cdca
+% ======
+% Bar 25
+% ======
+b
+1 dba d
+#3 a
+x b
+#2 d
+x  b
+x bd
+#2 ab
+x     d
+x  def
+1. aba d
+% ======
+% Bar 26
+% ======
+b
+1abdca
+#3 b
+x d
+
+% ########
+% System 7
+% ########
+i
+#2a
+x b
+x df
+#2 b
+x  d
+x ac  a
+1. bdca
+% ======
+% Bar 27
+% ======
+b
+1 dba d
+#3a
+xc
+#2d
+x d
+xa
+#2 d
+x  b
+x bd
+2. ab  d
+3 b
+2 d
+% ======
+% Bar 28
+% ======
+b
+2. bd a
+3 d
+2a
+#2 df
+x f
+x bd
+#2 ac  a
+xa
+x df
+0 cdca
+Yb
+b
+b
+b
+0!
+0!
+0!
+0!
+0!
+0!
+e
+
+
+

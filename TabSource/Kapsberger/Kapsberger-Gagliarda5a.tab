@@ -1,0 +1,296 @@
+-l "8.45 in"
+-R8
+{Gagliarda}
+{Giovanni Girolamo Kapsberger}
+{Libro Primo d'Involatura di Lauto}
+{Rome 1611}
+%1
+bb.
+S3
+0fda   a
+0da   a
+0 c
+b
+%2
+0.c aa c
+1a
+0 d
+b
+%3
+0aa   d
+0ad  a
+0 c
+b
+%4
+0. d a  a
+#2 c
+x a
+0  d
+b
+%5
+0 d a
+0a   e
+0c  a
+b
+%6
+0.dab  d
+#2c
+xa
+0 d
+b
+%7
+0c  a
+0a   a
+0 c
+b
+%8
+0. daac
+#2 c
+x a
+0  d  c
+b
+
+%line 2
+b
+i
+%9
+0. a   d
+#2  d
+x  b
+0  a   a
+b
+%10
+0   ca
+0     c
+0  a
+b
+%11
+0  b  a
+0   c
+0  d  c
+b
+%12
+0. a   d
+1 c
+0 d
+b
+%13
+0a
+0c    c
+0d    a
+b
+%14
+0.fda   a
+1d
+0c
+b
+%15
+0  d
+0 a a
+0 c  e
+b
+%16
+0. d  c
+1a
+0c
+b
+
+% line 3
+
+b
+%17
+i
+0 a
+0 c c
+0 d a
+b
+%18
+0. c  a
+1 d
+0a
+b
+%19
+0   a
+0   c a
+0  a   a
+b
+%20
+0.  b  a
+1  d  c
+0 a   d
+b
+%21
+0 c  a
+0 d  c
+0a d e
+b
+%22
+0.c da
+1d
+0f
+b
+%23
+0 dd  c
+0add a
+0 c
+b
+%24
+0. daa  a
+1a
+0 d
+.bb
+
+%line 4
+bb.
+%25
+i
+0  da
+0  d e
+0 ac c
+b
+%26
+0. cd a
+1 d
+#1a
+x     d
+b
+%27
+1.c    c
+2d
+#1f
+x d
+#1d    a
+x c
+b
+%28
+0.cd    a
+1a
+0 d
+b
+
+%29
+b
+1.a   d
+2c
+#1d
+x    c
+#1c   a
+x b
+b
+%30
+1.da   d
+2 c
+#1 d
+xa
+#1 c  a
+x  b
+b
+%31
+1. da c
+2a
+#1c
+x d
+#1a    d
+x d
+b
+%32
+1. c  a
+2 d
+#1a
+x  d
+#1 d   c
+x c
+b
+
+%line 5
+b
+%33
+i
+1. a   d
+2 c
+0 d   c
+0acb  a
+b
+%34
+0.cd    a
+1a
+0 d
+b
+%35
+0 c
+0 ad  a
+0  c
+b
+%36
+0.acd a
+1 d
+0a
+b
+%37
+0  d  c
+0 d  c
+0 c
+b
+%38
+0. a a d
+1 c
+0 a
+b
+%39
+0  d  c
+0 ab  a
+0 c
+b
+%40
+0. daac
+1a
+0 d
+b
+
+%line 6
+b
+%41
+i
+0. cd  c
+1 d
+0 c
+b
+%42
+0. ab  d
+1 b
+0 a
+b
+%43
+0.  da  a
+1 a
+0  d
+b
+%44
+0.  b  a
+1  d
+0  b
+b
+%45
+0.  aac
+1  c
+0  d  c
+b
+%46
+0. a a d
+1 c
+0 d
+b
+%47
+0  de
+0add a
+0 c
+b
+%48
+0. daa  a
+1a
+0 d
+.bb
+Q
+e
+
+

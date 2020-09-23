@@ -1,0 +1,585 @@
+-R9 -c
+{Preludium BWV 999/J. S. Bach}
+-F
+
+b
+S3
+2!
+2    a
+x  d
+x b
+xa
+x b
+x  d
+x b
+x  d
+x   c
+x  d
+x    d
+x  d
+b
+x    a
+x  d
+x b
+xa
+x b
+x  d
+x b
+x  d
+x   c
+x  d
+x    d
+x  d
+b
+x    a
+x  d
+x d
+xb
+x d
+x  d
+x d
+x  d
+x   d
+x  d
+x   a
+x  d
+b
+
+b
+2    a
+x  d
+x d
+xb
+x d
+x  d
+x d
+x  d
+x   d
+x  d
+x   a
+x  d
+b
+x    a
+x  c
+x a
+x d
+x a
+x  c
+x a
+x  c
+x   d
+x  c
+x   a
+x  c
+b
+x    a
+x  c
+x a
+x d
+x a
+x  c
+x a
+x  c
+x   d
+x  c
+x   a
+x  c
+b
+
+b
+2    a
+x   c
+x  d
+x b
+x  d
+x   c
+x  d
+x   c
+x    d
+x   c
+x    a
+x   c
+b
+x     d
+x   c
+x  d
+x b
+x  d
+x   c
+x  d
+x   c
+x    d
+x   c
+x    a
+x   c
+b
+x      d
+x   c
+x  d
+x b
+x  d
+x   c
+x  d
+x   c
+x    d
+x   c
+x    a
+x   c
+b
+
+b
+2     a
+x   c
+x  d
+x b
+x  d
+x   c
+x  d
+x   c
+x    d
+x   c
+x    a
+x   c
+b
+x      b
+x   e
+x  d
+x b
+x  d
+x   e
+x  d
+x   e
+x    d
+x  a
+x    a
+x  a
+b
+x      b
+x   e
+x  d
+x b
+x  d
+x   e
+x  d
+x   e
+x   b
+x  a
+x    c
+x  a
+b
+
+b
+2     a
+x   e
+x  b
+x a
+x  b
+x   e
+x  b
+x   e
+x    c
+x   e
+x     d
+x   e
+b
+x     a
+x   c
+x  b
+x a
+x  b
+x   c
+x  b
+x   c
+x     d
+x   c
+x     a
+x   c
+b
+x      /a
+x  b
+x a
+xa
+x a
+x  b
+x a
+x  b
+x   c
+x  b
+x    d
+x  b
+b
+
+b
+2    a
+x  a
+x b
+xa
+x b
+x  a
+x b
+x  a
+x    a
+x  a
+x     c
+x  a
+b
+x      //a
+x   e
+x  d
+x e
+x  d
+x   e
+x  d
+x   e
+x    c
+x   e
+x     c
+x   e
+b
+x      //a
+x   e
+x  d
+x e
+x  d
+x   e
+x  d
+x   e
+x    c
+x   e
+x     c
+x   e
+b
+
+b
+2      //a
+x  b
+x a
+xa
+x a
+x  b
+x a
+x  b
+x    c
+x  b
+x     d
+x  b
+b
+x      //a
+x  d
+x e
+xc
+x e
+x  d
+x e
+x  d
+x    d
+x  d
+x    a
+x  d
+b
+x      //a
+x  f
+x f
+xd
+x f
+x  f
+x f
+x  f
+x   c
+x a
+x    c
+x a
+b
+
+b
+2      //a
+x  f
+x e
+xf
+x e
+x  f
+x e
+x  f
+x  a
+x a
+x   b
+x a
+b
+x      //a
+x  e
+x f
+xd
+x f
+x  e
+x f
+x  e
+x   c
+x  e
+x    d
+x  e
+b
+x      //a
+x  d
+x b
+xc
+x b
+x  d
+x b
+x  d
+x   b
+x  d
+x    c
+x  d
+b
+
+b
+2      //a
+x  b
+x c
+xa
+x c
+x  b
+x c
+x  b
+x    e
+x  b
+x    b
+x  b
+b
+x      //a
+x   e
+x  d
+x f
+x  d
+x   e
+x  d
+x   e
+x    d
+x  a
+x    a
+x  a
+b
+x      //a
+x   e
+x  d
+x e
+x  d
+x   e
+x  d
+x   e
+x    c
+x  a
+x     c
+x  a
+b
+
+b
+2      //a
+x   c
+x  b
+x c
+x  b
+x   c
+x  b
+x   c
+x    b
+x   c
+x     d
+x   c
+b
+x      //a
+x   b
+x  a
+x b
+x  a
+x   b
+x  a
+x   b
+x    a
+x   b
+x     c
+x   b
+b
+x      //a
+x   c
+x  b
+x a
+x  b
+x   c
+x  b
+x   c
+x     d
+x   c
+x     a
+x   c
+b
+
+b
+2      //a
+x   c
+x  a
+x  d
+x  a
+x   c
+x  a
+x   c
+x    d
+x   c
+x    a
+x   c
+b
+x      //a
+x   b
+x  a
+x  d
+x  a
+x   b
+x  a
+x   b
+x    c
+x   b
+x     c
+x   b
+b
+x     a
+x   b
+x  a
+x  d
+x  a
+x   b
+x  a
+x   b
+x    d
+x   b
+x    a
+x   b
+b
+
+b
+2     a
+x   c
+x  a
+x  d
+x  c
+x   c
+x  c
+x   c
+x    c
+x   c
+x     e
+x   c
+b
+x     a
+x   e
+x  d
+x e
+x  d
+x   e
+x  d
+x   e
+x    d
+x  a
+x    a
+x  a
+b
+x     a
+x  d
+x e
+xc
+x e
+x  d
+x e
+x  d
+x    d
+x  d
+x    a
+x  d
+b
+
+b
+2     a
+x  c
+x a
+xa
+x a
+x  c
+x a
+x  c
+x   c
+x  c
+x    c
+x  c
+b
+x     a
+x  c
+x a
+x d
+x a
+x  c
+x a
+x  c
+x   d
+x  c
+x   a
+x  c
+b
+x     a
+x   c
+x  d
+x b
+x  d
+x   c
+x  d
+x   c
+x    d
+x   c
+x    a
+x   c
+b
+
+b
+2     a
+x   b
+x  d
+x b
+x  d
+x   b
+x  d
+x   b
+x    d
+x   b
+x    a
+x   b
+b
+x     a
+x   b
+x  d
+x b
+x  d
+x   b
+x  d
+x   b
+x    d
+x   b
+x    a
+x   b
+b
+x     a
+x   c
+x  c
+x a
+x  c
+x   c
+x  c
+x a
+x b    ///a
+x  d
+x  a   //a
+x e
+b
+x
+w.aac   a
+x
+b
+B
+e

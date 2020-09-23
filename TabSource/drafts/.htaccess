@@ -1,0 +1,12 @@
+
+ExpiresDefault "now"
+
+AuthType basic
+AuthName  Tab
+AuthUserFile  /u/wbc/.htpasswd
+#
+<Limit GET>
+require valid-user
+</Limit>
+#
+

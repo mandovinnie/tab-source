@@ -1,0 +1,9 @@
+#!/bin/tcsh
+#
+#
+set file = $f:r
+set file = $file.jpg
+#
+/net/tahoe4/wbc/src/nnt/tab -m $1
+
+pstopnm -stdout $f  | ppmtojpeg > $file

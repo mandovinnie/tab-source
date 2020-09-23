@@ -1,0 +1,793 @@
+-R7
+-b
+-e
+
+Sc
+b
+.
+b
+0   c
+b
+0.  d  d
+1 a
+0 c
+1 a
+x  d
+b
+0.  c&,   a
+1  d
+0 a
+x   c
+b
+x  d  a
+1     c
+x a
+x c   d
+xc
+x a    a
+x c
+b
+0  d  d
+w c
+0   c
+b
+0.  d  d
+1 a
+0 c    4
+1 a
+x  d
+b
+x  c   a
+x  a
+x  c  a
+x  d
+0 ac   a
+1  d
+x  c
+b
+x  d  a
+x  a
+x  d   //a
+x   c
+x  a   /a
+x   a
+x   c  a
+x    c
+b
+0     d
+x  d
+w  dccd
+b
+.
+b
+0   c
+b
+x  d  d
+xc
+1 c[
+x d]
+0c
+b
+
+
+% line 2
+
+b
+1   c  a
+x  a
+x  c
+x  d
+0 a
+x   c
+b
+1  a  a
+x  c
+x  d  c
+x a
+x c   d
+xc
+x a   a
+x c
+b
+0  d  d
+w c
+0   c
+b
+1  a   /a
+x  c
+x  d   ///a
+x a
+x c    4
+xa
+xc
+x c
+b
+x a    /a
+x  d
+x  c
+x  a
+x  c   a
+x  d
+x a
+x  c
+b
+x  d  a
+x  a
+x  d   //a
+x   c
+x  a   /a
+x   a
+x   c  a
+x    c
+b
+0     d
+x  d
+w  dccd
+b
+.
+b
+0   c
+b
+1  d  d
+x  c
+x  d
+x a
+i
+
+
+% line 3
+
+i
+1 c    4
+xc
+x a   c
+x c
+b
+x  c   a
+x  a
+x  c  a
+x  d
+x     c
+x a
+0   c
+b
+1  d  a
+x  c
+x  d  c
+x a
+x c   d
+xc
+x a   c
+x c
+b
+0  d  d
+w c
+0   c
+b
+1  d  d
+x  c
+x  d  c
+x a
+x c   d
+x  d
+xc
+x c
+b
+x a    a
+x  c
+x  d  a
+x  a
+x  c   a
+x   c
+x a
+x  c
+b
+x  d  a
+x  a
+x  d   //a
+x   c
+x  a   /a
+x   a
+x   c  a
+x    c
+b
+0     d
+x  d
+w  dccd
+b
+.
+b
+
+
+
+%  line 4
+
+i
+0   c
+b
+1  d  d
+x  c
+x  d
+xc
+x c
+xc
+x a   c
+x c
+b
+x  c   a
+x  a
+x  c  a
+x  d
+x a   c
+x  d
+x a
+x   c
+b
+x  d  d
+x  c
+x  d
+xc
+x c
+xc
+x a   c
+x c
+b
+x  d  a
+x a
+x c
+xa
+0.c c   a
+1   c
+b
+x  d  a
+xh
+xg
+xe
+xc    c
+xa
+x c
+x a
+b
+x  d  a
+x  c
+x  d
+x  a
+x  c   a
+x   c
+x a
+x  c
+b
+x  d   //a
+x   c
+x  a   /a
+x   a
+x   c  a
+x    c
+x  d
+x    c
+b
+
+
+
+% line 5
+
+b
+0     d
+x  d
+w  dcc
+b
+.
+b
+0   c
+b
+1 c   d
+x  d
+xc    c
+xa
+x c   d
+x  d
+x d
+x c
+b
+x  d  a
+x  a
+x a    /a
+x  d
+x  c   a
+x   c
+x a
+x  c
+b
+x c   d
+x  d
+xc    c
+xa
+x c   d
+x  d
+x d
+x c
+b
+x  d   4
+x a
+x c    ///a
+xa
+xc     //a
+xa
+xc
+x   c
+b
+x  d
+xh
+xc
+xe
+x c   d
+xc
+x a   c
+x c
+b
+x  d  a
+x a
+x  a
+x  d
+x  c   a
+x   c
+x a
+x  c
+b
+
+
+% line 6
+
+
+
+b
+1  a   /a
+x  d
+x   c  //a
+x  d
+x    c
+x  d
+x    a a
+x    c
+b
+0     d
+x      4
+w  dc
+b
+.
+b
+0   c
+b
+1  d
+x c
+xc
+x c
+x  d   4
+x c
+xc
+x c
+b
+x   c  a
+x  c
+x a
+x  c
+x   c
+x  c
+x a
+x  c
+b
+x  d  d
+x c
+xc 
+x c
+x  d   4
+x c
+xc
+x c 
+b
+x  d  a
+xa
+x a   c
+xc
+x c   d
+x  d
+xc     //a
+x   c
+b
+x  d
+xc
+xh
+xc
+x  d
+x c
+xc
+x c
+b
+
+% next page
+p
+
+% line 1
+
+b
+1   c  a
+x  c
+x  d  a
+x  a
+x   c  a
+x  c
+x a
+x  c
+b
+x  a  a
+x   c
+x  d  c
+x   c
+x  a
+x    c
+x  d   ///a
+x    c
+b
+0   c
+x  d
+w  dcc 4
+b
+.
+b
+T-Corne riggs are bonnie mr Becks way
+Sc
+b
+.
+b
+0   c  a
+b
+1   c
+x  a
+0  d  d
+x a   c
+1  d
+x a
+b
+2  d  d
+x a
+1 c
+1. a&,
+2  d
+0.   c  //a
+1c
+b
+xc    d
+xe
+xc
+x c
+i
+
+% line 2
+
+i
+1 a c
+x c
+1. a&,
+2  d
+b
+0.  ae
+1  d
+0  aa
+1   c
+x    c
+b
+0   c
+x  a
+x  d  d
+1 a   c
+2  d
+x a
+b
+x  d  d
+x a
+1 c
+1. a&,
+2  d
+0.   c  a
+1c
+b
+xc    d
+xe
+xc
+x c
+x a c
+x  d
+x a
+x c
+b
+w.cc   d
+1c[
+xe]
+b
+0c
+x c
+x a c
+x  d
+b
+0. d a
+1c
+2a[
+xc
+1e]
+0c
+b
+1c    d
+xe
+xc
+x c
+xc   c
+x c
+x a
+x  d
+b
+
+
+% line 3
+
+0.  a
+1  d
+0  aa
+1   c
+x    c
+b
+0   c d
+x  a
+x  d  a
+x a    a
+b
+1 c    4
+xa
+0c
+0.h     //a
+1 h
+b
+xc     /a
+xe
+xc
+x c
+x a    a
+x c
+x a&,
+x  d
+b
+w  dcc
+0      4
+b
+.
+b
+1   c
+b
+1.   c  4
+2    c
+1.   c
+2  a
+1.  d  a
+2  a
+1.  d
+2 a
+b
+1. c
+2  d
+1. a
+2 c
+1.   c d
+2    c
+1.   c
+2e
+b
+1.c d
+2e
+1.c
+2 c
+1. a    a
+2 c
+1. a   a
+2  d
+b
+
+% line 4
+
+b
+1.  a   4
+2   c
+1.    c
+2  d
+1.  a   /a
+2  d
+1.  a   //a
+2   c
+b
+1.   c  4
+2    c
+1.   c
+2  a
+1.  d
+2    c
+1.  d a
+2 a
+b
+1. c   d
+2  d
+1. a
+2 c
+1.   c
+2    c
+1.   c
+2e
+b
+1.c    d
+2e
+1.c
+2 c
+1. a c
+2  d
+1. a
+2 c
+b
+1.cc   d
+2 c
+1.c
+2e
+1.c
+2 c
+1.c
+2h
+b
+1.cc   d
+2e
+1.c
+2 c
+1. a    a
+2 c
+1. a   a
+2  d
+b
+1.a     /a
+2 c
+1.a     //a
+2c
+i
+
+
+
+
+% line 5
+
+i
+1.e     /a
+2 f
+1.e
+2h
+b
+1.c     4
+2e
+1.c
+2 c
+1.c
+2 a
+1. c   d
+2  d
+b
+1.  a   //a
+2   c
+1.  d
+2  c
+1.  a   /a
+2  d
+1.   c
+2  a
+b
+1.   c  4
+2    c
+1.   c
+2  a
+1.  d
+2    c
+1.  d
+2 a
+b
+1. c   d
+2  d
+1. c
+2 d
+1.c   c
+2 c
+1.c
+2h
+b
+1.c
+2e
+1.c   d
+2 c
+1. a c  a
+2 c
+1. a&,
+2  d
+b
+w  d&,cc
+x      4
+b
+.
+b
+T-Montroses tune Mr Becks way.
+b
+
+% line 6
+
+S3
+b
+0  a
+x a
+x c
+b
+wa&,aaaa
+0c
+2a[    /a
+xc
+1e]
+0. c&,    a
+1 a
+b
+w  e&,  a
+0  a
+x    a
+x a
+x c   e
+b
+0. d  a
+2 a[
+x c
+0 d]
+0.cc   d
+1 c
+xa
+xc
+b
+w.ed    /a
+b
+.
+b
+2a[
+xc
+1e]
+0.c&,
+1a
+b
+wa&,     /a
+2e[
+xg
+1h]
+b
+0 c   d
+x  d
+x  d
+w  d  a
+0  a
+b
+x    a
+x a
+x c   e
+x    a
+xa
+xc   c
+b
+2a[ a
+xc
+1e]
+0. c&,a
+1 a
+b
+w. aaaa ///a
+b
+.
+b
+T-Amarillis, Becks way
+b
+e
+
+

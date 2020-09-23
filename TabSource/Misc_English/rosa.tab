@@ -1,0 +1,816 @@
+
+{Rosamund/Cambridge University Library Dd 9.33 ff 48~49}
+-C
+-D
+% line 1, bar 1
+b
+1aabcca
+#2   c
+xc d
+% bar 2
+b
+1da c a
+#2caa-  e
+x  d
+% bar 3
+b
+#2aab- a
+x   c
+2aab
+#3 dd- c
+x c
+% bar 4
+b
+#2 ab- d
+x c
+2 d   c
+#3  d
+x a
+% bar 5
+b
+#2ab c a
+x     c
+2 ab- d
+#3 b
+x d
+% bar 6
+b
+2a-  d
+#3  d
+x  b
+#3  d
+x a
+x  b
+x  d
+b
+
+% bar 7
+b
+#2 aabc
+x  b
+#2  a
+x   c
+% bar 8
+b
+#2  ab- a
+xda
+#2c d
+xa b
+% bar 9
+b
+#2 ea c
+x db  d
+#3 d-  c
+x   a
+x b c a
+x     c
+% bar 10
+b
+#2 ab- d
+x abc a
+#3  a-  d
+x a
+x  b-  b
+x  d
+% bar 11
+b
+#3      a
+x aacc
+x   b
+x    e
+#3 aabc
+x   c
+x  d-  a
+x   b
+b
+
+% bar 12
+b
+2.aac- a
+3  d- c
+#3 a-  e
+x b- a
+#4     c&{
+x a
+3  db
+% bar 13
+b
+#2aac-}a
+x   c
+1     a
+% bar 14
+bb
+3aa-  a
+#4 d
+x b
+#4 a
+x  d
+x  b
+x  a
+3   c
+#4  a
+x  b
+#4  d
+x a
+x b
+x d
+% bar 15
+b
+#3aa-  a
+xd
+xc
+xa
+#3caa-  e
+x  d
+x  b
+x  a
+b
+
+% bar 16
+b
+3aab- a
+#4  a
+x  b
+#4  d
+x a
+x b
+x d
+#3a
+x     a
+x dd- c
+x c
+% bar 17
+b
+#3 a
+x     d&{
+#4  b
+x  d
+x a
+x b
+#3 d }
+x     c&{
+#4  a
+x  b
+x  d
+x a }
+% bar 18
+b
+#3 b
+x     a&{
+#4   c
+x  a
+x  b
+x  d
+#3 a }
+x     d&{
+#4  d
+x a
+x b
+x d }
+b
+
+%bar 19
+b
+#3a
+x    d{
+#4  d
+x a
+x b
+x d
+#4a  }
+xc
+3d
+#3c
+xa
+% bar 20
+b
+#2caabc
+x  b
+#2  a
+x   c
+% bar 21
+b
+2  ab- a&{
+#3d
+x a
+#3c
+x  d
+xa
+x  b }
+% bar 22
+b
+2 ea c
+#3 d
+x  b
+#3 d
+x  a
+3 b
+#4   c
+x  a
+b
+
+% bar 23
+b
+#3  b
+x a
+x  b
+x   c
+#3  a
+x   a
+3    d&{
+#4  b
+x  d}
+% bar 24
+b
+#3 a
+x    c&{
+3   b&(
+#4 e
+xa
+#3c )}
+x      a
+3 a
+#4e
+xf
+% bar 25
+b
+#3h
+x     a&{
+3   c&(
+#4 c
+x e
+#4a
+x a
+x d
+x c
+#4 a
+x  d
+x  c
+x  a)}
+b
+
+% bar 26
+b
+#2aac- a
+x   c
+1     a
+% bar 27
+bb
+1 dba d
+2d
+#3c d
+xa
+% bar 28
+b
+2 db- d
+#3 b
+x d
+2a b
+#3  a
+x   c
+% bar 29
+b
+2c- a
+#3 d
+x b
+2 a-  d
+#3  d- c
+x  b- a
+% bar 30
+b
+2caa-  e
+#3 a
+x  d
+2aab- a
+#3  a
+x   c
+% bar 31
+b
+2ca b- a
+#3a
+xc
+2da c
+#3c
+xa
+b
+
+% bar 32
+b
+2ca b- a
+#3   c
+x  a
+2a b
+#3  a
+x   c
+% bar 33
+b
+2 ea-  a
+#3    c
+x    a
+2aa-  e
+#3 bd a
+x a-  d
+% bar 34
+b
+2cfd- c
+#3 e
+x c
+#2fe
+x  f
+% bar 35
+b
+2db-  a
+#3 a
+x  d
+#3 a-  d
+x c
+2 da- c
+% bar 36
+b
+#3db c a
+x a
+x a-   d
+xc
+3.a  c  b&{
+4 a
+#3  d}
+xa
+b
+
+% bar 37
+b
+2 efe  a&{
+#3c
+x a
+#3  d
+x  b
+xa a
+x   c}
+% bar 38
+b
+#2caabc
+x      a
+1caabc
+% bar 39
+bb
+3 ab  d{
+#4  d
+x a
+#4 b
+x d
+xa
+xc
+#3d
+x  b
+xc d}
+xa
+% bar 40
+b
+3 db  d{
+#4   c
+x  a
+#4  b
+x  d
+x a
+x b
+#3 d
+x  b}
+xa a
+x   c
+b
+
+% bar 41
+b
+3c- a
+#4 d
+x b
+#4 a
+x  d
+x  b
+x  a
+#3 ab
+x     d
+x     c
+x     a
+% bar 42
+b
+3 aa-  e
+#4c
+xa
+#4 d
+x b
+x a
+x  d
+3 ab- a
+#4f
+xd
+#4c
+xa
+x e
+x c
+% bar 43
+b
+#3      a
+x ea
+xa
+xc
+3d
+#4f
+xd
+#3c
+xa
+b
+
+% bar 44
+b
+#3ca-   a
+x   b
+x   c
+x  a
+3a b
+#4  d
+x  b
+#3  a
+x   c
+% bar 45
+b
+#3 ea
+x      a
+x    c
+x    a
+3 a   e
+#4a
+x d
+#3 b  a
+x     d
+% bar 46
+b
+3     c
+#4c
+x f
+#3 e
+x c
+3 e-   a
+#4h
+xf
+#3 i
+x h
+% bar 47
+b
+3da-  a
+#4 d
+x b
+#3 a
+x  d
+3  b
+#4d
+xc
+#3a
+x d
+b
+
+% bar 48
+b
+#3db c a
+x a
+x a-   d
+xc
+3aa-   b
+#4  d
+x  b
+#3  a
+x   c
+% bar 49
+b
+3 ea-  a{
+#4  c
+x  e
+#4 a
+x c
+x e
+xa
+#3c
+xh
+xf
+xd }
+% bar 50
+b
+#2caabc
+x      a
+1caa
+% bar 51
+bb
+1 aa c
+#2      a&{
+x c  }
+% bar 52
+b
+#2 da c
+x a-   a
+#2a d e{
+x  b }
+b
+
+% bar 53
+b
+#2  ab  a&{
+xc d
+#2da c
+x c  }
+% bar 54
+b
+2cda-  a&{
+#3 cb
+x a
+2abd
+#3 ab
+x c  }
+% bar 55
+b
+2 da-  a&{
+#3   c
+x c
+2 aacc}
+#3   b
+x    a
+% bar 56
+b
+2.aa c e
+3 d
+2 bd a
+#3 a
+x  d
+% bar 57
+b
+1.aaccca
+2da c
+b
+
+% bar 58
+b
+#2c- a
+xda- c
+#3    d&{
+xc
+2a  }
+% bar 59
+b
+1.caabc
+2hd-  d
+% bar 60
+b
+#2dfg d
+xffg a
+2cf  c
+#3 e
+x  d
+% bar 61
+b
+#2aac- a
+x aa c
+#3 d-  d
+x  b
+x  a a
+x b c
+% bar 62
+b
+3. aacc
+4   c
+#3   b- a
+x  d
+1aaccca
+% bar 63
+b
+#2 ab- d
+xa
+#2 cd a
+xc
+% bar 64
+b
+#2 d- c
+xd
+#2ab- d
+xf
+b
+
+% bar 65
+b
+#3 d
+xd
+xcb
+xa
+#3 e-   a{
+x  b
+xa a
+x   c}
+% bar 66
+b
+#3caa-  a&{
+xh
+#4  a
+xf
+3da
+#4c
+x  d
+3a b}
+#3aaa-  a
+x e
+% bar 67
+b
+2.aac- a
+3  d- c
+#3 a-  e
+x b- a
+#4     c
+x a
+3  db
+% bar 68
+b
+2aac  a
+1.   c
+bb
+
+% bar 69
+b
+2. a- c
+3 e
+#2a
+xc
+% bar 70
+b
+#3 da c
+xc
+xa
+x d
+#3a-  e
+xd
+xc
+xa
+% bar 71
+b
+#3ca b
+xf
+xd
+xc
+#3d-   a
+xh
+xf
+xd
+% bar 72
+b
+#3ca-   a{
+x  d
+x  b
+x  a
+#3a- c
+x  b
+x  a
+x   c}
+% bar 73
+b
+#3 d-   a{
+x  a
+x   c
+x c
+3. aacc}
+4   c
+#3   b
+xc
+b
+
+% bar 74
+b
+2.aa c e
+3 d
+3 b- a
+#4 a
+x b
+#3 a
+x  d
+% bar 75
+b
+1.aac- a
+2da c
+% bar 76
+b
+3c- a
+#4a
+xc
+#3d
+x    c
+3a   d
+#4f
+xd
+#3c
+xa
+% bar 77
+b
+2      a{
+1caabc}
+#3h-   d
+xf
+% bar 78
+b
+3d-  d
+#4i
+xh
+#3f-  a
+xd
+#3ca- c
+xa
+xd-    a
+xc
+b
+
+% bar 79
+b
+2aac  a
+#3 d- c
+x b
+3 a-  d
+#4 b
+x a
+#3  d a
+x  b
+% bar 80
+b
+#3  a c
+x  bc
+x  ac- a
+x   b
+1aac  a
+% bar 81
+b
+#3     d&{
+x a
+xa  }
+x     a
+#4    a&{
+x a
+x c
+x d
+#4a
+x c
+3c }
+% bar 82
+b
+#3    c&{
+x d
+xd  }
+x     d
+#4    d&{
+x d
+xa
+xc
+#4d
+xa
+3f }
+b
+
+% bar 83
+b
+#3      a&{
+xc
+xd
+xf
+#3h
+x  a
+x  b
+x  d}
+% bar 84
+b
+3 a-   a&{
+#4f
+xd
+3c
+#4  d
+x  b
+#4  a
+x   c}
+x aacc
+x   b
+% bar 85
+b
+#4     a&{
+x a
+x c
+x e
+#4a
+x   c
+x   c
+x  a
+#4  c
+x  d
+x a
+xa
+#4 c
+x e
+xa
+xc  }
+% bar 86
+b
+Y#eff  a
+bb
+Q
+e
+

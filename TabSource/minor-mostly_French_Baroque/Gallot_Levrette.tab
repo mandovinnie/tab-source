@@ -1,0 +1,170 @@
+
+
+-R9
+-b
+-i
+-e
+-E
+$tempo=1.3
+
+{Gigue du Vieux Gallot, La Levrette/saiz 133(a)}
+
+i
+Sc
+0 c.
+1E&x
+xd.
+xE&_
+x     a
+x  d&_.
+x a
+b
+1 c.
+x    c|
+x  dE|
+x  cd|
+x  d&_E|
+x     a
+x  a  d&_
+x    a|
+b
+1 c  c|{
+x  d.
+x  c&,
+x   E.}
+x   d&,  //a
+x    a.
+x  a  d
+x   d&,.c
+b
+1  a  a
+x  c.
+x  d&_
+x a.
+x  c&,   a
+x   c|
+x   a&,.
+x    c|
+b
+1a   a
+x  a.
+xa
+x  c&,.
+x cd  a
+x      a
+x c&,a   /a
+x a
+b
+
+% line 2
+
+i
+1c     //a
+x  d.
+x a    /a
+x c    //a
+xa&.d&_&.  ///a
+x cd.
+x ac.
+x  dE.
+b
+1  c&,   a
+x   c.
+x a
+x    d|
+x    c&,|
+x  dc|
+x  d a.a
+x  c.
+b
+1  d&_
+x      4
+x     d
+x    c
+w  dc
+b
+.
+b
+0c
+1      4
+x d.
+x c&,
+x  d|
+xc
+x  c&,|
+b
+1   E|
+xa d|
+x c c&,|
+xa  a|
+xc   c|
+x  d.
+x a a|
+x c  c|
+b
+1a&.d&_a&. a|
+x c  c|
+x a&, b|&{
+x     d
+x a c"} c
+x  db.a
+i
+
+% line 3
+
+i
+1  c&,c  a
+x      /a
+b
+1  dc  //a
+x  d.
+x     d{
+x  b c|
+0  a&.a&.d&_}/a
+1   cd 4
+x    c&,.
+b
+1   a. ///a
+x    c|
+x   ad&_|&{
+x  a. &}
+x a  E|&{
+x  d.}
+x  c&,c|
+x c.
+b
+1  cd&,|
+x      //a
+x  dE.
+x ac.
+x cd.
+x E.
+xc  c|
+xE. a|
+b
+1d&,   c|&{
+x c.
+xE
+x    "}E|
+xg  d|
+xh a|
+xg&,     //a
+x  h.
+b
+
+% line 4
+
+-l "2.4 in"
+
+i
+1 h
+x     a
+x   E|
+x  d|
+wEc
+b
+.
+b
+Q
+e
+

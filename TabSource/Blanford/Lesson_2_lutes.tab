@@ -1,0 +1,250 @@
+%size
+-R8
+%modern flags
+-F
+%compensate for whole notes
+-Q
+%print measure numbers every five measures
+-C
+
+{A lesson for two lutes/Folger Ms.}
+{Lute 1 of a duet for unison lutes}
+
+b
+c
+0.  dca
+1 a
+0 c&#  a
+x d
+b
+wa&#  - a
+0 a
+x     a
+b
+x a&#   a
+x c
+x d   a
+xa
+b
+0. c&#  a
+1 a
+0  d a
+x   c
+b
+1  d a
+x  c.
+x  d
+x a.
+x c  a
+x a.
+x c
+x d.
+b
+x     a
+xa.
+x d
+x c.
+0 a   a
+xa
+b
+
+% Lute 1 line 2, measure 7
+b
+1 a   a
+x  d.
+x a
+x c.
+x d   a
+x a.
+xa
+x d.
+b
+x c  a
+x d.
+x c
+x a.
+0  d a
+x   c
+b
+.
+b
+1  d&#ca
+x c&#
+x a&# a
+x  d
+b
+0. ac&#c
+1  d
+0 ac&#c
+x     a
+b
+1  d a
+x a.
+x c
+x  d.
+x a a
+x  d.
+x  c
+x  a.
+b
+
+% Lute 1 line 3, measure 12
+b
+0 ac&#  a
+1   c
+x  a.
+x  c
+x  d.
+x a
+x  c.
+b
+x  dca
+x  c.
+x  d
+x a.
+x c  a
+x a.
+x c
+x d.
+b
+xa  - a
+x d.
+xa
+xc.
+0a&#  - a
+x d&x
+b
+x c&#  a
+1 a a
+x  d.
+0 adc
+x  c
+b
+0.  dca
+1  d
+0   c
+x    a
+.
+b
+B
+Q
+
+p
+{A lesson for two lutes/Folger Ms.}
+{Lute 2 of a duet for unison lutes}
+
+b
+c
+0. cd a
+1 d
+0a - a
+xc&#
+b
+we&#a - a
+0a
+xc&#
+b
+xe  - a
+xf
+xh
+xe
+b
+0.f&#   a
+1h
+wf   a
+b
+1 c  a
+x a.
+x c
+x d.
+xa   a
+x d.
+xa
+xc.
+b
+0.ea   a
+1f
+0ea   a
+1a
+xc.
+b
+
+% Lute 2 line 2, measure 7
+b
+1e  - a
+xc.
+xe
+xf.
+xe  - a
+xf.
+xh
+xe.
+b
+xf   a
+xe.
+xf
+xh.
+wf&#   a
+b
+.
+b
+0 c&#  a
+xa
+x d a
+xc&#
+b
+waa c
+0aa c
+xd&x
+b
+0.c&#   a
+1a
+0 d&x a
+x c
+b
+
+% Lute 2 line 3, measure 12
+b
+waa c
+0aa c
+1a
+x d.
+b
+x c  a
+x a.
+x c
+x d.
+xa   a
+x d.
+xa
+xc.
+b
+xe  - a
+xc.
+xe
+xf.
+xe  - a
+xf.
+xh
+xe.
+b
+xf   a
+xa.
+xd  a
+xc.
+xa  c
+x d.
+x c
+x a.
+b
+0. cd a
+1 d
+0 cd
+x    a
+.
+b
+B
+Q
+
+{set by George Blanford}
+e

@@ -1,0 +1,311 @@
+-R7
+-e
+-b
+
+{Courante/Dufaut, Vm7 6214 f 40-41}
+{cnrs 44/D minor tuning}
+
+b
+0  a
+b
+0.  aa  ///a
+1   c
+x   a&,
+x    c
+b
+0    a
+0.  b&, c a
+x  a
+b
+0  a   /a
+x a
+x  E&, - //a
+b
+0 af   ///a
+1    a
+x c
+0 d
+b
+0.  d  a
+1   a
+0 a   b
+b
+x  ba  a
+x  dcc
+x  b
+b
+1    d
+x  a
+x     a
+x  b
+0  d
+b
+0   aab
+x   c
+x  a   /a
+b
+
+% lline 2
+
+b
+0  b a a
+0.    c&,
+1  aa a
+b
+0     b
+0.   c&,  4
+2   a
+x    c
+b
+0   a
+x      /a
+x    d
+b
+w  aa
+b
+.
+b
+0  a
+b
+0.  a d
+1  b
+x  d&{
+x    &}c
+b
+1    d
+x a
+0.  b&,aa
+1  a
+b
+0.   cc
+1    a
+x  a- E
+x   c
+b
+0   a&,  ///a
+0.    a
+1  cc
+b
+
+% line 3
+
+b
+0  a d
+1  b
+x   c
+0  de
+b
+0 aff
+0. c&, c
+1 a
+b
+0.  EE
+1   c
+x a a
+x c  c
+b
+0 d  a
+1     d
+x c
+x     b
+x     a
+b
+1 aa  b
+2   c
+x  a
+1   c
+x     a
+x      a
+x d
+b
+1 c&,
+x a
+0.  E&,  a
+2 a
+x  E
+b
+0 a &{
+x      &}///a
+x    a
+b
+w aaa
+b
+.
+b
+
+
+{Diminution}
+
+b
+0  a
+b
+1  a   ///a
+x  b
+x  a&,
+2   c
+x  a
+1   c&,
+2    c
+x   a
+b
+1    a
+x  a
+x  ba- a
+2    c
+x   a
+1    c
+x  b
+b
+1  a   /a
+x a
+x c
+x a
+x  E&,   //a
+2 a
+x  E
+b
+1 a -- ///a
+x  E
+x a
+x c
+x d
+x    a!^
+b
+0.  d  a
+1   a
+0 a - b
+b
+1  b - a
+x   a
+x    c
+x  d
+x      4
+x  b
+b
+
+% line 5
+
+b
+1  a&, - /a
+x   c
+x  a
+x  b
+0  d
+b
+1   a b
+x    c
+x   a
+x   c
+x      /a
+x  a
+b
+0  b a a
+0.    c
+1  aa a
+b
+0     b
+1   c&,  4
+2   a
+x   c
+1  a
+x    c
+b
+0   a
+x      /a
+x     d
+b
+w  aad
+b
+.
+b
+0  a
+b
+
+% line 6
+
+b
+1  a
+x  a&, d
+x   c
+x  a
+x  b
+x  d
+b
+1    d
+x a
+x  b a
+x  d
+x  b&,
+x  a
+b
+1   cc
+x    d
+x    c
+x    a
+x  a- E
+x   c
+b
+1   a&,  ///a
+2    c
+x   a
+1    a
+x   a
+x   c
+x    c
+b
+1    d
+x  a
+x  b
+x   c
+0  dE
+b
+1 a f
+x  a
+x   c
+x d
+x c&,
+x a
+b
+
+% line 7
+
+b
+1   E
+x  c
+x  E
+x   c
+x a a
+x c- c
+b
+0 d  a
+1     d
+x c
+x     b
+x     a
+b
+1 aa  b
+2   c
+x  a
+1   c
+x     a
+x      a
+x d
+b
+1 c&,
+x a
+0.  E&,  a
+2 a
+x  E
+b
+0 a
+x      ///a
+x    a
+b
+w aaa
+B
+.
+b
+e
+
+
+

@@ -1,0 +1,278 @@
+% From: gustav@mintir.new-orleans.la.us (gustav)
+% To: lute@cs.dartmouth.edu
+% Subject: 2 from Bossinensis
+% Reply-To: gustav@mintir.new-orleans.la.us
+% Message-Id: <214735.29195.s092bs@mintir.new-orleans.la.us>
+% Date: Thu, 19 Oct 95 16:47:35 -0600
+% Organization: Minas Tirith BBS (Public Access Usenet for New Orleans)
+% X-Mailer: Helldiver Packet Viewer 1.01
+% Content-Type: text
+% Content-Length: 2412
+% Status: RO
+% 
+% 
+% A short recercar and a frottole from Tromboncino.  The ties for the 
+% music staff of the second piece are duplicated in the tablature staff;
+% there is presently no alternative to this.  Also, where ficta would
+% likely apply (E preceding F) there is no option for a natural sign, 
+% although the = in the code would create one if such an option 
+% becomes available in a future release of TAB.
+% 
+% 
+% ===============================
+% 
+
+-Q
+-O
+
+{Recercar/Franciscus Bossinensis}
+{Tenori e Contrabassi \(1509\), #76}
+{Lute}
+
+%line 1
+
+b
+C
+2  0 3
+x    2
+x    3
+x     0
+x  0  1
+x     0
+x     1
+x     3
+b
+1  3  5
+2     3
+x     1
+x   1 3
+x     1
+x     0
+x    3
+b
+2 3  10
+x 2
+x 3
+x  0
+1 3
+x    10
+b
+2  0  1
+x     0
+x    3
+x    1
+x 2  3
+x    1
+x    0
+x   3
+b
+2 0  1
+x    0
+x    1
+x    3
+x 0  10
+x     3
+x     1
+x     0
+b
+
+%line 2
+
+b
+2  0  1
+x     0
+x     1
+x     3
+x 3   0
+x 2
+x 0
+x4
+b
+2 0  10
+x 2
+x 3
+x  0
+1  21 0
+x 0  1
+b
+2  0  5
+x  2
+x  3
+x  0
+x 3  10
+x    3
+x    2
+x    0
+b
+2 0
+x    2
+3    3
+x    2
+x    0
+1  0 3
+x   3
+b
+Y  033
+bb
+% e
+
+% ================================
+p
+
+
+-Q
+-O
+
+{Ala guerra/Bartolomeo Tromboncino}
+{Tenori e Contrabassi \(1509\), #55/arr. Franciscus Bossinensis}
+
+%line 1
+
+b
+MG
+ke
+1   3MwR0
+x   3
+x  3M0c0TA-
+x  0  5M0c0Tla
+b
+1     5M0a0Tguer-
+x  0  1M0F0Tra
+x    3M0R0
+xt  0  1M0c0Ta-
+b
+1  3M0c0T-
+x 3   0M0b0Tla
+x  0Mwa0Tguer-
+x    3
+b
+1 0MwG0Tra
+2    2
+x    0
+0 0  2M0R0
+x 
+x M0c0Tch'a-
+b
+1     1M0c.Tmor
+2  0
+x     0M1b0Tnon
+1    3M0a0Tvol
+xt 3   3M0G0-Tpiu-
+b
+
+%line 2
+
+b
+2  0M1G0T-
+x     1M1F0Tu
+x     0MwF0Tpa-
+x    3
+0 0   0
+x M0E=
+b
+0  03MwF0Tce
+x
+x  0 3M0R0
+x M0a0TMa
+b
+1.  0 3M0a.Tsem-
+x
+2    1M1G0Tpre
+x3   0M0F0Ta
+x   3Tpiu
+1t 3 1M0G0-Tte-
+b
+1 2M0G0T-
+x 53MwF0Tna-
+0 02T-
+x M0E=T-
+b
+1.  03MWF0Tce.
+2  2
+x 53
+x   3
+1    0
+b
+
+%line 3
+
+b
+1 0  1M0R0
+2    0MwG0TPiu
+x   3
+1  22
+x 0 3M1F0T-
+x M1E0T-
+b
+1  22M0D0Tu
+x 0 3M1C0Tte-
+x M1E0T-
+x  2MwD0Tna-
+x   2T-
+b
+0 0 3MwC0T-
+x T-
+x 0 3MwC0Tce.
+x
+b
+1   3MwR0
+x   3
+x  3M0c0TA-
+x  0  5M0c0Tla
+b
+1     5M0a0Tguer-
+x  0  1M0F0Tra
+x    3M0R0
+xt  0  1M0c0Ta-
+b
+1  3M0c0T-
+x 3   0M0b0Tla
+x  0Mwa0Tguer-
+x    3
+b
+
+%line 4
+
+b
+1 0MwG0Tra
+2    2
+x    0
+0 0  2M0R0
+x 
+x M0c0Tch'a-
+b
+1     1M0c.Tmor
+2  0
+x     0M1b0Tnon
+1    3M0a0Tvol
+x 3   3M0G0Tpiu
+b
+2  0M1G0T-
+x     1M1F0Tu
+x     0MwF0Tpa-
+x    3
+0 0   0
+x M0En
+b
+1  0MwF0Tce
+x   3M0a.Tpa
+x 1
+x M1G0T-
+x   1M0G0T-
+b
+1 0 3M0En0T-
+x  3MwF0T-
+0 02T-
+x M0EnT-
+b
+Y  033MwF0T-
+MwF0Tce.
+bb
+e
+% -- 
+% Stuart LeBlanc
+% swl01@www.gnofn.org
+% 
+% 
+% 
+% 

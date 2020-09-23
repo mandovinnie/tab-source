@@ -1,0 +1,47 @@
+Ornaments in de Visee's pieces
+******************************
+
+Updated 16.3.1995, Arto Wikla 
+
+1. A ',' after a letter is an ornament from the note above, only the first note is
+played by r.h., example (Prelude, measure 2): 
+
+    ________     _________      ______________
+    ___a_,__     __b__a___      ___b_a_b_a____
+    ________     _________      ______________
+    ___d____  =  __d______  or  ___d__________ ...
+    ________     _________      ______________
+    ________     _________      ______________
+       a           a               a
+
+
+Sometimes you can see both (of the first two above) in different versions
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+of the same piece! So the ornament is not a fast one, but kind of 'inegale'.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The same applies to the next ornament. 
+
+2. A tie after a letter without a letter to follow is an ornament from the note
+below, only the first note is played by r.h., example (Allemande, m. 2): 
+
+    __________     _________
+    ___b tie__     __a__b __
+    ___d______     __d______
+    __________  =  _________
+    __________     _________
+    __________     _________
+     ///a         ///a
+
+
+3. A tie between two letters means that only the first is played by r.h. 
+
+4. An 'x' after a letter is a faster ornament like (Allemande, m. 1): 
+
+    ________     __________
+    ________     __________
+    ___d_x__     __d_a_d___
+    ________  =  __________
+    ________     __________
+    ________     __________
+
+

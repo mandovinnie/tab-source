@@ -1,0 +1,350 @@
+-l "8.45 in"
+-R8
+{Galliard/Alfonso Ferrabosco}
+%1
+bb
+S3
+2.ea   a
+3f
+#2h
+x     e
+1kf h f
+b
+%2
+1.hf g a
+2f
+1e
+b
+%3
+2. cd a
+3 e
+#2a
+x    e
+1cce  c
+b
+%4
+1.cefec
+2 f
+1 e
+b
+%5
+1.hf g a
+2e
+1fc e c
+b
+%6
+1.cefec
+2 a   e
+#2 cd a
+x e
+b
+
+%line 2
+b
+%7
+i
+1a d e
+1 f ec
+#2 e
+x  d
+b
+%8
+1aac  a
+0aacc
+bb
+%9
+#3e    a
+x h
+xe
+xf
+#2h
+x     e
+1kf h f
+b
+%10
+1.hf g a
+2f
+1e
+b
+%11
+#3 c  a
+x a
+x c
+x e
+#2a
+x    e
+1cce  c
+b
+%12
+1.cefec
+2 f
+1 e
+b
+
+%line 3
+b
+%13
+i
+2.hf g a
+3f
+2e
+#3c
+xe
+#2fc e c
+xe
+b
+%14
+1.cefec
+2 a   e
+#3 c  a
+x a
+x c
+x e
+b
+%15
+#3a   e
+xc
+xe
+xa
+#3c   c
+x f
+x e
+x c
+#3 e
+x f
+xc
+x e
+b
+%16
+2aa   a
+#3 d
+x c
+#3 a
+x  d
+x  c
+x  a
+1   c
+bb
+
+%line 4
+bb
+%17
+i
+1.ca bc
+2f
+1ea   a
+b
+%18
+1ca bc
+1ca b
+1ea c a
+b
+%19
+1.fc e c
+2e c
+#2c d
+x f
+b
+%20
+1cef c
+0cef
+b
+%21
+1hf g a
+1e
+1fc e c
+b
+%22
+1.cef c
+2f
+1ea   a
+b
+%23
+1. cd a
+2 e
+1a d e
+b
+
+%line 5
+b
+%24
+i
+1ca bc
+0ca b
+bb
+%25
+1.ca bc
+#3a
+xc
+#2e
+x     a
+b
+%26
+1ca bc
+1ca b
+1ea c a
+b
+%27
+2fc   c
+#3c
+xe
+#2f
+xe cc
+#2c d
+x f
+b
+%28
+1cef c
+0cef
+b
+%29
+2.hf g a
+3f
+1e
+#2fc e c
+xe
+b
+
+%line 6
+b
+i
+%30
+2. e  c
+3 c
+#2 e
+xf
+1ea   a
+b
+%31
+2. cd a
+3 a
+#2 c
+x e
+#2a
+x    e
+b
+%32
+1ca bc
+0ca b
+bb
+%33
+#2e    a
+xf
+#2h
+xk
+1h
+b
+%34
+#2h    a
+x a
+#2 c
+x e
+1 f
+b
+%35
+1.hf g a
+2  a
+#2  c
+x  d
+b
+
+%line 7
+b
+i
+%36
+1  f
+0ca bc
+b
+%37
+2.ea   a
+3f
+#2h
+x a
+1 c
+b
+%38
+2. ea c
+3a
+#2c
+x  a
+1  c
+b
+%39
+1a d e
+2 f  c
+#3 e
+x c
+#2 e
+x  d
+b
+%40
+1aac  a
+0aacc
+bb
+%41
+2ea   a
+#3e
+xf
+#2h
+xk
+1h
+b
+%42
+2h    a
+#3 a
+x a
+#2 c
+x e
+1 f
+b
+
+%line 8
+b
+i
+1.hf g a
+2  a
+#3  c
+x  a
+x  c
+x  d
+b
+%44
+1  f
+0ca bc
+b
+%45
+#3e    a
+x h
+xe
+xf
+#2h
+x a
+1 c
+b
+%46
+#3 e  c
+x c
+x e
+xa
+#2c
+x  a
+#2 ac  e
+x     a
+b
+%47
+1a d e
+#3    c
+x f
+x e
+x c
+#3 e
+x f
+x  d
+x e
+b
+%48
+1aac
+Yaaccca
+bb
+Q
+e

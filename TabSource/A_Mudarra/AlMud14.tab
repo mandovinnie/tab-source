@@ -1,0 +1,429 @@
+% Date: Wed, 21 Feb 2001 20:06:02 -0500
+% From: Leonard Williams <arckon@juno.com>
+
+% Wayne--
+
+%         Here is another corrected TAB file for the Mudarra archive,
+% AlMud14.tab.  Needed a flag.
+% 
+%         TAB question: How can I get an Italian style half-note under a
+% fermata?  I'm using smallitalian for flags, but under a fermata I get a
+% standard (round) half-note.  Bar 32 of AlMud15_It.tab is the spot I'm
+% looking at.
+% 
+% Thanks!
+% Leonard
+
+
+
+$pstitlefont=pzcmi
+$psalttitlefont=ptmr
+$titlesize=18
+$flagstyle=thin
+$charstyle=robinson
+
+-highlightparen
+-R9
+-c
+
+F2
+{\CL/Romanesca: o guardame las vacas (TL I,14)}
+F3
+{/Alonso Mudarra.}
+
+b
+Sc
+0fg d
+1fg
+x   f
+xfgd
+x  f
+b
+0dfg
+x    d
+xdf  d
+b
+1bd a
+x    d
+x   a
+x   c
+xbd d
+x  b
+b
+0.acd
+1  b
+x   d
+x   c
+b
+0fg d
+x   a
+xfg d
+b
+xdf  d
+1  g
+x d
+x f
+x  g
+b
+1.bd
+2a
+1 d
+xb
+xa d
+x c
+b
+
+% line 2
+
+b
+0 d a
+1   a
+x c
+2 d
+x b
+x a
+x  d
+b
+1 ab  d
+x   a
+x c  a
+x d  c
+x   ca
+x c
+b
+x d a
+2 b
+x a
+x  d
+x  b
+x   d
+x   c
+0   a
+b
+b
+xf gd
+1  d
+x  f
+x  g
+x d
+b
+xdf  d
+x   a
+x   c
+x   d
+x  b
+x  d
+b
+0bde
+1.   d
+2  b
+1  d
+x  b
+b
+
+% line 3
+
+b
+0acd
+1f
+2d
+xb
+xa
+x d
+x b
+x a
+b
+0  dd
+1     b
+x     d
+x    a
+x    c
+b
+1.a b d
+2c
+1d
+x   a
+x   c
+x    d
+b
+xb  a
+2d
+xb
+xa
+x d
+xa
+xb
+1a d
+x c
+b
+1. d a
+2a
+1b
+xa
+x d
+x b
+b
+x ab  d
+x   d
+x d cb
+x   a
+xf  ca
+xd
+b
+
+% line 4
+
+b
+1bd a
+2 d
+xa
+xb
+xa
+xb
+xd
+1f
+xg
+b
+b
+1f  d
+2d
+x g
+x f
+x d
+x  g
+x  f
+1  dd
+x  f
+b
+1. fgfd
+2 g
+1d
+x   a
+xdabc
+x c
+b
+xbdda
+x    d
+x    b
+x    a
+0dd ab
+b
+xfc ca
+1   d
+x  b
+x  d
+x a
+b
+xfb   b
+x a
+x  d
+x  b  d
+x   da
+x    c
+b
+
+% line 5
+
+b
+1ab cd
+xc
+xd
+x   d
+x  b
+x  d
+b
+0bde b
+xd    d
+xfcd a
+b
+0.cdda
+1    d
+x    c
+x    a
+b
+xddf  d
+2   f
+x  d
+x  f
+x  h
+1  i
+xff h
+x  h
+b
+x  i f
+2 f
+x h
+x i
+xf
+xh
+xk
+0l
+b
+b
+1.   d
+2  b
+x  d
+x a
+x b
+x d
+1a
+xc
+b
+
+% line 6
+
+b
+1d  c
+x  a
+x  b
+x  d
+x a
+x c
+b
+xbd
+2  e
+x b
+x d
+x f
+1 g
+xdf
+xbd
+b
+xac
+2  d
+x a
+x c
+x a
+x c
+x d
+1 b
+x a
+b
+x  d  b
+x     a
+x     b
+x     d
+x  d a
+x    c
+b
+1.  b d
+2   a
+x   c
+x   a
+x   c
+x   d
+1  bc
+x    d
+b
+
+% line 7
+
+b
+0   df
+1   cf!^
+x   a
+x   c
+x    e
+b
+0.   af
+1    d
+x    c
+x    a
+b
+x   ac
+2     d
+x    a
+x    c
+x    e
+1    f
+x   c
+x    e
+b
+0   af
+1 d
+xa
+xb
+xd
+b
+b
+xf  d b
+x  b
+x  d
+x a   d
+x b  a
+x d  c
+b
+xabb d
+xc
+xd
+x   a
+x   c
+xf  d
+b
+
+% line 8
+
+b
+1.bdda
+2d
+1f
+x   c
+x   d
+xh  f
+b
+0kf ha
+1f
+x  f
+x  g
+x  f
+b
+x  dd
+xd
+x g
+x f
+x g df
+x  f
+b
+x  gfd
+2 f
+x g
+xd
+x g
+x f
+x d
+1 gddf
+x f
+b
+0 dff d
+1  dca
+2 c
+x a
+x d
+x c
+x a
+x c
+b
+
+% line 9
+
+-l "3.5 in
+
+b
+1 dda
+xa
+xc
+xd  c
+xf  d
+x    f
+b
+0g  f
+1 d
+x   f
+xf  d
+xd  c
+b
+Ycdda
+b
+B
+
+e

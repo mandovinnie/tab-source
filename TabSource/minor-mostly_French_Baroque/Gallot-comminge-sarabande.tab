@@ -1,0 +1,190 @@
+
+-K
+-R8
+-b
+
+{La comminge Sarabande de Gallot le Vieux/Lipzig 14 f 62v}
+
+i
+0add.  /a
+1-".a".d".d
+xa
+x c&,b.  a
+x a
+b
+0  da.a
+1  ".d".a
+x  d
+x      /a
+x  d
+b
+0  dcc.//a
+1  ".d".c".c
+x  d
+x     d
+x  b
+b
+
+% line 2
+
+
+0.  aad./a
+1    a|
+x    c&,|
+x   a
+b
+0   ccd4
+1   ".c".c
+x  a.
+0  b   a
+b
+0  bca|
+1  ".b".c
+x  d.
+0  a  a!0376
+b
+0  aad|
+x a.
+x  d c|
+b
+
+% line 3
+
+i
+0.  d a.a
+1  c.
+0  d   4
+b
+.
+b
+0  aad !0376
+1  ".a".a
+x     a
+x     b
+x   c.
+b
+0.   c&,  4
+2   a{
+x    c &}
+0   a  /a
+b
+.
+b
+1    c&,d(
+2   a{
+x    c}&)
+i
+
+% line 4
+
+i
+1   a
+x    a|
+0   cc|
+b
+0  aad./a
+1  ".a".a
+x  a.
+0    b&,|
+b
+0  ^baa|
+1  ".b".a
+x  b.{
+0  d/ a
+b
+0 aba. d&{
+1 ab
+x    a|
+0 ".a".b  &}
+b
+
+% line 5
+
+i
+0 ^bdc.d{
+1 ".b".d
+xa   &}
+0 a./  a
+b
+0. abc|
+1 a.
+0    d|
+b
+0 a/ b|
+1   c|&{
+x a
+x  d.
+x a  &}
+b
+0 a ca|
+0.   b&,|
+1  b
+b
+
+% line 6 page 2
+
+i
+0  c&,c. a
+1  ".c".c
+x  c
+x      /a
+x  cc.
+b
+0  dcc.//a
+1  dc.
+x  d
+x     d
+x  b
+b
+0  aa^d./a
+1  ".a".a
+x     a
+x     b{
+x   c. &}
+b
+
+% line 7
+
+i
+0.   c&,  4
+2   a{
+x    c &}
+1   a  /a
+x  d.
+b
+1  c&,|  a
+x   c{
+x    a &}
+x  c
+x      /a
+x  cc.
+b
+x  d   //a
+x   c{
+x    c &}
+x  d
+x     d
+x  b
+b
+
+
+% last line
+-l "5.1 in"
+
+i
+0  aad./a
+1  ".a".a
+x  a
+x     b
+x   c.
+b
+0.   c&,  4
+2   a{
+x    c &}
+0   a  /a
+b
+.
+b
+B
+e
+

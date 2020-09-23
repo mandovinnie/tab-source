@@ -1,0 +1,90 @@
+%Wayne Cripps' tab format file
+
+-P=20
+-i=20
+
+{Francesco - }
+%Tuning  GDAFCG
+
+-t
+-n
+
+
+
+{Fantasia_68}
+
+%Line no.1 
+b
+1.aa c a
+2     c
+1     d
+x     a
+b
+%Bar 2
+xab ca
+x a   d
+2     a
+x  b  
+x  d  
+x a   
+b
+%Bar 3
+1ab ca
+1 a   d
+2     a
+x  d  
+x  b  
+x  a  
+b
+%Bar 4
+xd  c 
+x  a  
+x  b  
+x  d  
+x a   
+x  b  
+1 b  d
+b
+%Bar 5
+xd    
+2 a a 
+x  d  
+x  bc 
+x  a  
+x  b  
+x  d  
+b
+%Bar 6
+
+%Line no.2 
+b
+xda   d
+x c   
+x d   
+x    a
+1    c
+xda   d
+b
+%Bar 7
+xc da 
+2 d   
+xa    
+xc    
+xd    
+xf    
+xh    
+b
+%Bar 8
+1if  a
+2   h 
+x  f  
+x  g  
+x  i  
+1 f   
+b
+%Bar 9
+%End of section
+{/}
+
+e
+%End of document

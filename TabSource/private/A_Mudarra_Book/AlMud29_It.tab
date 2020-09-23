@@ -1,0 +1,490 @@
+%First-pass conversion from original tablature
+%to ASCII tab by Donald Sauter.
+%Wayne Cripps' TAB files generated
+%by Leonard Williams with assist from
+%Alain Veylit and StringWalker.
+
+$pstitlefont=pplb
+$psalttitlefont=pplri
+$titlesize=18
+$alttitlesize=14
+$flagstyle=smallitalian
+$numstyle=italian
+$line=o
+
+-R8
+-c
+
+%tuning = GDAFCG
+
+F2
+{\CL/ Fantasia (segundo tono)}
+F3
+{}
+{Tres Libros... II, f. 6v/Alonso Mudarra      }
+
+%Line 1
+
+b
+SC
+0.  0
+1  0
+b
+%Bar 2
+x  2
+x   0
+0   1
+b
+%Bar 3
+x    3
+1   0
+x    3
+b
+%Bar 4
+x   1 0
+x     2
+0    03
+b
+%Bar 5
+x  03
+1     2
+x  0
+b
+%Bar 6
+x  21 3
+x  4
+0  55
+b
+%Bar 7
+x   3
+x  4  5
+b
+%Bar 8
+x  5  7
+x3   3
+b
+%Bar 9
+x 0  15
+1 2  03
+x   3 2
+b
+%Bar 10
+x 3 110
+x  0
+x  2103
+x    2
+b
+%Bar 11
+
+%Line 2
+
+b
+1  033
+2     2
+x     0
+x     3
+x     2
+x     0
+x     2
+b
+%Bar 12
+03  103
+1 3  1
+x    0
+b
+%Bar 13
+1.  03
+2   1
+1   0
+x  2
+b
+%Bar 14
+0 21
+1 02
+x3
+b
+%Bar 15
+x2 1  2
+2     3
+x     2
+x     3
+x     2
+x     3
+x     2
+b
+%Bar 16
+10 2 03
+2    1
+x    0
+x    1
+x    0
+x    1
+x    0
+b
+%Bar 17
+
+%Line 3
+
+b
+1. 0  15
+2     3
+1     2
+x     0
+b
+%Bar 18
+1 2 04
+2 3
+x 2
+x 3
+x 2
+x 3
+x 2
+b
+%Bar 19
+0 32  0
+1  003
+x    1
+b
+%Bar 20
+x  210
+x  0
+x 3
+x 2
+b
+%Bar 21
+0 0  10
+1   3
+x3   0
+b
+%Bar 22
+x2  322
+x    4
+00  554
+b
+%Bar 23
+x2  3 5
+x    4
+b
+%Bar 24
+x0  553
+x     0
+b
+%Bar 25
+10  10
+x     2
+x     3
+x2
+b
+%Bar 26
+
+%Line 4
+
+b
+13  10
+x     3
+x 0 312
+x   1 0
+b
+%Bar 27
+x 2454
+x 0
+x3 2 00
+x2
+b
+%Bar 28
+x0    3
+x     5
+0  5  7
+b
+%Bar 29
+x  47
+x     6
+b
+%Bar 30
+x  55 7
+x 7
+b
+%Bar 31
+x  00
+1 2
+x   2
+b
+%Bar 32
+0  43 5
+x  5533
+b
+%Bar 33
+x 3 65
+x 0   5
+b
+%Bar 34
+x 2 542
+x0   53
+b
+%Bar 35
+12  3
+x     2
+03  100
+b
+%Bar 36
+1 043
+x    4
+0 2 04
+b
+%Bar 37
+
+%Line 5
+
+b
+1.0 21 0
+2     2
+1     3
+x2
+b
+%Bar 38
+x3 2
+x 0 0
+x 2!^1
+x 4
+b
+%Bar 39
+0  0
+x   03
+b
+%Bar 40
+x  21
+x    1
+b
+%Bar 41
+x  000
+w 323
+bT
+%Bar 42
+0!
+0 201
+b
+%Bar 43
+x5
+x 34  5
+b
+%Bar 44
+x355  7
+x    3
+b
+%Bar 45
+1    53
+x    7
+0    8
+b
+%Bar 46
+1    75
+x    5
+x   8
+x   6
+b
+%Bar 47
+0   5 7
+x   035
+b
+%Bar 48
+
+%Line 6
+
+b
+0  2 03
+1   1 0
+x    2
+b
+%Bar 49
+x   032
+x  2
+x  0
+x 4   0
+b
+%Bar 50
+x 2  3
+x    2
+0  0 02
+b
+%Bar 51
+1 4
+x     0
+0  24 0
+b
+%Bar 52
+1 245
+x    4
+x     0
+x     2
+b
+%Bar 53
+x0 2 03
+x     5
+x     7
+x  0
+b
+%Bar 54
+x  2
+x   0
+x   10
+x   3
+b
+%Bar 55
+x   53
+x 0
+x 2
+x 4
+b
+%Bar 56
+
+%Line 7
+
+b
+1  0
+x  2
+x  43
+x    0
+b
+%Bar 57
+x    2
+x    4
+x  21 0
+x  0
+b
+%Bar 58
+x 3
+x 2
+x 321 0
+x   3
+b
+%Bar 59
+0 245
+x    4
+b
+%Bar 60
+x0 2 00
+x   1
+b
+%Bar 61
+10  1 0
+x2  3
+x3   0
+x 0  2
+b
+%Bar 62
+0 2 04
+x  !^1
+b
+%Bar 63
+x 3   0
+x  !^3
+b
+%Bar 64
+x  0  2
+x    0
+b
+%Bar 65
+x  2  3
+x    2
+b
+%Bar 66
+x  0332
+x   5
+b
+%Bar 67
+
+%Line 8
+
+b
+0 0 755
+x  087
+b
+%Bar 68
+17    7
+x   7
+0   58
+b
+%Bar 69
+x 4  5
+1   4
+x     2
+b
+%Bar 70
+x 2  03
+x     2
+03    3
+b
+%Bar 71
+x  033
+x     2
+b
+%Bar 72
+1  210
+x     0
+0 0 310
+b
+%Bar 73
+x 2453
+x3 55 7
+b
+%Bar 74
+x53 6 5
+1 20 03
+x     2
+b
+%Bar 75
+0 321 0
+x   3
+b
+%Bar 76
+x 2454
+x3  533
+b
+%Bar 77
+1 3 655
+x     3
+x     3
+x   5
+b
+%Bar 78
+
+%Line 9
+
+-l "5.3 in"
+
+b
+2  033
+x     3
+x     2
+x     0
+x    3
+x    1
+x    0
+x   3
+b
+%Bar 79
+x  21
+x   0
+x   1
+x   3
+x    0
+x    2
+x    4
+x     0
+b
+%Bar 80
+1 2454
+0     0
+1    4
+b
+%Bar 81
+w0 2 00
+b
+%Bar 82
+x 02320
+b
+%Bar 83
+YW022200
+b
+B
+e

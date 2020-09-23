@@ -1,0 +1,116 @@
+Index and General Notes for Tres Libros de Musica
+
+	Below are the index and notes which accompany Donald Sauter's original transcription of Tres Libros.  (AMxx refers to his ASCII tab files; the "enhanced" files are AlMudxx of the same "xx".)
+
+Tres Libros - Book 1 
+
+Fantasias in three and four part writing 
+AM1: Fantasia de pasos largos para desenbouluer las manos. 
+AM2: Fantasia para desenboluer las manos. 
+AM3: Fantasia de pasos para desenbouluer las manos. 
+AM4: Fantasias de pasos de contado. 
+AM5: Fantasia facil. 
+AM6: Fantasia facil. 
+AM7: Fantasia facil. 
+AM8: Fantasia. 
+AM9: Fantasia. 
+AM10: Fantasia que contrahaze la harpa en la manera de Luduvico. 
+
+Compositions of Josquin des Pres 
+AM11: La segunda parte de la gloria de la misa de faysan regres. 
+AM12: Pleni de la misa de faysan regres. 
+
+Lesser pieces 
+AM13: Conde Claros. 
+AM14: Romenesca: o guardame las vacas. 
+AM15: Pavana 
+AM16: Pavana de Alexandre. 
+AM17: Gallarda. 
+
+Pieces for guitar 
+AM18: Fantasia del primer tono. 
+AM19: Fantasia del quarto tono. 
+AM20: Fantasia del quinto tono. 
+AM21: Fantasia del primer tono. 
+AM22: Pavana. 
+AM23: Romanesca: o guardame las vacas. 
+
+
+Tres Libros - Book 2 
+
+Pieces in the First Mode (tono) 
+AM24: Tiento. 
+AM25: Fantasia. 
+AM26: Kyrie primero de la missa de Beata Virgine de Josquin glosado. 
+AM27: Fantasia. 
+
+Pieces in the Second Mode 
+AM28: Tiento. 
+AM29: Fantasia. 
+AM30: Fantasia de sobre fa mi ut re.
+ 
+Pieces in the Third Mode 
+AM31: Tiento. 
+AM32: Fantasia . 
+AM33: Glosa sobre un Kyrie postrero de una misa de Josquin qua va sobre Pange Lingua. 
+
+Pieces in the Fourth Mode 
+AM34: Tiento. 
+AM35: Fantasia. 
+AM36: Glosa sobre un Benedictus de una missa de Josquin que va sobre la sol fa re mi. 
+
+Pieces in the Fifth Mode 
+AM37: Tiento. 
+AM38: Fantasia. 
+AM39: Fantasia. 
+
+Pieces in the Sixth Mode 
+AM40: Tiento. 
+AM41: Fantasia . 
+AM42: Glosa sobre el promer Kirie de una missa de Antoine Fevin que va sobre Ave Maria. 
+
+Pieces in the Seventh Mode 
+AM43: Tiento. 
+AM44: Fantasia. 
+AM45: Glosa sobre el Cum Sancto Spiritu de la missa de Beata Virgine de Josquin. 
+
+Pieces in the Eighth Mode 
+AM46: Tiento. 
+AM47: Fantasia. 
+AM48: Fantasia. 
+AM49: Fantasia va sobre fa mi fa re ut sol fa sol mi re. 
+
+
+Tres Libros - Book 3 
+
+Motets 
+AM50: Pater noster a quatro de Adrian Williart. 
+AM51: Respice in me Deus de Gombert. 
+
+[The remainder of Book III is for voice and vihuela, plus one piece for harp or organ. ]
+
+
+Mudarra, vihuela and tablature 
+
+	Alonso Mudarra was the 3rd of the known vihuelists with surviving publications. His Tres Libros de Musica en Cifras (1546) followed Milan's El Maestro (1535) and Narvaez' Seys Libros del Delfin de Musica (1538). 
+
+Tablature orientation: Mudarra's tablature was "upside-down" (although I doubt that Alonso would agree.)  [and used numbers rather than letters].  His top-most line in the tablature staff represented the bass-most string on the vihuela. This modern [French] tablature has flip-flopped the original tablature staff; the top-most line here represents the treble-most string. 
+Vihuela tuning: The nominal tuning for the vihuela is G c f a d' g'. The same intervals can be gotten on the guitar by tuning string 3 down a half-step to f#. 
+Tempo: Mudarra used 3 different symbols to indicate tempo. They were placed at the beginning of the first tablature staff. A symbol which looks like a Greek phi means "apriesa" (quickly). A "C" (which looks like our common time symbol) means a middle tempo. A "C" with a vertical slash down the middle (which looks like our cut time symbol) means "despacio" (slowly). These symbols were [originally] written on Mudarra's 1st, 2nd or 3rd line. I don't know what the different locations imply. 
+Held notes: A caret, or hat (^), above a fret number in Mudarra's tablature means to let the note ring as long as possible. I suggest writing in a concave-up tie starting below the fret number and open-ended to the right. 
+Right-hand technique: In a few pieces, Mudarra gives instructions for the right hand. He writes "dedi" for a "dedillo" passage - the index finger alone plays by plucking up and down. "Dosde" is short for "de dos dedos", which means to play the passage with alternating thumb and index finger. In some instances it is not clear exactly which fret number Mudarra's instruction is aligned with - not that this is crucial. (Modern right-hand technique seems to work fine.) 
+Ornamentation: Mudarra's tablature never showed any ornaments. 
+Final measures: Mudarra always wrote a breve (1 breve = 2 whole notes) as the rhythm for the last measure. Note that this is twice the value of the other measures. 
+Simplification: While evolution has generally been very good to us humans, it's pretty clear that it's been sabotaging our left hands over the last few centuries. In particular, the 4-finger "flying wedge" formation shown below must have been child's play in the 1500s and 1600s, judging by its ubiquity. For most modern guitar mortals, it's a sure-fire crash point. Suggestion: use a 3-finger formation and leave out the second note from the top. Hey, it sounds the same! (The first example is typical in the vihuela pieces, the second in guitar pieces.) 
+           ____    ____            ____    ____
+     	  |____    ____|          |_5__    __5_|
+          |_4__    __4_|          |_6__    ____|
+          |_5__ to ____|          |_5__ to __5_|
+          |_4__    __4_|          |_3__    __3_|
+          |_2__    __2_|          |____    ____|
+          |____    ____|          |____    ____|
+	In most other cases of hard chord formations, it is possible to pull a similar stunt: just eliminate an internal note which is an octave of the bass or treble note. There will be negligible loss of effect. 
+Rhythm: All of Mudarra's rhythm values have been halved (with the exception of one piece where they were quartered.) This brings the rhythm values into line with what we are used to reading today. Also, if the rhythms weren't halved, the tablature would show hypnotizingly long passages of bare stems. A single beam would appear only where the tablature here shows 16th notes. 
+	Because the rhythms have been halved, it can be confusing describing corrections that have been made. (There weren't many.) I always speak in terms of Mudarra's original, full-length rhythmic values, so you must make a mental conversion when looking at the modern tablature. 
+
+

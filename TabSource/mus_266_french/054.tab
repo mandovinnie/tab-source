@@ -1,0 +1,479 @@
+
+% From: "Jorge Renato" <caleido@hotmail.com>
+% To: wbc@cs.dartmouth.edu
+% Subject: 266_tab
+% Date: Mon, 02 Dec 2002 16:07:27 +0000
+
+-t
+-f
+{266_054}
+b
+1aa c
+x     a
+xaa c
+x   d
+b
+xaab
+xbbd
+2 ddd
+xa
+xb
+x   a
+b
+x   c
+xa
+1aab
+2a dd
+3 d
+x b
+2 ddd
+xa
+b
+1aabc
+2     a
+x d
+x b
+x a
+xab
+x    a
+b
+x     d
+xaa
+xa d
+x    a
+x     a
+xa b
+x  d
+x     b
+b
+
+b
+x   c a
+x   d
+x   c
+x   a
+x     b
+xa
+1b  a
+b
+2da c
+3b
+xa
+xd
+xb
+xa
+x d
+2 b ca
+3 d
+xa
+xb
+xa
+x d
+x b
+b
+2 ab  d
+x d
+x bb d
+x a
+x  dd
+x    f
+xa b d
+x    c
+b
+x bd a
+x d
+xa
+x     d
+xa d  b
+3 d
+x b
+2 d
+x     b
+b
+
+b
+xdab  a
+x   c
+xa
+x  a
+xd b
+3   c
+x  a
+x  b
+x  d
+x a
+x b
+b
+2bd a
+x b
+xb da
+x a
+xab  d
+x d
+xab  d
+xb
+b
+xda
+x   c
+x  dd
+xf
+xda c
+x  b
+xb da
+xa
+b
+x df
+x   f
+xab d
+x   c
+xbd a
+xa
+xaab
+x   c
+b
+xa dd
+3 d
+x b
+x d
+x b
+x a
+x  d
+2  bc
+x  d
+x ab
+x   c
+b
+
+b
+x    a
+x bd
+x d d
+x    f
+x    d
+xa b
+xb d
+x   a
+b
+xda   d
+3  b
+x  d
+x a
+x  b
+x  d
+x a
+2db
+x d
+x f
+xd
+b
+xb
+3 d
+x b
+2 d
+xb
+xaf
+x b
+xa
+x a
+b
+xa d
+x  b
+xa  d
+x   c
+xf  d
+x  d
+xda c
+xb  a
+b
+
+b
+xab  d
+3  d
+x a
+x b
+x d
+xa
+xb
+2da c
+3 b
+x a
+x b
+x a
+x  d
+x  b
+b
+2  da
+3b
+xa
+xb
+xa
+x d
+x b
+2 ab
+x   c
+x    a
+x bd
+b
+x df
+x     d
+x    d
+xa b
+xc da
+3d
+xc
+xd
+xc
+xa
+xc
+b
+2da   d
+xb
+xab  a
+x a
+xb da
+xa
+x d
+x   c
+b
+
+b
+x   d
+x b
+x a
+x  d
+x  b
+x   c
+x     a
+x  d
+b
+x a
+x     c
+x     d
+x b  a
+x d  c
+xa   d
+xb  a
+x   c
+b
+x   d
+xa
+3b
+xa
+x d
+x b
+2 a
+x  b
+x b d
+x   c
+b
+xb  a
+x b
+x  d
+x a
+x    d
+xab
+x a
+x  d
+b
+xa b
+x    d
+x    c
+x d a
+x b c
+x    d
+x    f
+x  de
+b
+
+b
+x ab
+x     d
+x     a
+x b c
+x d a
+x    c
+x    d
+x b c
+b
+x  dd
+x     b
+x     d
+x a a
+x b ca
+x a
+x b
+x    c
+b
+x    d
+3 a
+x b
+x d
+xa
+2    a
+x    c
+3 d
+xa
+xb
+xd
+2   c
+b
+x  b
+3a
+xb
+xd
+xb
+xa
+x d
+2 bd
+x d
+xa
+x  b
+b
+
+b
+x   d
+3  d
+x a
+x b
+x d
+xa
+xb
+2da c
+x  d
+xda
+x b
+b
+xbd
+xa
+1af
+2b
+3 d
+x b
+2 d
+xb
+b
+xai
+3 f
+x g
+x i
+x g
+x f
+x  i
+2af
+3 b
+x d
+xa
+x d
+x b
+x a
+b
+2ab
+3 a
+x b
+x a
+x  d
+x  b
+x  a
+2da c
+3a
+xb
+xd
+xb
+xa
+x d
+b
+
+b
+2a b d
+3 b
+x d
+xa
+x d
+x b
+x a
+2 b c
+3 a
+x b
+x d
+x b
+x a
+x  d
+b
+2aab
+3   c
+x   d
+x   f
+x   d
+x   c
+x   a
+2da c
+3    d
+x   a
+x   c
+x   a
+x    d
+x    c
+b
+2a b d
+3 b
+x d
+xa
+x d
+x b
+x a
+2 b  a
+x  d
+x    a
+x a
+b
+x bd
+x d
+xaab
+x   c
+xa dd
+3 d
+x b
+2 ddd
+xa
+b
+
+b
+xaa c
+x  b
+x   c
+x  d
+xaa c
+x b
+3 a
+x  d
+x  b
+x  a
+b
+2aadc
+3  c
+x  a
+2aadc
+x  c
+xabd  a
+x a
+xab
+x  d
+b
+x    a
+xabd
+x ac
+x  de
+xabd a
+3 a
+x b
+x a
+x  d
+x  c
+x  a
+b
+0aacc
+b
+b
+b
+
+e

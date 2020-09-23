@@ -1,0 +1,622 @@
+%  18F.tab
+-R9
+-C
+$tempo=4
+
+{the Lord Souches Maske - The M.L. Lute Book (18) ff.7v-8r}
+{18. The Lord Zouche's Mask}
+
+%-l "7.2 in"
+% -R ".92"
+
+b
+w a#cc a
+x-#a.
+b
+0.  #cc a
+1  d.
+0 #a
+x a.
+b
+x-#a -  a
+x a.
+x-#a -  a
+x a.
+b
+0  #c  a
+x a.
+w-#e:
+b
+0. #aa - //a
+1 c.
+x e:
+xa.
+0-#c:
+b
+0.  xdca
+1 a.
+x c
+x e.
+0-#a
+b
+w  #cc a
+x  abc
+b
+Waaccca
+b
+0. a#cc a
+2 c
+x e.
+w-#a
+i
+b
+
+% line 2
+
+b
+1.  #c  a
+2  a.
+x  c
+x  a.
+x  c
+x  d.
+0 #a
+x a.
+b
+0-#a -  a
+x a.
+x-#a -  a
+x a.
+b
+2  c  a
+x  a.
+x  c
+x  d.
+1 #a
+x a.
+w-#e:
+b
+0. #aa   //a
+1 c.
+2 e
+x c.
+x e
+xa.
+0-#c
+b
+0.  xdca
+1 a.
+2 c
+x a.
+x c
+x e
+0-#a
+b
+1  #c  a
+2  a
+x  c.
+1  d
+x  #c.
+i
+b
+
+% line 3
+
+b
+1  a c{
+x   c.
+x  a:
+x   b.&}
+b
+0aa#c  a
+x   c
+w     a
+b
+0 a#cc a
+x acc
+1. #c  a
+2 e.
+0a:
+b
+1. xea   //a
+2a.
+0-#c:
+waa#c  a
+b
+1.#caa   //a
+2e.
+0F:
+w-#ea - a
+b
+1.#caa   //a
+2e.
+0F:
+1.#ea   a
+2F.
+0H:
+b
+0. aa   //a
+1 c.
+x e
+xa.
+0-#c
+i
+b
+
+% line 4
+
+b
+0.  xdca
+1 a.
+x c
+x e.
+0-#a
+b
+0.  #cc a
+1  d.
+x  a c{
+x   c.
+x  a:
+x   b.}
+b
+0aa#c  a
+x   c
+w     a
+b
+0 a#cc a
+x acc
+2 c  a
+x a.
+x c:
+x e.
+0Q#a:
+b
+2 e  - //a
+x c.
+x e:
+xa.
+0-#c
+waa#c  a
+b
+2c  -  //a
+xa.
+xc:
+xe.
+0F:
+w-#ea   a
+i
+b
+
+% line 5
+
+b
+2c  -  //a
+xa.
+xc:
+xe.
+0F:
+2e  - a
+x H.
+xe:
+xF.
+0H:
+b
+1. #aa - //a
+2  e.
+x a
+x  e.
+x a
+x c.
+x e
+x c.
+x e
+xa.
+0-#c
+b
+1  xd a
+2  a
+x  c.
+x  d
+x  c.
+x  d
+x a.
+x c
+x a.
+x c
+x e.
+0-#a
+b
+1  #c  a
+2  a
+x  c.
+x  d
+x  c.
+x  a
+x   c.
+i
+b
+
+% line 6
+
+b
+1  a c[
+x   c.
+x  a:
+x   b ]
+b
+0aa#c  a
+x   c
+w     a
+b
+1 a:
+x  c.
+x   c&(
+x a.
+x-#a:
+x a. &)
+x   c&(
+xa.  &)
+b
+x  #c:
+x   c
+x     a
+x  d.
+0 #a
+x a.
+b
+1-#a:
+x a.
+x     a
+x a.
+x-#a:
+x a.
+x     a
+x a.
+b
+x  #c:
+x   c.
+x     a
+x a.
+xe:{
+x     c
+x     e
+x    a
+i
+b
+
+% line 7
+
+b
+1 #a:
+x  a.
+x      //a
+x c.
+x e:
+xa.
+0-#c:
+b
+1  xd:
+x   c.
+x    a
+x a.
+x c:
+x e.
+0-#a:
+b
+0  #c  a
+1  a
+x   c.
+x  a c[
+x   c.
+x  a:
+x   b.]
+b
+0aa#c  a
+x   c
+w     a
+b
+1 a#c  a
+2   c
+x  a.
+x  c
+x  a.
+x  c
+x  d.
+1 #a
+2  c
+x  d.
+x a
+x c.
+x e
+xa.
+b
+
+% line 8
+
+b
+1  #c  a
+x   c.
+x  c
+x  d.
+0 #a
+x a.
+b
+2e -  a
+x H.
+xe
+xF.
+1H
+xH.
+2a -  a
+x e.
+xa
+xc.
+1-#a
+x a.
+b
+2  c  a
+x  a.
+x  c
+x  d.
+1  #c
+x   xc.
+2  c
+x  a.
+x  c
+x  d.
+1 #a
+x a.
+b
+2 a -  //a
+x  e.
+x a
+x c.
+1 e
+x #c.
+i
+b
+
+% line 9
+
+b
+2 e
+x c.
+x e
+xa.
+1-#c
+xc.
+b
+2  d a
+x  c.
+x  d
+x a.
+1 #c
+x  d.
+2 c
+x a.
+x c
+x e.
+1-#a:
+x   c
+b
+1xe  - a
+2c
+xe.
+1-#c
+xa.
+1c - c&(
+2 e
+x F.
+1c
+x e. &)
+b
+0aac  a
+x   c
+w     a
+b
+1 a - a
+x  c.
+x  d
+x a.
+i
+b
+
+% line 10
+
+b
+1 #@c  a
+x e.
+xa
+x c.
+b
+x e -  //a
+xa.
+x-#c:
+x e.
+x-#a:
+x a.
+x     a
+xa.
+b
+1-#c  -  //a
+xe.
+xF:
+xc.
+x-#e:
+x a.
+x     a
+xe.
+b
+x-#c  -  //a
+xe.
+xF:
+xc.
+x-#e -  a
+xF.
+xH:
+x a.
+b
+x a -  //a
+x  a.
+x  #c
+x  e.
+x a
+x c.
+x e
+x a.
+i
+b
+
+% line 11
+
+
+b
+1 #c  a
+x  d.
+x  d
+x a.
+x #c
+x e.
+xa
+xc.
+b
+x-#e:
+x     a
+x-#c:
+xa.
+xc - c&(
+x F.
+xc:
+x e. &)
+b
+0aac  a
+x   c
+w     a
+b
+1 #a - a
+2  c
+x  d.
+1 #a
+x a.
+x #c  a
+2 c
+x e.
+1-#a
+x c.
+b
+2 e -  //a
+x c
+x e
+xa.
+xc
+xa.
+xc
+x e.
+i
+b
+
+ % line 12
+
+b
+1-#a:
+x a.
+x     a
+xa.
+b
+2c - c&(
+x F.
+xc
+xe.
+xF
+xe.
+xF
+xc. &)
+1-#e:
+x a.
+x     a
+xe.
+b
+1c - c
+2c [
+xe.
+1F
+xc.]
+1-#e  - a
+2e
+xF.
+1H
+x a.
+b
+1. #a -  //a
+2  a.
+x  c
+x  a.
+x  c
+x  e.
+x a
+x  e.
+x a
+x c.
+x e
+x c.
+x e
+x a.
+i
+b
+
+% line 13
+
+b
+2 c  a
+x a.
+x  d
+x  c.
+x  d
+x  c.
+x  d
+x a.
+x c
+x a.
+x c
+x e.
+xa
+x e.
+xa
+xc.
+b
+1xe  - a
+2c
+xe.
+xF
+xe.
+xc
+xa.
+xc  -  //a
+xa.
+x e
+x c.
+x e
+xa.
+xc
+x e.
+b
+1a -  a
+2H
+xF.
+xH
+xF.
+xe
+x H.
+i
+b
+
+-l "1.2 in"
+
+b
+Y#eFF  a
+.bb.
+i
+Q
+e
+
+

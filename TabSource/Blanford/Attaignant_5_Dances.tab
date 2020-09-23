@@ -1,0 +1,597 @@
+-R8
+-F
+{Branle simple/published by Pierre Attaignant}
+
+b
+b
+.
+C
+#1a    a
+x d
+#1a
+xc
+#1d
+xa
+0f   a
+b
+0d  c
+0c  a
+0a  c
+1#     a
+xd
+b
+#1c
+xa
+#2 e
+xa
+xc
+xd
+0c
+0a  c
+b
+#1a    a
+x e
+#1a
+xc
+#1d
+xa
+#1f
+x    a
+b
+
+%line 2
+b
+#1   c
+xd
+#1   a
+xc
+0a  c
+#1     a
+xd
+b
+#2f
+xd
+xc
+xa
+#2 e
+xa
+xc
+x e
+wa  c
+.
+b
+b
+.
+0.b  a
+1a
+#1 d a
+x b
+#1 d
+xb
+b
+#1a   d
+x d
+#1a
+x d
+0 b  a
+#1    a
+x b
+b
+
+%line3
+b
+#1   a
+x b
+#2 a
+x b
+1 d
+0 b  d
+#1 b
+x    d
+b
+#2    a
+x c
+x d
+x a
+#1 d
+x b
+#1 a
+x  d
+#2    a
+x a
+x b
+x d
+b
+#1 b
+x a
+#1  d
+x  c
+0  d a
+#2 d
+x b
+x a
+x b
+b
+#1 a
+x  d
+#1     a
+x  c
+0  d a
+0  d a
+.
+b
+B
+
+{Branle gay - C'est mon amy}
+bb
+.
+S68
+1.a  c
+2 d
+1a
+b
+1   c
+0b  a
+1 d  c
+0a   d
+b
+0 b  a
+1 b  a
+#2 d
+x c
+x d
+xa
+1 d
+b
+1   a
+0a   d
+#2 d
+x b
+x a
+x b
+1  d
+b
+0 a c
+1  d a
+#2  d
+x a
+x b
+x d
+1a
+b
+
+%line 2
+b
+#1   c
+xb
+x   a
+#1 d  c
+xa
+x    d
+b
+0 b  a
+1 b  a
+#2 d
+x c
+x d
+xa
+1 d
+b
+#1   a
+x|b
+x|a
+x| d
+x| b
+#2 d
+x b
+x a
+x  d
+1 a c
+b
+0  d a
+1  d
+.
+bb
+
+%line 3
+bb
+.
+0f  a
+1f   a
+b
+0a  c
+1a   d
+#2a
+x d
+xa
+xc
+xd
+xa
+b
+0c  a
+1a   a
+#2  d
+x  c
+x  d
+x a
+1  d
+b
+1.d  c
+2c
+1a
+#1    c
+x e
+x  a
+b
+0a  c
+1a    a
+#2f
+xe
+xf
+xh
+1f   a
+b
+
+%line 4
+b
+#2a
+x d
+xa
+xc
+#2d
+xa
+xc
+xd
+#2f
+xd
+xc
+xa
+b
+0c  a
+1a   a
+#2  d
+x  c
+x  d
+x a
+1  d
+b
+#2 a
+x  d
+x a
+x c
+#2 d
+xa
+xc
+xa
+#2 e
+xa
+xc
+x e
+b
+0a  c
+1a
+.
+b
+B
+
+p
+{Haulberroys}
+
+b
+b
+.
+C
+0a  c
+0    a
+0a  c
+#1 d
+xa
+b
+#1b
+xa
+#1 d
+x b
+0 a c
+#1 a
+x c
+b
+#1 d
+xa
+0 d
+0    a
+0 b
+b
+w a c
+w  d a
+b
+0a  c
+0 a
+0     a
+#1c
+xd
+b
+
+%line 2
+b
+#1c
+xa
+#1 d
+x b
+0 a c
+#1 a
+x c
+b
+#1 d
+xa
+0 d
+0 b  a
+#1 d
+x b
+b
+#1 a
+x  d
+0 a c
+w  d a
+.
+b
+b
+.
+w db
+w db
+b
+#1 d
+x b
+#1 a
+x  d
+w a c
+b
+0    a
+0 b
+0 a
+0  d
+b
+
+%line 3
+b
+#1  c
+x  a
+#1  c
+x  d
+0 ac
+0     a
+b
+0 db
+0     d
+0 db
+#1b
+xa
+b
+#1 d
+x b
+#1 a
+x  d
+0 a c
+#1 a
+x b
+b
+#1 d
+x b
+#1 a
+x  d
+0  c  a
+#1 a
+x  d
+b
+#1  c
+x  a
+#1  d
+x  c
+w  d a
+.
+b
+B
+
+{Haulberroys}
+
+b
+b
+.
+C
+0  d
+0a
+b
+#1a
+x d
+#1 c
+x a
+#1  d
+x  c
+#1  d
+x a
+b
+0 d a
+0 c  a
+#1 c
+x d
+#1a
+xc
+b
+#1a
+x d
+#1 c
+x a
+#1  d
+x  c
+#1  d
+x a
+b
+w c  a
+.
+b
+b
+
+%line 2
+b
+#1 c
+x d
+0a
+b
+0   c
+0a
+0     a
+0a
+b
+0a  c
+0 c  a
+#1 c
+x d
+#1a
+xc
+b
+#1d
+xc
+#1a
+x d
+#1a
+x d
+#1 c
+x a
+b
+0  d a
+b
+
+%line 3
+b
+b
+.
+#1 a
+x c
+0 d
+0 c
+b
+0 a c
+0     a
+0 c
+0  d
+b
+0  d a
+#1 a
+x c
+#1 d
+xa
+0 c
+b
+0 a c
+#1 a
+x c
+#1 d
+x c
+#1 a
+x c
+b
+0  d a
+.
+b
+B
+
+p
+{Branle de Poictou}
+
+b
+b
+.
+S68
+1  d
+0a
+b
+0 d a
+1 c
+#1    a
+x a
+x  d
+b
+0 d a
+1 c
+1    a
+0a
+b
+0 d a
+1 c  a
+#2  d
+x  c
+x  d
+x  c
+x  d
+x a
+b
+0. c  a
+.
+bb
+
+%line 2
+bb
+.
+1  d
+0 a
+b
+0 c  a
+1 c
+#1    a
+xa
+x  d
+b
+0 da
+1 ab
+1     d
+0 a
+b
+0 ab  d
+1 ab
+#1     d
+xa
+x d
+b
+1. c  a
+2 a
+1  d
+#1     a
+x a
+x  d
+b
+
+%line 3
+b
+0 c  a
+1 c  a
+#2 c
+x a
+x c
+x d
+xa
+x c
+b
+0 d a
+1 ab
+#1     d
+x d
+x    c
+b
+1. c  a
+2 a
+1  d
+#2 a
+x  d
+x  c
+x  d
+x  a
+x  c
+b
+0.  d a
+.
+b
+B
+
+{set by George Blanford}
+e
+
+

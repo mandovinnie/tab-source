@@ -1,0 +1,308 @@
+
+-R8
+
+$tempo=4
+$midi-patch=93
+
+{The Fairis Daunce /ML f 10r nr 24}
+
+1 #c  a
+x d.
+b
+0a -  e
+1     a
+xc.
+0-#a - a
+1 d a
+x c.
+b
+0 a#cc
+x     a
+x ac
+1 #c  a
+x d.
+b
+0a -  e
+1     a
+x d.
+x c  a
+x d.
+x a - a
+x c.
+b
+0  xdca
+x      ///a
+x  dc
+.
+b
+b
+.
+1 d:
+x b.
+b
+0 #a - d &{
+x  b.
+x d:
+xa.   &}
+b
+x d   d &{
+x   a
+0 db
+1a:
+xc.
+b
+0d -  d &{
+x  b.  &}
+
+% line 2
+
+0d:    {
+xc.   &}
+b
+xa#cd a
+x      ///a
+0acd
+1 d:
+xa.
+b
+0-#cdda
+x      a
+x-#c  a
+x-a  c
+b
+x d e
+1a b
+x d.
+0 #cd
+1 dda
+x #c.
+b
+0 a a
+x  de
+1  c  a
+x  d.
+x a:
+x c.
+b
+0  d a
+x      ///a
+x  dc
+.
+b
+b
+.
+S3
+0  d.
+b
+0. #c  a
+1 a.
+0  d
+b
+xa - e
+x da c
+x #c  a
+b
+w a#cc
+0     a
+w ac
+0a.
+b
+0.#c  a
+1e.
+0f:
+b
+xe  c
+xcxf  c &{
+x #e  &}
+b
+
+% line 3
+
+waa#cc
+0 c  a
+b
+x-#c  a
+x-a - c &{
+x- d.  &}
+b
+x c -e
+x #a - e
+x  d.
+b
+0 #a - a
+1  c
+x  d.
+x a
+x c.
+b
+0 da c
+x #c c
+x a a
+b
+0.a - e &{
+1 d.
+x c:
+x a. &}
+b
+0 c  a
+0. #a - a
+2  d
+x a.
+b
+0  d a
+x   c.
+x      ///a
+b
+w  dc
+.
+b
+b
+.
+Sc
+w  dca
+0  dca
+x a - e
+b
+w. #cdca
+0 a - e
+b
+x #cdca
+x      ///a
+x a   e
+x  d  c
+b
+Waaccca
+b
+0  xd a
+x   c.
+x    a
+x a - e
+b
+
+% line 4
+
+0 #c -a
+x  d
+x    a
+x a - e
+b
+x    a
+x #c.
+x a - e
+x  d  c
+b
+Waaccca
+b
+0 ac  a
+w #a:
+0 c.
+b
+x da c &{
+w d:
+0 d.  &}
+b
+x      a
+x  aa
+x    e
+x  #c c
+b
+x    a
+w  xdc
+0 a - e
+b
+x    a
+x #cd
+x     e
+x e - c
+b
+x     a
+xaac
+x      a
+x-#cdd
+b
+x     a
+xa.
+x d:
+x #c.
+b
+W a#c  a
+b
+b
+S3
+0 #c  a
+b
+x a - e &{
+x   c. &}
+x #c  a
+b
+x a - e &{
+x   c. &}
+x #c  a
+b
+0  d  c &{
+x  ab
+x a. &}
+b
+x  #c  a
+x   c.
+x  d  c
+b
+
+% line 5
+
+0 a - e
+x   c.
+x #c  a
+b
+x ea c &{
+x a.
+xa -  e
+b
+x    a
+xcf  c &{
+x #e.  &}
+b
+0aac  a
+x   c
+x-#c  a
+b
+xa - e &{
+x  d. &}
+x-#c  a
+b
+xa - e &{
+x  d. &}
+x-#c  a
+b
+x da c&{
+x ac
+xa.  &}
+b
+x #c  a
+x  d.
+x d - c
+b
+0 a - e &{
+x   c. &}
+x #c  a
+b
+x  d  c
+x   a.
+1 a -  a
+x c.
+b
+x d:
+x c.
+0. a - a
+2  d
+x a.
+b
+0  dca
+x      ///a
+Y  d
+.
+b
+b
+.
+Q
+e

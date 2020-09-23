@@ -1,0 +1,561 @@
+%First-pass conversion from original tablature 
+%to ASCII tab by Donald Sauter.
+%Wayne Cripps' TAB files generated
+%by Leonard Williams with assist from
+%Alain Veylit and StringWalker.
+
+$pstitlefont=pplb
+$psalttitlefont=pplri
+$titlesize=18
+$alttitlesize=14
+$flagstyle=smallitalian
+$numstyle=italian
+$line=o
+
+-R8
+-c
+
+%tuning = GDAFCG
+
+F2
+{\CL/ Conde claros}
+F3
+{}
+{Tres Libros... I, f. 15v/Alonso Mudarra      }
+
+%Line 1
+
+b
+SC
+w  0332
+b
+%Bar 2
+x  0332
+b
+%Bar 3
+x  0332
+b
+%Bar 4
+x3  103
+b
+%Bar 5
+03   03
+0. 0 320
+bT
+%Bar 6
+1!
+1    3
+x 0 3 0
+x    2
+b
+b
+%Bar 7
+0.  0 32
+1     3
+b
+%Bar 8
+0.  00 5
+1   2
+b
+%Bar 9
+0  03 2
+x    3
+b
+%Bar 10
+x   103
+1   1
+x    2
+b
+%Bar 11
+0  0 32
+x   3 0
+b
+
+%Line 2
+
+b
+%Bar 12
+1    2
+x    0
+x   33
+x    2
+b
+b
+%Bar 13
+1.  0 3
+2     0
+1     2
+x     3
+b
+%Bar 14
+1.  00 5
+2  2
+1   0
+x   1
+b
+%Bar 15
+0  03 2
+x    3
+b
+%Bar 16
+1.3   03
+2   3
+1    0
+x    2
+b
+%Bar 17
+0  0 32
+1.   3 0
+2   1
+b
+%Bar 18
+x   3
+x    0
+x    2
+x    3
+1 0   0
+x    2
+b
+b
+%Bar 19
+1  0 32
+2     0
+x    3
+x    2
+x    0
+x   3
+x   1
+b
+%Bar 20
+
+%Line 3
+
+b
+1.  00
+2 4
+x  0
+x 4
+x  0
+x  2
+b
+%Bar 21
+0 543
+x    3
+b
+%Bar 22
+1.3  53
+2   3
+x   5
+x   3
+x   5
+x   7
+b
+%Bar 23
+07  8
+x5   55
+b
+%Bar 24
+1   7
+x   5
+x5  8
+x   7
+b
+b
+%Bar 25
+0  0875
+1  0
+x    5
+b
+%Bar 26
+1.  08 5
+2    5
+x    7
+x    5
+x    7
+x    8
+b
+
+%Line 4
+
+b
+%Bar 27
+1   875
+x   7
+x   5
+x  7
+b
+%Bar 28
+1.  5 87
+2     5
+x    8
+x    7
+x    5
+x   8
+b
+%Bar 29
+x   7
+x   5
+x   7
+x   8
+0  77 5
+b
+%Bar 30
+15
+x    8
+x    7
+x    5
+b
+b
+%Bar 31
+0.  0 32
+1    2
+b
+%Bar 32
+x  03 2
+x    0
+x   3
+x   1
+b
+%Bar 33
+0  00 2
+x    3
+b
+%Bar 34
+13   03
+x   3
+x   1
+x     2
+b
+
+%Line 5
+
+b
+%Bar 35
+1 3   0
+x    3
+x 0  2
+x   3
+b
+%Bar 36
+x   1
+x   0
+x 02 3
+x    2
+b
+b
+%Bar 37
+0  0 32
+x   3
+b
+%Bar 38
+1     2
+x   1
+x   0
+x  2
+b
+%Bar 39
+0  0  2
+1    3
+x    2
+b
+%Bar 40
+x    03
+x   3
+x   1
+x   0
+b
+%Bar 41
+x  2  3
+x  0
+x 4   0
+x  0
+b
+%Bar 42
+x  2
+x   0
+x   1 0
+x   3
+b
+b
+
+%Line 6
+
+b
+%Bar 43
+1  0  2
+x    0
+x   3
+x   1
+b
+%Bar 44
+x   3 2
+x   1
+x   0
+x  2
+b
+%Bar 45
+x  0  2
+x 3
+x 2
+x 0
+b
+%Bar 46
+x3    3
+x 0
+x 2
+x 4
+b
+%Bar 47
+x  0  2
+x 2
+x-!^4   0
+x    3
+b
+%Bar 48
+x    2
+x    0
+x   3
+x   1
+b
+b
+%Bar 49
+1  00
+2   1
+x   3
+x    0
+x    2
+x    3
+x    2
+b
+%Bar 50
+
+%Line 7
+
+b
+2  0 3
+x    2
+x    0
+x    2
+x    3
+x     0
+x     2
+x     3
+b
+%Bar 51
+x  0  2
+x     0
+x    3
+x    2
+x    0
+x   3
+x    0
+x    1
+b
+%Bar 52
+1   10
+2    2
+x    3
+x     0
+x     2
+x     3
+x     2
+b
+%Bar 53
+x   1 3
+x     2
+x     0
+x    3
+x !^2 2
+x    0
+x    2
+x    3
+b
+%Bar 54
+
+%Line 8
+
+b
+2     0
+x     2
+x     3
+x     2
+x  2  3
+x     2
+x     3
+x     0
+b
+b
+%Bar 55
+1  0  2
+2     5
+x     3
+x     2
+x     0
+x     2
+x     3
+b
+%Bar 56
+1  0  2
+2   3
+x   1
+x   0
+x  2
+x   0
+x   1
+b
+%Bar 57
+1  00
+2    3
+x    2
+x    0
+x   3
+x    0
+x    1
+b
+%Bar 58
+13   0
+2    0
+x   3
+x   1
+x   0
+x   1
+x   3
+b
+%Bar 59
+
+%Line 9
+
+b
+13  1
+x   0
+x 02
+2     0
+x    3
+b
+%Bar 60
+x    2
+x    0
+x    2
+x    3
+x 0  2
+x    0
+x   3
+x   1
+b
+b
+%Bar 61
+0  00
+x     5
+b
+%Bar 62
+x  0035
+1     7
+x     9
+b
+%Bar 63
+0  087!x
+x     5
+b
+%Bar 64
+0.3 0 07
+1     5
+b
+%Bar 65
+x 20 05
+x     4
+0 02 25
+b
+%Bar 66
+1   3
+x    3
+x 02 35
+x    2
+b
+b
+
+%Line 10
+
+b
+%Bar 67
+0.  0 32
+1    2
+b
+%Bar 68
+0  03 2
+x    3
+b
+%Bar 69
+1  0  2
+x    2
+x   3
+x   5
+b
+%Bar 70
+0. 3 653
+1     5
+b
+%Bar 71
+03  537
+x 02 25
+b
+%Bar 72
+1  4
+x   2
+x   3
+x     3
+b
+b
+%Bar 73
+1  0  2
+x 4   0
+x  0  2
+x  2  3
+b
+%Bar 74
+x  4  5
+x   2
+x   3
+x     3
+b
+%Bar 75
+x  0  2
+2   0
+x   2
+x   3
+x   2
+x   3
+x   0
+b
+
+%Line 11
+
+-l "4.5 in"
+
+b
+%Bar 76
+0 3 1 0
+1 2
+x   0
+b
+%Bar 77
+x  2 3
+x  0
+x 023
+2    2
+x    0
+b
+%Bar 78
+x    3
+x    2
+x    0
+x    2
+x    3
+x    2
+x    3
+x    2
+b
+%Bar 79
+YW  033
+b
+B
+e

@@ -1,0 +1,21 @@
+
+These pieces are meant to be played with a tuning that 
+was developed around 1630 and was popular for a while
+before the d-minor tuning became the standard.
+
+These pieces are written for a ten course lute, but I include the
+eleventh course because some people may play on 11 courses.  This
+is really baroque lute music.
+
+this is the classic "sharp" tuning ..
+C D E F# G A D G b d f#
+
+Pan-5-6v-7r.tab    tuning c4d4e4f+4g4a3d3g3b2d2f+2
+
+This tuning doesn't seem to have a name ..
+C D E F G a D G b d f
+panmure-5-17v.tab:-tuning c4d4e4f4g4a3d3g3b2d2f2
+
+This is the flat tuning ..
+C D Eb F G A D G bb d f
+panmure-5-23r.tab:-tuning c4d4e-4f4g4a3d3g3a+2d2f2

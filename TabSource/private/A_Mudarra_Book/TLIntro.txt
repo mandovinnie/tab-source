@@ -1,0 +1,15 @@
+Introduction to TAB edition of Tres Libros de Musica
+
+	This project of free dissemination of Alonso Mudarra's Tres Libros was intiated by Donald Sauter (visit his wonderful homepage at: 	 http://www.geocities.com/CapitolHill/Lobby/7049/index.html#science). 
+
+Donald transcribed the 51 pieces for vihuela and four-course guitar from a facsimile edition of Mudarra's Italian style tablature to modern guitar tab utilizing ASCII characters and his program prttab.bas.  Included with these intabulations are Donald's notes on corrections, notational additions which could not be accomplished with ASCII characters and performance suggestions.
+	Tres Libros took an unexpected editorial turn when Mike Graham developed a program (convert.vbs) which converted Donald's guitar tab into TAB files to be run through Wayne Cripp's TAB program, producing French tab in PostScript.  Mike also transcribed the six pieces for four-course guitar into lute tab.  These files were offered to the lute-playing public via the Lute-Net.
+	Having picked up Mike's TAB files of Mudarra, I became a third link in this unforeseen editorial chain when I decided to add to the files those characters (time signatures, fermatas, carets, text) which Donald had originally planned to add by hand to his ASCII intabulations.  Along the way, I edited line breaks, removed redundant rhythm flags (x-ing out thousands of numbers in an extended retentive seizure), and corrected a few computer-misread frets.
+	Of course, sincere thanks to Rainer aus dem Spring for his suggestions and patient assistance with TAB!
+	Thanks to Wayne Cripps, also, for his TAB program which allows such compact and efficient storage and transmission of lute tablature.
+	The end result is, I hope, an accurate French tablature edition of Mudarra's Tres Libros de Musica; however, I have no original with which to compare the final product.  I believe they sound right.  So...if anyone should spot errors in these files, please feel free to speak out and share your findings and suggestions.
+	And please enjoy these beautiful compositions!
+
+Leonard Williams
+arckon@juno.com
+  

@@ -1,0 +1,95 @@
+
+-b
+-e
+-i
+
+{Sarabande La Mignone/saiz 3(a)}
+
+i
+0.\2ea  a
+1e.
+0_\4f     a
+b
+0.\1c&,     4
+1c,
+0\4_e     /a
+b
+0.a&,a  a|
+1 c
+0aaaa  ///a
+b
+0. \1c&,   a
+2 a.&{
+x  e &}
+0 a  a|
+b
+0.  \2e\1e!/a
+1  e
+0 a  a|
+b
+
+% line 2
+-l "5.0 in"
+
+i
+0.  \2c&,\1c  a
+1  c.
+0 \2c_   \3d
+b
+0.  \1d&,   //a
+1  \1c.
+0  \2_d  a
+b
+0.  c&,   //a
+2   \4e.
+x  c
+0   \2e.a
+b
+b
+
+% line 3
+-l reset
+
+i
+0. \1c\4e\3e a
+1 c.
+0a   a|
+b
+0. *a*a*a  \3d
+1 \2c.
+0a    a
+b
+0.\1c     a
+1-\4e     /a
+0_f     a
+b
+0.\1c&,     4
+2 \2d.
+xc
+0 d.
+b
+0.\4e\2da   /a
+1e.
+0-_f     a
+b
+0.\1c&,     4
+1c.
+0\4_e     /a
+b
+
+
+%line 4
+-l "4.0 in"
+
+i
+0.\1a&,a. a|
+1 \1c
+0-*a*a*a   ///a
+b
+0. \1c&,   a
+2 a{
+x  \4e&}
+0 a  a|
+b
+b
+e

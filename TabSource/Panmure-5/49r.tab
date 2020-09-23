@@ -1,0 +1,112 @@
+-b
+-e
+-Q
+-tuning D4E-4F4G4a3d3g3b-2d2f2
+{pan 5 f49r}
+
+b
+b
+0 a.
+b
+0c -a
+xe - a
+xf -a
+b
+xf  -  a
+0.e - a
+1c.
+b
+0c - b&{
+x  c.&}
+xb&, - a
+b
+0c --- a
+0.  c  &{a
+1a.   }
+b
+0a  - b &{
+x a.  &}
+x b&, - d
+b
+0 aa a
+0.  c&, --//a
+2   d
+x  c.
+b
+
+% line 2
+
+b
+0 a
+x    a
+x      ///a
+b
+w aec|
+b
+.
+b
+0a.
+b
+0. aad b
+1  c.
+x  a&, - a
+x   c.
+b
+0  a
+0.    e ///a
+1   a.
+b
+0   c&,
+0.    a
+1  a.
+b
+0  aa
+1  c&,
+x   c.
+0 a d
+b
+
+% line 3
+
+b
+0  c d
+x  aa
+x d  a
+b
+x c&, c &{
+xa. &}
+xc  a
+b
+0.e - e &{
+1c. &}
+xa&, - a
+x c.
+b
+0a
+xa.
+1c -- d &{
+xe.   &}
+b
+0f  -- a
+xe  - a
+xc -- b
+b
+0c -- d
+0.b&, - a
+1c.
+b
+
+% line 4
+
+-l "2.1 in"
+
+b
+0c  -- a
+x    a
+x   a
+b
+Y-caa|
+b
+Q
+e
+

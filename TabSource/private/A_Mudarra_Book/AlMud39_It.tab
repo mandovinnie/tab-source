@@ -1,0 +1,607 @@
+%First-pass conversion from original tablature 
+%to ASCII tab by Donald Sauter.
+%Wayne Cripps' TAB files generated
+%by Leonard Williams with assist from
+%Alain Veylit and StringWalker.
+
+$pstitlefont=pplb
+$psalttitlefont=pplri
+$titlesize=18
+$alttitlesize=14
+$flagstyle=smallitalian
+$numstyle=italian
+$line=o
+
+-R8
+-c
+
+%tuning = GDAFCG
+
+F2
+{\CL/ Fantasia (quinto tono)}
+F3
+{}
+{Tres Libros... II, f. 15/Alonso Mudarra      }
+
+%Line 1
+
+b
+SO
+0.0 2
+12
+b
+%Bar 2
+x4 2
+x 0
+x 2
+x 4
+b
+%Bar 3
+0  10
+x  22
+b
+%Bar 4
+x   3
+1  1
+x    0
+b
+%Bar 5
+x  2 2
+x    4
+x     0
+x   0
+b
+%Bar 6
+x   2
+x   3
+x    0
+x    2
+b
+%Bar 7
+0    42
+x    54
+b
+%Bar 8
+x    !^5
+x    4
+b
+%Bar 9
+x0   54
+1  2
+x2
+b
+%Bar 10
+
+%Line 2
+
+b
+14
+x 0
+x 2
+x 4
+b
+%Bar 11
+0  10
+x  22 0
+b
+%Bar 12
+x   3 2
+x  1
+b
+%Bar 13
+1  22 4
+x   4
+x   5
+x    2
+b
+%Bar 14
+x 2  42
+x    6
+0 6  7
+b
+%Bar 15
+x 4  54
+x     6
+b
+%Bar 16
+x7 4 47
+1  6
+x   4
+b
+%Bar 17
+x   5
+x     5
+x     4
+x     2
+b
+%Bar 18
+0    20
+x    54
+b
+%Bar 19
+x   5 2
+1    4
+x   3
+b
+%Bar 20
+
+%Line 3
+
+b
+1   2 0
+x   0
+x  2
+x    0
+b
+%Bar 21
+x   3
+x   2
+x 2 0
+x  2
+b
+%Bar 22
+x   2
+x 0 0
+x4  2
+x2
+b
+%Bar 23
+x0
+x   0
+04 2  0
+b
+%Bar 24
+x2 1  2
+x0 2  4
+b
+%Bar 25
+x2    5
+x  1
+b
+%Bar 26
+x0 2  4
+x  2
+b
+%Bar 27
+x  43 2
+x   20
+b
+%Bar 28
+x   320
+1   3
+x     2
+b
+%Bar 29
+0   204
+x0
+b
+%Bar 30
+x2 43
+x4  20
+b
+%Bar 31
+
+%Line 4
+
+b
+0 0  2
+1   0
+x    4
+b
+%Bar 32
+x4  2 0
+x     2
+0  2  4
+b
+%Bar 33
+x  4  2
+x   2
+b
+%Bar 34
+x   320
+1   3
+x     2
+b
+%Bar 35
+0   204
+x 4  20
+b
+%Bar 36
+x 2 542
+x     4
+b
+%Bar 37
+x  4325
+1  4
+x    4
+b
+%Bar 38
+x  2554
+x     2
+x     5
+x     4
+b
+%Bar 39
+0   325
+x 0  5
+b
+%Bar 40
+x 2  44
+1 4  20
+x    0
+b
+%Bar 41
+
+%Line 5
+
+b
+1.  03 2
+2   2
+1   3
+x    0
+b
+%Bar 42
+x 4  20
+x    4
+0    5
+b
+%Bar 43
+12    2
+2    4
+x    2
+x    5
+x    4
+x    2
+x    4
+b
+%Bar 44
+10    0
+2    4
+x    2
+x    0
+x   3
+x   2
+x   0
+b
+%Bar 45
+x  2
+x   0
+x   2
+x   3
+x    0
+x    2
+x    3
+x    0
+b
+%Bar 46
+1 0  2
+x    0
+x   3
+x   2
+b
+%Bar 47
+
+%Line 6
+
+b
+1 2 0
+x  2
+x   2
+x 0
+b
+%Bar 48
+x4
+x   0
+0 02
+b
+%Bar 49
+x2
+x  1  2
+b
+%Bar 50
+x0 2  4
+x     0
+b
+%Bar 51
+x     2
+x    0
+b
+%Bar 52
+x    20
+x   4
+b
+%Bar 53
+x   54
+x 2
+b
+%Bar 54
+x 42
+1 0
+x   0
+b
+%Bar 55
+x 2 2
+x   4
+0   5
+b
+%Bar 56
+x  4
+x   42
+b
+%Bar 57
+x 2 54
+x   50
+b
+%Bar 58
+x    2
+x  44
+b
+%Bar 59
+
+%Line 7
+
+b
+0   20
+x  2 5
+b
+%Bar 60
+x  4
+x    42
+b
+%Bar 61
+x  2 54
+x    50
+b
+%Bar 62
+x     2
+x 2  4
+b
+%Bar 63
+x 4  5
+x 0  25
+b
+%Bar 64
+x 2 544
+1 2   2
+x   3
+b
+%Bar 65
+x 4 22
+x     0
+0 0 320
+b
+%Bar 66
+1 245
+2    4
+x    2
+1    5
+x    4
+b
+%Bar 67
+x0 2 00
+2    4
+x    2
+x    0
+x   3
+x   2
+x   0
+b
+%Bar 68
+0  2
+x    0
+b
+%Bar 69
+
+%Line 8
+
+b
+0    2
+x  44
+b
+%Bar 70
+x   20
+x   42
+b
+%Bar 71
+x   54
+x 2
+b
+%Bar 72
+x 42
+x 0 0
+b
+%Bar 73
+x 2 2
+1 4 3
+x   2
+b
+%Bar 74
+0  10
+x     2
+b
+%Bar 75
+x  2 04
+1   320
+x    0
+b
+%Bar 76
+0  43 2
+x  25 4
+b
+%Bar 77
+x  !^3 5
+x  1
+b
+%Bar 78
+x  2  4
+x    0
+b
+%Bar 79
+x    20
+x   4 2
+b
+%Bar 80
+x   5 4
+1    25
+x     4
+b
+%Bar 81
+
+%Line 9
+
+b
+2    42
+x    2
+x    5
+x    4
+x    2
+x    4
+x    5
+x    4
+b
+%Bar 82
+0    50
+1  2
+x   0
+b
+%Bar 83
+x0  2
+x   3
+x    0
+x    2
+b
+%Bar 84
+x0   0
+x2
+x4
+x 0
+b
+%Bar 85
+x 2 2
+x 4
+x 2
+x 4
+b
+%Bar 86
+0  10
+x  22
+b
+%Bar 87
+1  43
+x    0
+x    2
+x  2
+b
+%Bar 88
+x  0
+x    0
+x 4  0
+x 2
+b
+%Bar 89
+
+%Line 10
+
+b
+0 4
+x   4
+b
+%Bar 90
+x 2 5
+1    0
+x    2
+b
+%Bar 91
+x   54
+x     0
+x     2
+x     4
+b
+%Bar 92
+x   3 2
+x   2
+x   0 0
+x  2
+b
+%Bar 93
+x   04
+x    2
+x     0
+x    4
+b
+%Bar 94
+0  2  0
+1     0
+x     2
+b
+%Bar 95
+x0 2  4
+x     6
+x     7
+x     9
+b
+%Bar 96
+x 7   7
+x     5
+x    9
+x    7
+b
+%Bar 97
+x     0
+x    3
+x    2
+x    0
+b
+%Bar 98
+
+%Line 11
+
+b
+0 0  2
+1   3
+x    0
+b
+%Bar 99
+x 0  2
+x    4
+x     0
+x     2
+b
+%Bar 100
+x 4   0
+x    4
+x    2
+x    0
+b
+%Bar 101
+x   3
+x   2
+x   0
+x  2
+b
+%Bar 102
+x 21
+x  2
+x   0
+x   2
+b
+%Bar 103
+x 0 3
+x    0
+x    2
+x   24
+b
+%Bar 104
+x 42  0
+x     2
+0   4 0
+b
+%Bar 105
+x 245
+x    4
+b
+%Bar 106
+YW0 2 00
+b
+B
+e

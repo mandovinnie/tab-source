@@ -1,0 +1,131 @@
+
+-b
+-e
+-tuning c4d4e4f4g4a3d3g3b2d2f2
+$midi-volume=90
+
+
+{Panmure 5 19R/tuning c4d4e4f4g4a3d3g3b2d2f2}
+
+b
+b
+0a
+b
+0aadca.|
+xc.
+xE
+b
+0Eccc.a
+0.c&,
+1a.
+b
+0 ccc.|
+xa
+1   d
+x a.
+b
+0  c&,
+x  { a
+x  d " &}- a
+b
+
+% line 2
+
+b
+0.  d&,  b{
+1 d.
+x c&,
+x a. &}
+b
+0  c&,  a
+x   c.
+xE
+b
+0E  -  /a
+0.d&,  -  //a
+1E
+b
+0.Ecc.a
+1c.
+xa&,
+x c.
+b
+0a - a
+0.c&, -  d
+1a.
+b
+
+% line 3
+
+b
+0a  -  /a
+x    d
+x   c  {
+b
+wadb. &}
+b
+.
+b
+0E.
+b
+0Ed    /a
+xf.
+xh
+b
+0    a
+xc&,
+xE
+b
+1      a
+xE.
+0.c&,
+1a
+b
+w ccc.a
+i
+
+% line 4
+
+i
+0  d   /a
+b
+0.  c&,   //a
+1 a
+w ad&,c. ///a
+0E  -  /a
+0.d&,  -  //a
+1E
+wEccc.a
+b
+0 c
+0.  c&,
+1  d.
+b
+0 c
+x   c
+xa
+b
+1c&,[
+xa]
+i
+
+%line 5
+
+-l "3.1 in"
+
+i
+0. c&,   a
+2 a
+x  c.
+b
+0 a
+x      ///a
+x    a
+b
+w adc.
+b
+.
+b
+m
+e
+

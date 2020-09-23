@@ -1,0 +1,1133 @@
+%First-pass conversion from original tablature 
+%to ASCII tab by Donald Sauter.
+%Wayne Cripps' TAB files generated
+%by Leonard Williams with assist from
+%Alain Veylit and StringWalker.
+
+$pstitlefont=pplb
+$psalttitlefont=pplri
+$titlesize=18
+$alttitlesize=14
+$flagstyle=smallitalian
+$numstyle=italian
+$line=o
+
+-highlightparen
+-R8
+-c
+
+%tuning = GDAFCG
+
+F2
+{\CL/ Pater noster a quatro de Adrian Williart}
+F3
+{\CL/(vocal line indicated by dots)}
+{Tres Libros... III, f. 1/Alonso Mudarra       }
+
+%Line 1
+
+b
+SC
+w  3
+b
+%Bar 2
+0  3
+x  3
+b
+%Bar 3
+1  5
+x   3
+x   4
+x   6
+b
+%Bar 4
+0  54
+x  5
+b
+%Bar 5
+0.  331
+1   4
+b
+%Bar 6
+x   3
+x   1
+x  3
+x  2
+b
+%Bar 7
+0.  0331
+1     3
+b
+%Bar 8
+x     1
+x     0
+x    3
+x    1
+b
+%Bar 9
+1.  5443
+2   3
+x   4
+x   3
+x   4
+x   6
+b
+%Bar 10
+
+%Line 2
+
+b
+0  5 33
+x   4
+b
+%Bar 11
+1  33 5
+2  5
+x   3
+x   4
+x   6
+x    3
+x    5
+b
+%Bar 12
+x    6
+x    5
+x    3
+x    5
+0    6
+b
+%Bar 13
+x 53&*  5TPa-
+x    5
+b
+%Bar 14
+w6 3&* 36
+b
+%Bar 15
+0 65&*4Tter
+x     5
+b
+%Bar 16
+x  11&*13
+1    3
+x    1
+b
+%Bar 17
+0.  03&*32Tnos-
+1     3
+b
+%Bar 18
+1.  33&* 5Tter
+2     3
+x     5
+x     3
+x     5
+x     7
+b
+%Bar 19
+
+V".125 in"
+
+%Line 3
+
+b
+0  76 8
+x 8
+b
+%Bar 20
+x 5 3&*6Tqui
+x    3
+b
+%Bar 21
+0. 1 4&*3Tes
+1    1
+b
+%Bar 22
+x 1  3
+x    5
+0   3&*6Tin
+b
+%Bar 23
+x  5&*  6Tce-
+x    5
+b
+%Bar 24
+x  3&* 6Tlis
+x     5
+b
+%Bar 25
+w 5  65
+b
+%Bar 26
+0 3   5
+x 5  3
+b
+%Bar 27
+x  21&* 3Tsan-
+x    2
+b
+%Bar 28
+x 54&* 35Tti-
+x 35&* 53Tfi-
+b
+%Bar 29
+x   3&*Tce
+x  0 32
+b
+%Bar 30
+x  21&* 3Test
+0. 54&* 35Tno-
+bT
+%Bar 31
+1!
+1   6
+0  5&* 53Tmen
+b
+%Bar 32
+
+V".125in"
+
+%Line 4
+
+b
+0   3&*T  tu-
+x    32
+b
+%Bar 33
+x   1&* 3Tum
+x   6&*55T  no-
+b
+%Bar 34
+1    3
+x   4&* 3
+x   3&* 3Tmen
+x   1&*
+b
+%Bar 35
+0  03&*3Ttuum
+x     2
+b
+%Bar 36
+x 6 4 3
+1  5&*Tad-
+x   1
+b
+%Bar 37
+0  54&* 3Tve-
+x 6
+b
+%Bar 38
+x 53
+x   3&*Tni-
+b
+%Bar 39
+w 533&*Tat
+b
+%Bar 40
+1 3 3&*Treg-
+2 0
+x 2
+1 3
+x  0
+b
+%Bar 41
+0  21&*Tnum
+x  33&*T  tu-
+b
+%Bar 42
+1   3
+x  21
+0 53&*
+b
+%Bar 43
+
+V".125in"
+
+%Line 5
+
+b
+0 3 1
+1  2&*Tum
+x   3
+b
+%Bar 44
+0. 13&*43
+1 3
+b
+%Bar 45
+0 53 6
+x   3
+b
+%Bar 46
+x 0 31
+x     0
+b
+%Bar 47
+x 3 110
+x   3
+b
+%Bar 48
+1 0   5
+x   1
+0  3
+b
+%Bar 49
+x  2 13
+x  3  5
+b
+%Bar 50
+1    1
+x   1 3
+0   3 1
+b
+%Bar 51
+x   1
+x 3   0
+b
+%Bar 52
+1 5   1
+x  3
+0    6
+b
+%Bar 53
+x   3&* 5Tad-
+x 3  5
+b
+%Bar 54
+w6  8&*66Tve-
+b
+%Bar 55
+
+V".125in"
+
+%Line 6
+
+b
+0 5  6
+1    5
+x    3
+b
+%Bar 56
+0  36&* 5Tniat
+x    6
+b
+%Bar 57
+1 3   3
+x   4
+x   3 5
+x  5
+b
+%Bar 58
+x 53&*Treg-
+x     3
+0   56
+b
+%Bar 59
+x 35&*6Tnum
+x    5
+b
+%Bar 60
+w  3Q3&*11Ttuum
+b
+%Bar 61
+0  33 1
+x    3
+b
+%Bar 62
+x  3 35
+x   6
+b
+%Bar 63
+w  36&*65Tfi-
+b
+%Bar 64
+x 3 6&*53Tat
+b
+%Bar 65
+0  5 36
+x   4&*Tvol-
+b
+%Bar 66
+x  5&*Tun-
+x  33&*35Ttas
+b
+%Bar 67
+w  54&*33Ttu-
+b
+%Bar 68
+
+V".125 in"
+
+%Line 7
+
+b
+0  03&* 1T a
+x    3
+b
+%Bar 69
+x  03
+1    11
+x   4
+b
+%Bar 70
+x   3
+x     3
+0  3  5
+b
+%Bar 71
+x 53&*5Tfi-
+1     3
+x     1
+b
+%Bar 72
+0 3 1&*10Tat
+1   3&*Tvo-
+x     1
+b
+%Bar 73
+x  11&* 3Tlun-
+x     1
+x    1&*3Ttas
+x  0
+b
+%Bar 74
+x  1
+x  04&*Ttu-
+x 3 4&*
+x 1
+b
+%Bar 75
+x 3
+x   3&*
+2   4&*
+x   3&*
+x   1&*
+x   3&*
+b
+%Bar 76
+
+V".125 in"
+
+%Line 8
+
+b
+1 1 4&*3T  a
+23
+x 0
+x 1
+x 0
+x 1
+x 3
+b
+%Bar 77
+0  0  1
+x   3&*Tfi-
+b
+%Bar 78
+x  33&*11Tat
+x   3&*Tvol-
+b
+%Bar 79
+x 3 6&*43Tun-
+x8 5&*  8Ttas
+b
+%Bar 80
+1  7&*Ttu-
+x     6
+0   4&* 6
+b
+%Bar 81
+x  3&*6Ta
+x     5
+b
+%Bar 82
+x   4 6
+1  5&*Tsic-
+x   6
+b
+%Bar 83
+06 3&* 36Tut
+x  5&*Tin
+b
+%Bar 84
+x 3 3&*Tce-
+x 5
+b
+%Bar 85
+w 65&*4Tlo
+b
+%Bar 86
+0   6
+x 53&* 3Tet
+b
+%Bar 87
+
+V".125 in"
+
+%Line 9
+
+b
+0 3 1&*4T  in
+x   3&*Tter-
+b
+%Bar 88
+1 3  4
+x   1&*
+0   1&*
+b
+%Bar 89
+15  6
+x  4
+x  5
+x  4&*
+b
+%Bar 90
+03 5&*Tra
+x   4&* 3Tet
+b
+%Bar 91
+x    6
+1   3&* 3Tin
+x  5&*
+b
+%Bar 92
+0  3&*6 5Tter-
+x    3
+b
+%Bar 93
+w   6&*43Tra
+b
+%Bar 94
+0    3
+1    3&*1Tsic-
+x    1
+b
+%Bar 95
+x   4
+x     3
+0   31&*5Tut
+b
+%Bar 96
+x   43&*Tin
+x 3 64&*3Tce-
+b
+%Bar 97
+x 3 3
+x  0 3&*2Tlo
+b
+%Bar 98
+
+V".125 in"
+
+%Line 10
+
+b
+0  11 3
+1    1&*Tet
+x     5
+b
+%Bar 99
+0  0 3&*7Tin
+x8  9&* 8Tter-
+b
+%Bar 100
+1 53 3&*
+x     3
+0    36
+b
+%Bar 101
+x  11
+1    1&*5
+x     3
+b
+%Bar 102
+w  033&*2Tra
+b
+%Bar 103
+0 5 33
+x  3
+b
+%Bar 104
+x  04 1
+x   3
+b
+%Bar 105
+w  54&* 3Tpa-
+b
+%Bar 106
+0  36&* 5Tnem
+1   8
+x   6
+b
+%Bar 107
+0   8&* 5Tnos-
+x    6
+b
+%Bar 108
+x   8&*65Ttrum
+x 5
+b
+%Bar 109
+1 3  5
+x    3
+0    53
+b
+%Bar 110
+
+V".125 in"
+
+%Line 11
+
+b
+0 53&*  6T  pa-
+1    3
+x    35
+b
+%Bar 111
+x  21&* 3Tnem
+x    2
+2    3
+x    1
+x    0
+x    2
+b
+%Bar 112
+w  03&*31Tnos-
+b
+%Bar 113
+0  03&* 1Ttrum
+1 53
+x   1
+b
+%Bar 114
+x  331
+x   5
+0   6
+b
+%Bar 115
+x 53&* 3Tpa-
+x   5
+b
+%Bar 116
+1 3 1&*10Tnem
+2     3
+x     1
+x     0
+x    3
+x    1
+x    0
+b
+%Bar 117
+0   3&*10Tnos-
+x 0
+b
+%Bar 118
+x  33&*Ttrum
+1    1
+x  2
+b
+%Bar 119
+0  0 01
+x 3 1&*10Tco-
+b
+
+V".125 in"
+
+%Line 12
+
+b
+%Bar 120
+0 534&*3T  ti-
+x   3&*Tdi-
+b
+%Bar 121
+w3 5&*43Ta-
+b
+%Bar 122
+x 54&*33Tnum
+b
+%Bar 123
+0 5  3
+x  4&*  5Tco-
+b
+%Bar 124
+x  5&*  6Tti-
+x  33&*35Tdi-
+b
+%Bar 125
+w  54&*43Ta-
+b
+%Bar 126
+x  03&*32Tnum
+b
+%Bar 127
+0   3 1
+x  0 3
+b
+%Bar 128
+x  3 1
+x  21&*Tda
+b
+%Bar 129
+x  03&*3Tno-
+x   5&*Tbis
+b
+%Bar 130
+0. 3 6&*4To-
+1     3
+b
+%Bar 131
+0 3   3
+x   4&*Tdi-
+b
+%Bar 132
+x  03&*32Te
+x   3&*Tda
+b
+%Bar 133
+x  54&*33Tno-
+x   4&*Tbis
+b
+%Bar 134
+
+V".125 in"
+
+%Line 13
+
+b
+w.  36&*65T  o-
+bT
+%Bar 135
+0!
+0 3 6&*53Tdi-
+b
+%Bar 136
+w 3 6&*53Te
+b
+%Bar 137
+0     3
+1 35&*  3Tet
+x   6
+b
+%Bar 138
+0    5
+x  00&*3Tdi-
+b
+%Bar 139
+x  21&*Tmi-
+x  43&*Tte
+b
+%Bar 140
+x  54&*Tno-
+x     3
+b
+%Bar 141
+x  03&*Tbis
+x   4&* 2Tde-
+b
+%Bar 142
+x   4&* 3Tbi-
+x   3&*15Tta
+b
+%Bar 143
+x  5&* 36Tnos-
+x    5
+b
+%Bar 144
+x  3&* 65Ttra
+x 5
+b
+%Bar 145
+x    3
+x6 5&*  6Tde-
+b
+%Bar 146
+x 3   5
+x 54&* 3Tbi-
+b
+%Bar 147
+x 65&*4Tta
+x   6
+b
+%Bar 148
+
+V".125 in"
+
+%Line 14
+
+b
+1  03&*31T  nos-
+x     3
+0     5
+b
+%Bar 149
+x   4&*3
+x  5  3
+b
+%Bar 150
+x   3&* 5Ttra
+x  4
+b
+%Bar 151
+x  5 3
+1   4&* 3Tde-
+x   3
+b
+%Bar 152
+x 654&*Tbi-
+x     1
+0  33&*11Tta
+b
+%Bar 153
+1 3 1&*Tnos-
+x    0
+x    10
+x   4
+b
+%Bar 154
+x  3&*311Ttra
+x  2
+x  0
+x 3
+b
+%Bar 155
+0 1
+x 1 4&*31Tsic-
+b
+%Bar 156
+x 65&*4 3Tut
+1  5&*Tet
+x   6
+b
+%Bar 157
+0 1 4&*3Tnos
+1     3
+x   3&*
+b
+%Bar 158
+
+V".125 in"
+
+%Line 15
+
+b
+0  3&* 15
+x    3
+b
+%Bar 159
+x  21 3
+x  3 15
+b
+%Bar 160
+1  54
+x     3
+x  3  3
+x  2
+b
+%Bar 161
+0  03
+x    3&*2Tsic-
+b
+%Bar 162
+x  54&* 3Tut
+x 3  1&*Tet
+b
+%Bar 163
+x 2  3&*Tnos
+1 3  1&*
+x   4&*
+b
+%Bar 164
+0 543&*
+x 20&*1Tdi-
+b
+%Bar 165
+x 32&*Tmi-
+x 53&*Tti-
+b
+%Bar 166
+x3 0&*1Tmus
+0. 32&*3T  di-
+bT
+%Bar 167
+1!
+1   1
+0 10&*1Tmi-
+b
+%Bar 168
+x5
+x 3&*4Tti-
+b
+%Bar 169
+x35&*5Tmus
+x 1 13
+b
+%Bar 170
+
+V".125 in"
+
+%Line 16
+
+b
+0 0 31
+x 53&*53Tdi-
+b
+%Bar 171
+x 3 1&*10Tmi-
+1   3&*Tti-
+x 0
+b
+%Bar 172
+0 10&* 3
+x 3 1&*10
+b
+%Bar 173
+1 53&*4
+x    3
+x 12&*13
+x  0&*
+b
+%Bar 174
+0 02&*3
+x    2
+b
+%Bar 175
+1  0&*33Tmus
+2    1
+x   4
+x   3
+x   1
+x  3
+x  2
+b
+%Bar 176
+1  0
+x  2
+0  3&*33Tde-
+b
+%Bar 177
+x 3 1&*10Tbi-
+w  33&*11Tto-
+bT
+%Bar 178
+0!
+0 3 1&*10Tri-
+b
+%Bar 179
+1 54&*33Tbus
+x  5
+x   3
+x   5
+b
+%Bar 180
+
+V".125 in"
+
+%Line 17
+
+b
+w 35&*65T  nos-
+b
+%Bar 181
+13 5&*43Ttris
+x   3
+2   4
+x   3
+x   4
+x   6
+b
+%Bar 182
+0  5 3
+x     3
+b
+%Bar 183
+x    32
+x  5&*  6Tet
+b
+%Bar 184
+x    3
+x 5&*   5Tne
+b
+%Bar 185
+x  3&* 3Tnos
+x  5&*  3Tin-
+b
+%Bar 186
+1   3&*Tduc-
+x     2
+x     3
+x     2
+b
+%Bar 187
+0   1&* 3Tas
+1  5&* 3Tin
+x   3
+b
+%Bar 188
+x   4
+x   3
+x 3 1&*4Tten-
+x  3
+b
+%Bar 189
+x   1&*Tta-
+x    3
+x3  1&*3Ttio-
+x 0
+b
+%Bar 190
+
+V".125 in"
+
+%Line 18
+
+b
+1 1 1&*
+x    1
+0 3  1
+b
+%Bar 191
+1 53&*Tnem
+x    0
+2    1
+x    0
+x    1
+x    0
+b
+%Bar 192
+0 3  1
+w 3 1&*10Tin
+bT
+%Bar 193
+0!
+0 3 1&*10Tten-
+b
+%Bar 194
+x  33&*11Tta-
+x  33&*11Ttio-
+b
+%Bar 195
+w 3 1&*10
+b
+%Bar 196
+03 5&*43Tnem
+1  5
+x   3
+b
+%Bar 197
+x3  4
+x   6
+x    3
+x    4
+b
+%Bar 198
+0  0 32
+x  5&*  6Tet
+b
+%Bar 199
+x    3
+x 5&*   5Tne
+b
+%Bar 200
+x  3&* 3Tnos
+x  5&*  3Tin-
+b
+
+V".125 in"
+
+%Line 19
+
+b
+%Bar 201
+1   3&*T  duc-
+x     2
+x     3
+x     2
+b
+%Bar 202
+0   1&* 3Tas
+w  54&*33Tin
+bT
+%Bar 203
+0!
+0  54&*33Tten-
+b
+%Bar 204
+x 3 6&*53Tta-
+x   6&*Ttio-
+b
+%Bar 205
+w  54&*33
+b
+%Bar 206
+Sc
+W  03&*32Tnem
+b
+%Bar 207
+w  03&*3Tsed
+x     2
+b
+%Bar 208
+w.  54&*33Tli-
+0  54&*33Tbe-
+b
+%Bar 209
+x  54&*33Tra
+W 3 6&*53Tnos
+bT
+%Bar 210
+0!
+w  3 65
+1  36&*Ta
+x    4
+b
+
+V".125 in"
+
+%Line 20
+
+b
+%Bar 211
+0.  54&*33T  ma-
+1  33
+x  11 3
+x    1
+x    3
+x    1
+b
+%Bar 212
+W  0Q3&*32Tlo
+b
+%Bar 213
+wR!
+w3 5&*53Tsed
+b
+%Bar 214
+w. 35&*65Tli-
+0 35&*65Tbe-
+b
+%Bar 215
+x 35&*65Tra
+W  33&*11Tnos
+bT
+%Bar 216
+0!
+w. 1 4&*31Ta
+b
+%Bar 217
+0 35&*65Tma-
+x     3
+1 35&*6Tlo
+x    6
+x    5
+x    3
+b
+%Bar 218
+W 3Q5&*65Ta-
+b
+%Bar 219
+YW3 553Tmen
+4!  *
+b
+B
+e

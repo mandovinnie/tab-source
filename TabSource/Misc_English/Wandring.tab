@@ -1,0 +1,337 @@
+%Set in Wayne Cripps' TAB by Leonard Williams
+
+-R8
+$pstitlefont=ptmb
+$psalttitlefont=ptmr
+$titlesize=20
+$charstyle=robinson
+$flagstyle=thin
+$sys-skip=.125
+
+-highlightparen
+-p
+-c
+-D
+
+F2
+{\CL/Wandring in this Place}
+F3
+{14 Ayres in Tabletorie to the Lute (1598)/Michaell Cavendish}
+
+b
+MG
+kf
+c
+0
+M0G0TWan-	
+M0F+	dring
+M0G0	in
+M0a0	this
+2   c	0b0	place
+x   b	0a0	as
+x   c	0b0	in
+x  a	0c0 a
+b
+x  bc	0d.	wil-
+x  ab	1c0	der-
+x  bc	0b0	nes,
+x  de	0a0	as
+x ab	0G0	in
+x ba	0c0	a
+x ab	0b.	wil-
+3a	1b0	der-
+x  d
+b
+2 ef	wa0	nes,
+3  f
+x e
+2a  c	2R0
+x ab	0b0	as
+MZa0
+b!
+
+%System 2
+
+b!
+MG
+kf
+2 d a	0a0	in	
+x a c	0G0	a
+2. aa c	0F^	wil-
+3  d	1F+	der-
+b
+S3
+0aac  a	WG0	nes,
+1aa c	wb0	no
+1. ea c	wa.	com-
+2a	0b+	fort
+1cca a	wc0	have
+b
+xdab  d	wd.	I
+x   c
+M0e0	nor
+xfd a	wf0	yet
+xda c	wd0	as-
+2cc e	Wc+	sur-
+x a
+x c
+x   c
+b
+c
+1 aabc	Wd0	ance,
+x      a
+MZG0      
+b
+
+%System 3
+
+b
+MG
+kf
+0	0G0	W an-	
+M0F+	dring-
+M0G0	in
+M0a0	this
+2   c	0b0	place
+x   b	0a0	as
+x   c	0b0	in
+x  a	0c0	a
+b
+x  bc	0d.	wil-
+x  ab	1c0	der-
+x  bc	0b0	nes,
+x  de	0a0	as
+x ab	0G0	in
+x ba	0c0	a
+x ab	0b.	wil-
+3a	1b0	der-
+x  d
+b
+2 ef	wa0	nes,
+3  f
+x e
+2a  c	2R0
+3 a	0b0	as
+x  b
+MZa0
+b!
+
+%System 4
+
+b!
+MG
+kf
+3 d	0a0	in	
+x   a
+x   c	0G0	a
+x a
+2. aa c	0F^	wil-
+3  d	1F+	der-
+b
+S3
+0aac  a	WG0	nes,
+1da c	wd0	no
+1.ca  c	wd.	com-
+2a   e	0c0	fort
+1cd a	wc0	have
+b
+1.dab  d	wf.	I
+2  b	0d0	nor
+xcbd a	wc0	 yet
+xa
+xa b d	wG0	as-
+x  d
+x    c	Wa0	sur-
+x f e
+x e
+x  d
+MZG0
+b
+
+%System 5
+
+b
+MG
+kf
+c
+1aac  a	WG0	ance	
+2a  cd
+x  a
+x  b	WR0
+x  d
+x db c
+x a
+x b  a	wR0
+x  a
+1 b ca	Wc0	Des-
+xab c a
+2   c	wb0	o-
+x df
+2. bd	wa-	late
+3 a
+2 b  a	wa-	of
+x d  c
+b
+1ab cd	wG0	joy,
+x  d a	We-	des-
+xa dc
+2  b	wd0	o-
+x a
+1 d d	wc0	late
+x b ca	wc0	of
+x bd a	WG0	joy,
+x a c d
+b
+x  d db	wR0
+x  d ab	We-	des-
+x  dc a
+xa b	wd0	o-
+MZc0
+b
+
+%System 6
+
+b
+MG
+kf
+2   da	wc0	late	
+x d
+x b ca	wc0	of
+x a
+x b	WG0	joy,
+x  d
+1aa c e
+b
+x bd a	wR0
+x  d  b	Wc0	des-
+xab   a
+2 a	wb+	o-
+x   c
+b
+1a d d	wc0	late
+2   a	wa-	of
+x d
+xaadc	wG0	joy,
+3  c
+x  a
+2  c	wG0	re-
+xa
+b
+1acd a	wG0	pleat
+2 d a	wa-	with
+x b
+x a   a	WG0	sad-
+x  d
+x a
+x  c
+0 cdca	WG0	nesse:
+MZc0
+b
+
+%System 7
+
+b
+MG
+kf
+1.bdda	wc.	Wher-	
+2abd a	0c0	fore
+x bb d	0G0	I-
+x d	0a0
+xa   d	0b0
+x b	0G0
+1 d  c	1a0
+M1b0
+Mwc0
+x a ac
+M0b+	may
+b
+xacd a	wc0	say,
+xab cd	wb0	O
+x dda	wa-	de-
+xaabc	wG0	us,
+b
+2  dd	Wc0	de-
+x a
+x b d
+x d
+xaacc	Bd0	us,
+x     a
+1aac
+1.aab  a
+2  d  c
+MZG0
+b
+
+%System 8
+
+b
+MG
+kf
+1aa c e	wG.	Non	
+x bd a
+M0a0	est
+xaa c	wb+	do-
+2  d d	wc0	lor,
+x   e
+b
+1 dc c	wd0	sic-
+x bd a	we-	ut
+xa  c e	wd0	do-
+2 b  a	wc0	lor
+x  a
+b
+1aac  a	wd0	me-
+2  d	wG0	us,
+x   e
+1 acc a	WR0
+2 bd
+x   e
+1 ac  a	wG.	non
+x bd
+M0a0	est
+b
+xaa c a	wb+	do-
+2 bd	wc0	lor,
+x     c
+1aa c e	wd0	sic-
+2    a	we-	ut
+x  a
+MZd0
+b
+
+%System 9
+
+b
+MG
+kf
+1a cc	wd0	do-	
+2  d d	wG0	lor
+x   e
+1 ac c	WR0
+x bd a
+b
+xaa c e	wG.	non
+x bd a
+M0a0	est
+x a c a	wb+	do-
+2a	wc0	lor,
+x  a
+b
+1aac  a	wd0	sic-
+2  d	we-	ut
+x   e
+1aac  a	0d0	do-
+M0c0	lor
+2 bd	wc.	me-
+x d
+x a   a
+x bd	1b0
+M1a0
+2.aa c	wb+
+3 d
+b
+0acd a	Wc0	us.
+b
+B
+e
+

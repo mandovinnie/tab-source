@@ -1,0 +1,1574 @@
+
+% This tab file is a copy of the treble of a 
+% Green Sleeves treble and ground from Dd.3.18
+%
+% Rainer aus dem Spring
+% Rainer.adS.BERA_GmbH@t-online.de
+%
+
+$psalttitlefont=ptmr
+$pstitlefont=pzcmi
+$titlesize=24
+$flagstyle=board
+
+-R8
+-e
+%-B
+-C
+
+F 1
+{\CL/Green Sleeves}
+V "15mm"
+
+F 3
+{Green Sleeues/Anonymus}
+{Dd.3.18, ff. 8v-9r}
+
+% ########
+% System 1
+% ########
+b!
+% =====
+% Bar 1
+% =====
+2.d
+3f
+#2H
+xd
+#2f
+xc
+1 d
+b
+% =====
+% Bar 2
+% =====
+#2d
+xa
+2a
+#3 e
+xa
+#2c
+x e
+1 a
+b
+% =====
+% Bar 3
+% =====
+2.d
+3f
+#2H
+xd
+#2f
+xc
+#2 d
+xf
+b
+% =====
+% Bar 4
+% =====
+#2d
+xa
+#2 f
+x e
+1aac -a
+1   c
+b
+% =====
+% Bar 5
+% =====
+2.H
+3f
+2d
+#3c
+xa
+#2c
+x d
+1f
+b
+% =====
+% Bar 6
+% =====
+2d
+#3a
+xc
+#3d
+xf
+2H
+#2 e
+x a
+1c
+b
+% =====
+% Bar 7
+% =====
+2H
+#3l
+xI
+2H
+#3f
+xd
+2c
+#3 d
+xa
+#3c
+xd
+2f
+b
+% =====
+% Bar 8
+% =====
+#3d
+xa
+xc
+xd
+#3c
+x a
+x c
+x e
+0aaccca
+bb
+
+% ########
+% System 2
+% ########
+b!
+% =====
+% Bar 9
+% =====
+1.l
+#3I
+xH
+#2f
+x H
+1  I
+b
+% ======
+% Bar 10
+% ======
+1.H
+#3f
+xd
+#2c
+x e
+1 a
+b
+% ======
+% Bar 11
+% ======
+1.l
+#3I
+xH
+#2f
+x H
+#2  I
+xf
+b
+% ======
+% Bar 12
+% ======
+#2d
+xa
+#2 f
+x e
+1aF
+1aF
+bb
+% ======
+% Bar 13
+% ======
+1.l
+#3I
+xH
+#3f
+x I
+x H
+x f
+1  I
+b
+% ======
+% Bar 14
+% ======
+1.H
+#3f
+xd
+#3c
+xa
+x d
+x c
+1 a
+b
+% ======
+% Bar 15
+% ======
+1.l
+#3I
+xH
+#3f
+x I
+x H
+x f
+2  I
+#3f
+xd
+b
+% ======
+% Bar 16
+% ======
+#3c
+xa
+x d
+x c
+#3 a
+x  d
+x  c
+x  a
+1   c
+1     a
+bb
+% ======
+% Bar 17
+% ======
+#3d
+xc
+xd
+xf
+2H
+#3f
+xd
+
+% ########
+% System 3
+% ########
+#3c
+xa
+xc
+xd
+2f
+#3d
+xc
+b
+% ======
+% Bar 18
+% ======
+#3a
+x d
+xa
+xc
+2d
+#3c
+xa
+#3 e
+x c
+x e
+xa
+2c
+#3 a
+x c
+b
+% ======
+% Bar 19
+% ======
+#3 a
+x  d
+x  b
+x  a
+#3  b
+x  d
+x a
+x c
+#3 d
+x  d
+x d
+xa
+#3c
+xd
+xf
+xc
+b
+% ======
+% Bar 20
+% ======
+#3d
+xa
+xa
+xa
+#3c
+x e
+x e
+xc
+#3a
+x a
+x a
+x  d
+#2  c
+x   c
+b
+% ======
+% Bar 21
+% ======
+#3   c
+x   b
+x   c
+x  a
+#3  b
+x  d
+x a
+x c
+#3 d
+x c
+x d
+xa
+#3c
+x d
+xa
+xc
+b
+% ======
+% Bar 22
+% ======
+#3a
+x e
+xa
+xc
+#3d
+xc
+xd
+xf
+#3H
+xc
+xf
+xd
+#3c
+xa
+x d
+x b
+
+% ########
+% System 4
+% ########
+b!
+% ======
+% Bar 23
+% ======
+#3 a
+x  d
+x  b
+x  a
+#3  b
+x  d
+x a
+x c
+#3 d
+xa
+xc
+xd
+#3f
+xc
+xd
+xf
+b
+% ======
+% Bar 24
+% ======
+#3d
+xa
+xc
+xd
+#3c
+xd
+xf
+xH
+1e
+1 f
+bb
+% ======
+% Bar 25
+% ======
+1.d
+2H
+1.c
+2f
+b
+% ======
+% Bar 26
+% ======
+1.a
+2d
+1. e
+2c
+b
+% ======
+% Bar 27
+% ======
+1.H
+2l
+1.f
+2H
+b
+% ======
+% Bar 28
+% ======
+#2k
+xn
+#2k
+xm
+1n
+1n
+b
+% ======
+% Bar 29
+% ======
+2.d
+3f
+#2H
+xH
+#2l
+xf
+1f
+b
+% ======
+% Bar 30
+% ======
+2.a
+3c
+#2d
+xd
+#2H
+xc
+1c
+b
+% ======
+% Bar 31
+% ======
+2.  b
+3  d
+#2 a
+x a
+#2 d
+x  d
+#2  d
+xf
+
+% ########
+% System 5
+% ########
+b!
+% ======
+% Bar 32
+% ======
+#2d
+xa
+#2c
+xH
+1e
+1e
+bb
+% ======
+% Bar 33
+% ======
+#2a
+xH
+#3e
+xf
+2H
+#2c
+xf
+#3c
+xd
+2f
+b
+% ======
+% Bar 34
+% ======
+#2a
+xd
+#3a
+xc
+2d
+#3 e
+xc
+#3 e
+xa
+2c
+b
+% ======
+% Bar 35
+% ======
+#2H
+xl
+#3H
+xI
+2l
+#2c
+xf
+#3c
+xd
+2f
+b
+% ======
+% Bar 36
+% ======
+#2a
+xd
+#3 e
+xa
+2c
+#2a
+x a
+#3 c
+x e
+2 f
+b
+% ======
+% Bar 37
+% ======
+#3   c
+x a
+#3 a
+x  d
+x  b
+x  a
+2   c
+#3 d
+xf
+#3f
+xd
+xc
+xa
+b
+2 d
+% ======
+% Bar 38
+% ======
+#3a
+xH
+#3H
+xf
+xd
+xc
+
+p
+% ########
+% System 6
+% ########
+2a
+#3 e
+xc
+#3c
+xa
+x e
+x c
+b
+2 a
+%b
+% ======
+% Bar 39
+% ======
+#3 a
+x d
+#3 d
+x b
+x a
+x  d
+2  b
+#3  a
+x  d
+#3  d
+x  b
+x  a
+x   c
+b
+2   a
+%b
+% ======
+% Bar 40
+% ======
+#3a
+xd
+#3c
+xa
+x d
+x c
+#3 a
+x  d
+2  c
+1.   c
+b
+% ======
+% Bar 41
+% ======
+1.l
+#3I
+xH
+#2f
+x H
+1  I
+b
+% ======
+% Bar 42
+% ======
+1.H
+#3f
+xe
+#2c
+x e
+1 a
+b
+% ======
+% Bar 43
+% ======
+1.l
+#3I
+xH
+#2f
+x H
+#2  I
+xf
+b
+% ======
+% Bar 44
+% ======
+#2d
+xa
+#2 f
+x e
+1aF
+1aF
+bb
+% ======
+% Bar 45
+% ======
+2l
+#3H
+xk
+#2l
+xl
+1f
+1l
+b
+% ======
+% Bar 46
+% ======
+2H
+#3d
+xf
+#2H
+xH
+
+% ########
+% System 7
+% ########
+1c
+1H
+b!
+% ======
+% Bar 47
+% ======
+2l
+#3H
+xk
+#2l
+xl
+#2H
+xl
+#2l
+xl
+b
+% ======
+% Bar 48
+% ======
+2H
+#3f
+xd
+#2c
+xH
+1e
+1H
+bb
+% ======
+% Bar 49
+% ======
+#3a
+xc
+2d
+#2c
+xa
+#2c
+x d
+2f
+#3d
+xc
+b
+% ======
+% Bar 50
+% ======
+#2d
+xf
+2H
+#3f
+xd
+2c
+#3c
+xa
+#3 d
+x c
+2 a
+b
+% ======
+% Bar 51
+% ======
+#2H
+xl
+#2d
+xH
+#2c
+xf
+#2 d
+xc
+b
+% ======
+% Bar 52
+% ======
+#2a
+xd
+#2 e
+xc
+#2 a
+xa
+#2  c
+x a
+bb
+% ======
+% Bar 53
+% ======
+#2d
+xa
+#2a
+xa
+#2f
+xc
+#2c
+xc
+
+% ########
+% System 8
+% ########
+b!
+% ======
+% Bar 54
+% ======
+#2H
+xd
+#2d
+xd
+#2c
+x e
+#2 e
+x e
+b
+% ======
+% Bar 55
+% ======
+#2l
+xH
+#2H
+xH
+#2f
+xc
+#2c
+xc
+b
+% ======
+% Bar 56
+% ======
+#2d
+xa
+#2 f
+x e
+#2 f
+xa
+#2 f
+x a
+bb
+% ======
+% Bar 57
+% ======
+#2 a
+x  b
+#2  b
+x  b
+#2 d
+x  d
+#2  d
+x  d
+b
+% ======
+% Bar 58
+% ======
+#2  b
+x   c
+#2   c
+x   c
+#2  a
+x   b
+#2   b
+x   b
+b
+% ======
+% Bar 59
+% ======
+#2 d
+x a
+#2 a
+x a
+#2c
+x d
+#2 d
+x d
+b
+% ======
+% Bar 60
+% ======
+#2d
+xa
+#2a
+x e
+0aaccca
+bb
+% ======
+% Bar 61
+% ======
+#3H
+xd
+xd
+xH
+#3l
+xH
+xH
+x I
+#3c
+x d
+x d
+xc
+#3f
+xc
+xc
+x d
+
+% ########
+% System 9
+% ########
+b!
+% ======
+% Bar 62
+% ======
+#3d
+xa
+xa
+xd
+#3H
+xd
+xd
+xa
+#3 e
+x a
+x a
+x e
+#3c
+x e
+x e
+x a
+b
+% ======
+% Bar 63
+% ======
+#3 a
+x  b
+x  b
+x a
+#3 d
+x a
+x a
+x  b
+#3  d
+x  a
+x  a
+x  d
+#3 d
+x  d
+x  d
+x  a
+b
+% ======
+% Bar 64
+% ======
+#3 a
+xa
+xa
+xd
+#3 e
+xc
+xc
+xH
+1e
+1 f
+bb
+% ======
+% Bar 65
+% ======
+S3
+1d
+2H
+1d
+2a
+#2c
+x d
+xf
+1c
+2 d
+b
+% ======
+% Bar 66
+% ======
+1d
+2f
+1H
+2a
+#2 e
+xc
+xd
+1c
+2 e
+b
+% ======
+% Bar 67
+% ======
+2H
+#3d
+xf
+2H
+#2d
+xa
+xH
+
+% #########
+% System 10
+% #########
+2c
+#3 d
+xa
+#3c
+xd
+2f
+#2c
+x d
+b
+% ======
+% Bar 68
+% ======
+#3d
+xc
+xd
+xf
+2H
+#3 e
+x c
+x e
+xa
+2c
+1aac  a
+2   c
+1.     a
+yb
+bbb
+% ======
+% Bar 69
+% ======
+2d
+#3a
+xc
+xd
+xf
+#3H
+xf
+xd
+xc
+2d
+b
+% ======
+% Bar 70
+% ======
+2c
+#3 d
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+2c
+b
+% ======
+% Bar 71
+% ======
+2a
+#3   c
+x  a
+x  b
+x  d
+#3 a
+x  d
+x  b
+x  a
+2   c
+b
+% ======
+% Bar 72
+% ======
+2 e
+#3 a
+x c
+x e
+xa
+#3c
+xa
+x e
+x c
+2 e
+b
+% ======
+% Bar 73
+% ======
+2H
+#3 I
+x l
+xH
+xI
+#3H
+xI
+xH
+x l
+2 I
+
+% #########
+% System 11
+% #########
+b
+% ======
+% Bar 74
+% ======
+2c
+#3 d
+xa
+xc
+xd
+#3f
+xd
+xc
+xa
+2cd
+b
+% ======
+% Bar 75
+% ======
+#3a
+x  a
+x  c
+x  d
+x a
+x c
+#3 e
+xa
+xc
+xe
+xf
+xc
+b
+% ======
+% Bar 76
+% ======
+#3e
+xa
+xH
+xa
+xH
+xa
+2e
+1 f
+bb
+% ======
+% Bar 77
+% ======
+1.l
+2
+#2I
+xH
+1f
+2 H
+1.  I
+b
+% ======
+% Bar 78
+% ======
+1.H
+2
+#2f
+xd
+1c
+2 e
+1. a
+b
+% ======
+% Bar 79
+% ======
+1.d
+2
+#2c
+xa
+1c
+2 d
+1f
+2H
+b
+% ======
+% Bar 80
+% ======
+2.d
+3c
+2a
+#2c
+x c
+x e
+1a
+2H
+1.e
+b
+% ======
+% Bar 81
+% ======
+2l
+#3H
+xk
+2l
+2f
+1H
+2.f
+3d
+#3c
+xa
+1. d
+
+p
+% #########
+% System 12
+% #########
+b!
+% ======
+% Bar 82
+% ======
+2H
+#3d
+xf
+2H
+2a
+1H
+2.c
+3a
+#3 e
+x c
+1. a
+b
+% ======
+% Bar 83
+% ======
+2d
+#3a
+xc
+2d
+2aa
+1dd
+2.  d
+3  b
+#3  a
+x   c
+1   a
+2f
+b
+% ======
+% Bar 84
+% ======
+2d
+#3f
+xd
+xc
+xa
+2c
+#3H
+xf
+xe
+x H
+b
+2 f
+#3 d
+x c
+x a
+x  d
+1.  c
+bb
+% ======
+% Bar 85
+% ======
+#3   c
+x   b
+x   c
+x  a
+x  b
+x  d
+#3 a
+x  d
+x a
+x c
+x d
+xa
+b
+#3c
+xa
+x d
+xa
+xc
+xd
+#3c
+xa
+xc
+xd
+xf
+xc
+b
+% ======
+% Bar 86
+% ======
+#3d
+xc
+xd
+xf
+xH
+xa
+#3f
+xd
+xc
+xa
+x e
+x c
+b
+#3 a
+x  e
+x a
+x c
+x e
+xa
+
+% #########
+% System 13
+% #########
+#3c
+xa
+xc
+xd
+xf
+xc
+b
+% ======
+% Bar 87
+% ======
+#3H
+xf
+xH
+xI
+xH
+xf
+#3d
+xc
+xd
+xf
+xd
+xa
+b
+#3c
+xd
+xc
+xa
+x d
+x c
+#3 a
+x  d
+x  b
+x  a
+x   c
+x   a
+b
+% ======
+% Bar 88
+% ======
+#3   c
+x  a
+x  b
+x  d
+x a
+x c
+#3 e
+xa
+xc
+xd
+xf
+xc
+b
+#3e
+xa
+xc
+x e
+xa
+x c
+#3 d
+x a
+x c
+x  d
+2  c
+bb
+% ======
+% Bar 89
+% ======
+#2   c
+x  b
+x a
+1 a
+2 d
+#2   a
+x  a
+x  d
+1 d
+2c
+b
+% ======
+% Bar 90
+% ======
+#2  b
+x a
+xa
+1d
+2H
+#2   b
+x  a
+x a
+1 e
+2c
+b
+% ======
+% Bar 91
+% ======
+#2  b
+x d
+xd
+1H
+2l
+
+% #########
+% System 14
+% #########
+#2  a
+x  d
+x d
+1c
+2f
+b
+% ======
+% Bar 92
+% ======
+#2 a
+x f
+xd
+1c
+2H
+#2  c
+x a
+xa
+1.e
+bb
+% ======
+% Bar 93
+% ======
+1l
+2l
+2.l
+3k
+2H
+bb
+2f
+#3  I
+x f
+x H
+x I
+1f
+2 H
+b
+% ======
+% Bar 94
+% ======
+1d
+2d
+2.d
+3c
+2a
+b
+2c
+#3 e
+xa
+xc
+xe
+1c
+2 e
+b
+% ======
+% Bar 95
+% ======
+1H
+2H
+2.H
+3f
+2d
+b
+2f
+#3 d
+xa
+xc
+xd
+1f
+2c
+b
+% ======
+% Bar 96
+% ======
+2d
+#3f
+xd
+xc
+xa
+#3c
+xa
+xc
+xd
+xf
+xc
+b
+2e
+#3H
+xf
+xe
+x H
+#3 f
+x e
+#2 f
+xa
+bb
+% ======
+% Bar 97
+% ======
+#3H
+xf
+xH
+xI
+2H
+#3d
+xc
+xd
+xf
+2d
+
+% #########
+% System 15
+% #########
+#3f
+xe
+xf
+xH
+2f
+#3c
+xa
+xc
+xd
+2c
+b
+% ======
+% Bar 98
+% ======
+#3d
+xc
+xd
+xf
+2d
+#3a
+x d
+xa
+xc
+2a
+b
+#3c
+xa
+xc
+xe
+2c
+#3 e
+x c
+x e
+x f
+2 e
+b
+% ======
+% Bar 99
+% ======
+#3l
+xk
+xl
+xn
+2l
+#3H
+xf
+xH
+xI
+2H
+b
+#3f
+xe
+xf
+xH
+2f
+#3c
+xa
+xc
+xd
+2c
+b
+% =======
+% Bar 100
+% =======
+2H
+#3f
+xd
+xc
+xa
+#3 d
+x c
+x a
+x  d
+x  c
+x  a
+1.   c
+2     a
+1.   c
+Yb
+bbb
+T-Green Sleeues
+x
+e
+
+

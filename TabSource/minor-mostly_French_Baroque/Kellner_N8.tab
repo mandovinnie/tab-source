@@ -1,0 +1,413 @@
+
+-b
+-i
+-e
+
+{Phantasia in F dur/David Kellner}
+
+b
+S3-4
+1      /a
+x  d
+x   e
+x  d
+x    d
+x  d
+b
+1      /a
+x a
+x  b
+x a
+x   a
+x a
+b
+1      /a
+x  d
+x   e
+x  d
+x    d
+x  d
+b
+1      /a
+x  b
+x   c
+x  b
+x    c
+x  b
+b
+
+
+i
+1      /a
+x  d
+x  c
+x a
+x  d
+x c
+b
+1      /a
+x a
+x  c
+x a
+x   c
+x a
+b
+1      //a
+x c
+x  d
+x c
+x   c
+x c
+b
+1      ///a
+xa
+x  d
+xa
+x  c
+xa
+b
+1      4
+xc
+x c
+xc
+x  d
+xc
+b
+1      4
+xe
+x d
+xe
+x  d
+xe
+b
+
+% line 3
+
+i
+1      4
+xc
+x c
+xc
+x  d
+xc
+b
+1      4
+xa
+x a
+xa
+x  c
+xa
+b
+1      4
+x c
+x  d
+x c
+x   c
+x c
+b
+1     c
+xa
+x a
+xa
+x   c
+xa
+b
+1     d
+x c
+x  d
+x c
+x   c
+x c
+b
+1      d
+x c
+x  d
+x c
+x   c
+x c
+b
+
+% line 4
+
+i
+1     a
+xa
+x  d
+xa
+x   a
+xa
+b
+1      a
+xc
+x c
+xc
+x  b
+xc
+b
+1      /a
+xe
+x d
+xe
+x  d
+xe
+b
+1  b
+xc
+x a
+xc
+x  b
+xc
+b
+1   e
+xa
+x  d
+xa
+x   e
+xa
+b
+1   c
+x c
+x  b
+x c
+x   c
+x c
+b
+
+% line 5
+
+i
+1   a
+x a
+x  a
+x a
+x   a
+x a
+b
+1    c
+x  d
+x   c
+x  d
+x    c
+x  d
+b
+1    a
+x   a
+x  b
+x    c
+x    d
+x  a
+b
+1     b
+x a
+x      a
+x  d
+x  b
+x  a
+b
+1      4
+x  d
+x  dU
+x  bX
+x  bU
+x  aX
+b
+1   c
+x     d
+x     dU
+x     bX
+x     bU
+x     aX
+b
+
+p
+
+
+% page two
+
+i
+1      a
+x c
+x dU
+x cX
+x cU
+x aX
+b
+1  e
+x   e
+x   eU
+x   cX
+x   cU
+x   aX
+b
+1    c
+x  e
+x a
+x   a
+x   c
+x c
+b
+1  a
+x d
+x c
+x a
+x  e
+x  c
+b
+1  a
+x    d
+x    c
+x    a
+x     e
+x     c
+b
+
+% line 2 page 2
+
+i
+1     a
+x  c
+x  e
+x a
+x c
+x      a
+b
+1      /a
+xe
+x d
+xe
+x  d
+xe
+b
+1      //a
+xf
+x f
+xf
+x  d
+xf
+b
+1      /a
+xe
+x d
+xe
+x c
+xa
+b
+1      d
+xe
+x a
+xe
+x c
+xa
+b
+
+% line 3
+
+i
+1      4
+xc
+x c
+xc
+x  b
+xc
+b
+1      4
+xa
+x  d
+xa
+x   e
+xa
+b
+1      4
+xa
+x  b
+xa
+x   c
+x c
+b
+w.adaaa ///a
+b
+1     a
+x b
+x  d
+x b
+x   a
+x b
+b
+w. abaa d
+b
+
+% line 4
+
+i
+1      //a
+x  d
+x   c
+x  d
+x      4
+x  b
+b
+1      /a
+x  a
+x   a
+xa
+xc
+xe
+b
+1      4
+xc
+x c
+xc
+x d
+xe
+b
+1      4
+xf
+x c
+xf
+x d
+xe
+b
+1      4
+x d
+xc
+x d
+x c
+xc
+b
+
+% line 5 page 2
+
+i
+1      /a
+xa
+x  d
+xa
+x   e
+xa
+b
+1      /a
+xa
+x a
+xa
+x  b
+xa
+b
+1      /a
+xa
+x  d
+xa
+x   e
+xa
+b
+1      /a
+xa
+x  b
+xa
+x   c
+x c
+b
+w.ada   /a
+b
+b
+Q
+e

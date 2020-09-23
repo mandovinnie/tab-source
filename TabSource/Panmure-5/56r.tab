@@ -1,0 +1,111 @@
+
+-b
+-e
+-Q
+$line=o
+-tuning c4d4e-4f4g4a3d3g3a+2d2f2
+{pan 5 f56r/D Eb F G a d f bb d f}
+
+b
+b
+w a&,aa
+0      a
+b
+w aaa
+0    E
+b
+0 aEc
+x  c&,.
+x a:
+b
+0.  a&, --a
+2   c.
+x  a:
+0   a.
+b
+0   c -/a
+x   d.
+x  c:
+b
+0. aadd ///a
+1 a.
+0 aadd
+b
+
+% line 2
+
+b
+0 bc  a
+xa.
+x a   b
+b
+0.  c&,   /a
+2  a:
+x   c.
+0  a:
+b
+b
+0     b
+w aadd
+b
+w  cc  /a
+0     d
+b
+w bca.
+0      a
+b
+0. aaa.
+1      /a
+0      //a
+b
+
+% line 3
+
+b
+0   af
+0.    E&,
+1   a.
+b
+0   c  ///a
+x    a.
+x  c--d &{
+b
+0 a.  &}
+x  a---a
+x  c.
+b
+w   c  ///a
+0      //a
+b
+0   af
+0.    E&,
+1   a
+b
+0   c  ///a
+x  a.
+0.  c  d
+b
+
+% line 4
+
+-l "2.8 in"
+
+b
+1 a.
+0.  a---a
+1  c.
+b
+w   c&,  ///a
+0      a
+b
+Q
+e
+
+
+
+
+
+
+
+
+

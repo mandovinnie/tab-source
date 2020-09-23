@@ -1,0 +1,272 @@
+-t
+-f
+{Ballo detto il Conte Orlando/Simone Molinaro}
+b
+C
+x
+0c  a
+1c  a
+xd  c
+0f  e
+xh  f
+b
+0fda   a
+1  a   a
+xd b  a
+0c d  c
+1aab  d
+x d
+b
+0 cdca
+x dcac
+x  dca
+x c
+b
+1 daa  a
+x c
+x d
+xa
+0c
+x d
+b
+1c  a
+xa
+xc  a
+xd  c
+0f  e
+xh  f
+b
+
+b
+1fda   a
+x   c
+x  a   a
+xd b  a
+xc d  c
+2d
+xc
+1aab  d
+x da
+b
+1 cdca
+2 a
+x c
+1 dcac
+x   c
+x  dea
+2a
+x d
+1 c c
+2 a
+x c
+b
+1 daa  a
+x  b
+x  a
+xd  c
+xc  a
+xa   e
+x d  c
+x c  a
+b
+0 ab  d
+1d
+x     c
+0df   a
+xfh    a
+b
+0hi    f
+1h  f
+xf  e
+xda c
+x c
+xcdf c
+x  d
+b
+
+b
+1abb d
+xc
+xda
+xf
+xc da
+xd b
+x  d   a
+xc
+b
+1dab  d
+x   a
+x  bc
+x  de
+x  ff
+x     d
+x ad  d
+x cb a
+b
+1 da c
+x   a
+x   a  a
+x   c
+x  a c
+x d
+x d  c
+xa a e
+b
+1c aa
+x  b
+xc d   a
+xd    a
+xf d  c
+x a
+x c   c
+2d    d
+xc
+b
+1ac  a
+xcd
+xdf   a
+x c
+xce  c
+xaf
+xc     /a
+x e
+b
+
+b
+1af   a
+2 d
+x c
+x a
+x  d
+x  c
+x  a
+0  c
+xh
+b
+1d  c
+xc
+xaa
+xc
+xdf c
+xfh
+xhi  h
+xdf
+b
+1fh a
+xd
+xc d
+xa
+xcd a
+xdf
+xfh a
+xcd
+b
+1df  d
+xf
+xd  c
+xc
+xa b d
+xd
+xc d f
+xa
+b
+1 df c
+xa
+x d
+x c
+x aa c
+x d
+x cc c
+x a
+b
+
+b
+1 cd a
+x d
+x c c
+x a
+x  dea
+x ab
+x cd a
+xa b
+b
+1 da c
+x  f
+x c   c
+x  d
+x ab  d
+x  a
+x d cc
+x   a
+b
+0 c ca
+x da
+xaddc
+x c
+b
+1cdda  a
+x    a
+x    c
+x    e
+0   a
+xf a
+b
+0da c
+1a b
+xc d
+0da
+xa bc
+b
+0c da
+1 da
+xa b
+0c d
+x daa
+b
+0a b d
+1   c
+x  a
+0  b
+xa  cd
+b
+
+b
+0 da c
+1 a a
+x c c
+0 da
+x a ac
+b
+0 c ca
+1  de
+x a
+x c ca
+x  d
+x c  a
+x  b
+b
+1 da c
+x  b
+x  a  c
+x c c
+x a a d
+x c
+x d ac
+x a
+b
+0 c ca
+x da
+1  dca
+x c
+2 d
+x c
+x a
+x c
+b
+w daa
+b
+b
+x
+b
+
+e

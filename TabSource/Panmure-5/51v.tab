@@ -1,0 +1,206 @@
+
+-b
+-e
+-Q
+$line=o
+-tuning c4d4e-4f4g4a3d3g3a+2d2f2
+{pan 5 f51v/D Eb F G a d g bb d f}
+
+b
+0. aad &{
+1 b&,.
+xa:
+x a.}
+0cb
+b
+0a&,a
+1  a -b
+x     d
+x    a
+x a.
+x aE - //a
+2  c&,.
+x  a
+b
+1   c.-/a
+x    d &{
+x  a&,
+2   c.
+x  a:
+1  c. &}
+x a&.a&.
+x b&.c&.
+xa&.a&.
+b
+
+% line 2
+
+b
+1c&.b
+xE.
+xfa
+xE.
+xc&,:
+x d
+xcc
+x  c
+b
+1Ed
+xc&,.
+xaa
+x  a
+xcb
+xa.
+x bc
+x   d
+b
+1   c&,
+xa.
+x a d
+x   b&,
+x   a
+x  a.
+x b:
+x a -d
+b
+
+% line 3
+
+b
+1 b.
+x    b
+x a  d
+x  c.
+x  a&,a
+x      a
+x  c -a
+x    b
+b
+1 a  d
+x b.
+x d - b
+x     a&,
+x      a
+x  a.
+x d:
+x c&,.a
+b
+1a:
+x      /a
+x    d
+x   c
+wadc.
+b
+b
+
+% line 4
+
+b
+1  c
+b
+0.  ccd
+1   d.
+x   c&,- /a
+x   d.
+x  c:
+x    b&,
+b
+1    a
+x  a:
+x  c.
+x a:
+x b a d
+x     b&,
+xa c - a
+x b.
+b
+0. aaddb
+1     d
+x a  a
+x  a.
+x b:
+xa.
+b
+
+% line 5
+
+b
+1c:
+x    b
+x    d
+x   a
+x   b
+xc
+xa&| &|a
+2 b.
+xa:
+b
+1 b.
+0      //a
+1a:
+xc.
+x    b
+x    a&,
+x     d
+b
+1 a - c
+x   a.
+x b - d
+x     b&,
+x  c -a
+x    d
+x a.
+x ca - a
+b
+  
+p
+
+% f 52 R  line 6
+
+b
+1a.
+x      /a
+xc&,:
+2a.
+xc:
+1E.
+xf:
+xh.
+x  f
+b
+1   h &{
+x a.
+xa:  &}
+2   f&,
+x  a.
+1    h &{
+x  f:
+x   f.
+x  h:  &}
+b
+
+% last line
+
+-l "4.3 in"
+
+b
+1.  aa
+2 b.
+1a:
+x    b
+x    d &{
+x a. &}
+x  c&, - /a
+2  a:
+x   c.
+b
+1  a.
+x     b &{
+x    d
+x   d &}
+waaa.
+b
+b
+Q
+e
+

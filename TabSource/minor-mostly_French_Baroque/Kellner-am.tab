@@ -1,0 +1,714 @@
+
+-R8
+
+-b
+-i
+% -Q
+
+{Phantasio A moll/David Kellner N1}
+
+$tempo=1 
+
+i
+Sc
+2
+x c
+x e
+xd
+xe
+x c
+x a
+x c
+x  d
+xe
+x  c
+xd
+x  d
+xe
+x c{
+x d}
+b
+2  c
+xc
+x  a
+xa
+x   c
+x c
+x   a
+x a
+x    c
+x  d
+x    a
+x  c
+x     d
+x  a
+x     c
+x   d
+b
+
+% line 2
+
+i
+2     a
+xh
+x h
+xh
+x  h
+xh
+x h
+xh
+x     a
+xg
+x g
+xg
+x  f
+xg
+x g
+xg
+b
+2     a
+xe
+x c
+xe
+x  d
+xe
+x c
+xe
+x     a
+xd
+x a
+xd
+x  c
+xd
+x a
+xd
+b
+2     a
+x c
+x  d
+x c
+x   e
+x c
+x  d
+x c
+i
+
+% line 3
+
+i
+2     a
+x a
+x  c
+x a
+x   d
+x a
+x  c
+x a
+b
+2     a
+x  d
+x   e
+x  d
+x    c
+x  d
+x   e
+x  d
+x     a
+x  c
+x   d
+x  c
+x    a
+x  c
+x   d
+x  c
+b
+1     a
+x  d
+x   e
+x a
+x c
+x  d
+x e{
+x c}
+b
+1     a
+xbbc
+0
+i
+
+% line 4
+
+i
+1      a
+xccc
+2     a
+xc
+x c
+xc
+b
+1     c
+xb
+x b&,
+x  a
+0cccc  //a
+2 c
+xc
+x c
+xc
+b
+2 c    ///a
+xd
+x c
+xd
+0ec    4
+1e
+x c
+x c
+x c
+b
+1 _d    ///a
+x  a
+x  a
+x  a
+i
+
+% line 5
+
+i
+1 c    //a
+x   d
+x   d
+x   d
+b
+1  d  a
+x   e
+x   e
+x   e
+x      b
+x c
+x  c - a
+x  c
+b
+3      /a
+x  a
+x  c
+x  d
+x a
+x c
+x d
+xc
+xe
+xc
+xa
+x c
+x a
+x  d
+x  c
+x  a
+0 ccdc
+x      //a
+b
+b
+T-Volti
+i
+
+% page 2 line 1
+
+$tempo=2
+
+i
+S 3-4
+1   e
+x  d
+x c
+x  d
+x   e
+x c
+b
+1   d
+x  c
+x c
+x  c
+x   d
+x c
+b
+1   e
+x  d
+x c
+x  d
+x   e
+x c
+b
+1   e
+x  d
+xa
+x  d
+x   e
+xa
+b
+1   e
+x  d
+x e
+x  d
+x   e
+x e
+b
+1  c
+x a
+xc
+x a
+x  c
+xc
+b
+
+% line 2
+
+1    c
+x a
+xd
+x a
+x    c
+xd
+b
+1   e
+x  d
+xe
+x  d
+x   e
+xe
+b
+1   c
+x  c
+x c
+x  c
+x   c
+x c
+b
+1   a
+x  a
+x c
+x  a
+x   a
+x a
+b
+1   b
+x  a
+x b
+x  a
+x   b
+x b
+b
+1    c
+x  a
+x c
+x  a
+x   d
+x c
+b
+
+% line 3
+
+
+i
+1    a
+x   d
+x  c
+x   d
+x    a
+x  c
+b
+1     d
+x    c
+x  a
+x    c
+x     d
+x  a
+b
+1     c
+x   d
+x a
+x   d
+x     c
+x a
+b
+1     a
+x   d
+x  a
+x  c
+x  d
+x a
+b
+1     a
+x b
+xb
+x b
+x  c
+xb
+b
+1      a
+x c
+xc
+x   c
+x   e
+xc
+b
+
+% line 4
+
+i
+1  c
+x c
+xc
+x c
+x  c
+x e
+b
+1    c
+x  c
+x c
+x  c
+x   c
+x c
+b
+1    c
+x   b
+x  b
+x   b
+x    c
+x   b
+b
+1    a
+x   b
+x  c
+x   b
+x    a
+x  c
+b
+1    c
+x   c
+x  d
+x   c
+x    c
+x  d
+b
+1    a
+x   b
+x  d
+x   b
+x    a
+x  c
+b
+
+% line 5
+
+i
+1     d
+x c
+x  c
+x c
+x  a
+x c
+b
+1     c
+x a
+x  a
+x a
+x   c
+x a
+b
+1     a
+x  d
+x   c
+x  d
+x   b
+x  d
+b
+1      a
+x  c
+x   b
+x  c
+x    c
+x  c
+b
+1    b
+x  c
+x    a
+x  c
+x     e
+x c
+b
+1     d
+x  a
+x      ///a
+x   e
+w  d
+b
+
+
+% page 3 line 2
+
+$tempo=1
+
+i
+c
+3      //a
+xe
+xd
+x e
+x c
+x a
+x  d
+x  c
+x  a
+x c
+x a
+x  d
+x  c
+x  a
+x   d
+x    e
+x    c
+x  a
+x   d
+x    e
+x    c
+x    a
+x     d
+x     c
+x     a
+x    c
+x    a
+x     d
+x     c
+x     a
+x      b
+x      /b
+b
+
+% line 2
+
+i
+1      //a
+x  de
+x  de
+x  de
+x      //a
+x  ce
+x  ce
+x  ce
+b
+1      //a
+x a d
+x a d
+x a d
+x     a
+x  de
+xa d
+xa d
+b
+1      a
+xa c
+xa c
+xa c
+x      a
+x cd
+x cd
+x cd
+b
+1 ad   a
+x      /a
+x ad - a
+x  c
+x  dcc 4
+x     d
+1.     c
+2     a
+b
+1      b
+x  c
+2    c
+x  c
+x    c
+x  c
+1      a
+x  c
+2    c
+x  c
+x    c
+x  c
+b
+
+% line 3
+
+i
+1      /b
+x  a
+2    a
+x  a
+x    a
+x  a
+1      /a
+x  a
+2    a
+x  a
+x    a
+x  a
+b
+0 ccdc //a
+1   d
+x c
+x   c
+x  c
+x c
+x   c
+b
+1   a
+xe
+2 c
+xe
+x c
+xe
+1 a
+xe
+2   a
+x a
+xe
+x a
+b
+1    c
+xc
+2 a
+xc
+x a
+xc
+1  d
+xc
+2    c
+x  d
+xc
+x  d
+b
+1    a
+xa
+2  d
+xa
+x  d
+xa
+1  c
+xa
+2    a
+x  c
+xa
+x  c
+b
+
+% line 4
+
+i
+1     d
+x c
+2  c
+x c
+x  c
+x c
+1  a
+x c
+xadaaa
+x      ///a
+b
+2      //a
+x  c
+x   d
+x  c
+x    c
+x  c
+x   d
+x      //a
+x  d
+x   e
+x  d
+x    c
+x  d
+x   e
+x  d
+b
+2      //a
+x a
+x  c
+x a
+x   d
+x a
+x  c
+x a
+x      //a
+x c
+x  d
+x c
+x   e
+x c
+x  d
+x c
+b
+2      /a
+x a
+x  c
+x a
+x   d
+x a
+x  c
+x a
+i
+
+% line 5
+
+i
+2      //a
+x  d
+x   e
+x  d
+x    c
+x  d
+x   e
+x  d
+b
+2      //a
+x  c
+x   d
+x  c
+x    a
+x  c
+x   d
+x  c
+x     a
+x   d
+x  a
+x  c
+x  d
+x   e
+x a
+x  c
+b
+2  d
+x c
+x e
+x  d
+x  c
+xd
+x a
+xd
+0ecd
+x     a
+b
+b
+b
+Q
+e
+
+
+
+
+
+
+
+
+

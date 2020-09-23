@@ -1,0 +1,139 @@
+
+-R8
+
+$tempo=4
+$midi-patch=109
+
+{Grays in maske/ML f 30r nr 81}
+
+b
+0. #bdc  ///a
+1 d.
+0 #b  a
+1 #a a
+x  d.
+b
+w.  #cc a
+1  cc&,
+x   a
+b
+0  d d
+x ac c
+x +bdca
+1 d&{   d
+x  &}   b
+b
+w.aa#c  a
+0 a.
+b
+x #b  a
+x  d.
+0 dd  b
+1      a
+x b.
+b
+1. #a   a
+2  d.
+1  #c:
+x  a.
+x   c &{
+x a.
+x #b  &}a
+x d  c
+b
+
+% line 2
+
+b
+1a   d&{
+x   c.
+x  d&(: &}
+x   &)a
+xaadc
+x     a
+x  #c.&{
+x d:&}
+b
+w #cdca
+x      ///a
+b
+.
+b
+0 aba d &{
+x a.   &}
+x aba d
+1 b   b &{
+x d.   &}
+b
+0-#a    a
+1 a:
+x  d.
+0  #c  a
+1   c&,
+x   a
+b
+0.  dcd &{
+1  d.
+x aa c &{
+x c.
+x d&(:  &}
+x  &)c.
+b
+
+% line 3
+
+b
+0 #bdca
+w      ///a
+0 b.
+b
+1 a   d &{
+x   d.
+0 b c &}
+x b a d &{
+x a.  &}
+b
+0 #bbcd
+w      /a
+1a:
+xb.
+b
+xd&(   d &{
+x &)b.
+0-#a   &}
+0 db  d &{
+1 b:
+x d.  &}
+b
+xa   a
+x  d.
+0 b.
+x #a   a
+1   c &{
+x  a.&}
+b
+
+% line 4
+
+b
+1  #c  a
+x   c.
+x b    /a
+x      a
+0. #a   a
+2  d:
+x a.
+b
+0  d:
+x    a
+w      ///a
+b
+Y.
+b
+.
+b
+.
+b
+T-finis grays in maske
+b
+e

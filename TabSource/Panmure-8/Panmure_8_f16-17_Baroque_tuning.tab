@@ -1,0 +1,293 @@
+
+% Sun, 8 Jul 2012 16:58:44 +0200
+% Mathias Rösel <mathias.roesel@t-online.de>
+% 
+% Please find enclosed another file for your lute page. I copied two beautiful
+% (to my ears) courantes from Panmure 8 and also converted them into
+% renaissance tuning. Hope you can use it.
+
+
+-R7
+-b
+% -tuning c4d4e4f+4g4a3d3g3b2d2f+2
+-tuning c4d4e-4f4g4a3d3g3a+2d2f2
+{Courante 2/Pamnure 8 f16v-17}
+
+b
+2f
+xf
+b
+0.faaa
+b
+2f   a
+xf
+1.e
+2c
+b
+0.c a b
+b
+1aaaddb
+xaaadd
+xaaa
+b
+1 bca d
+1. bca
+2a
+b
+1. aaa  a
+2      /a
+x  ca  //a
+x a
+b
+1. aec  ///a
+2  c
+x  a
+x   c
+b
+0  aab //a
+2 b
+x b
+b
+1. b c  /a
+2a
+x a d
+x b
+b
+2 b
+x a
+1.  c d /a
+3  a
+x   c
+b
+
+b
+1  a
+x      5
+x     b
+b
+0  add
+.
+2f
+xf
+b
+1.faaa
+2f
+xe
+xc
+b
+2e   a
+xc
+xe
+x d
+xf
+xe
+b
+2c   b
+3   a
+x   c
+2  a
+x  c
+x a
+x b
+b
+2a    b
+xc
+x b
+xa
+x a
+x d
+b
+2 bc  d
+x a
+x b
+x d
+xc
+x b
+b
+2 a    a
+x  c
+x a
+x      /a
+x  c   //a
+x   c
+b
+
+b
+2 a    ///a
+x  c
+x a
+x  a
+x   c
+x  a
+b
+2   ab //a
+x   c
+x  a
+x  c
+x a
+x d
+b
+2 b    /a
+x a
+x  c
+x  a
+x   c
+x   a
+b
+2    d
+x b
+xa
+x a
+2  c   /a
+3  a
+x   c
+b
+1  a
+x      5
+x     b
+b
+0  add
+.
+2  a
+x  a
+b
+0.  addb5
+b
+1.   cbd4
+2   d
+x   a
+x   c
+b
+1    e ///a
+x     f
+x   c
+b
+0    ef
+2   a
+x   c
+b
+
+b
+1   ea a
+x   ea
+x   ea
+b
+1  cacd
+1.  cac
+2   d
+b
+1.   cd /a
+2   c
+x   d
+x  c
+b
+1. aad  ///a
+2  c
+x  a
+x   c
+b
+2   ab //a
+x   c
+x  a
+x   a
+x      4
+x a
+b
+2  a
+x  c
+1.   ca ///a
+3   a
+x    e
+b
+1   a
+x      a
+x    a
+b
+0  aa
+.
+2  a
+x  a
+b
+2  a   5
+x   c
+x   a
+x    d
+x    b
+x    a
+b
+
+b
+2    b 4
+x    d
+x   a
+x   d
+x   c
+x   a
+b
+2    e ///a
+x    c
+x    e
+x   a
+x    e
+x    a
+b
+2   a  a
+x   c
+x   e
+x   a
+x  c
+x  c
+b
+2  c  d
+x   d
+x   c
+x   a
+x    d
+x   a
+b
+2   c  /a
+x   d
+x  c
+x  e
+x  c
+x    d
+b
+2 a    5
+x b
+x d
+x  a
+x   c
+x  a
+b
+2   ab //a
+x   c
+x  a
+x  c
+x a
+x d
+b
+
+b
+2 b    4
+xa
+xc
+xe
+xf
+xc
+b
+2      ///a
+x e
+xc
+xe
+xf
+x    a
+b
+1caa   a
+x    a
+x   a
+b
+0caa
+b
+Q
+e
+

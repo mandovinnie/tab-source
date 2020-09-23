@@ -1,0 +1,207 @@
+-R8
+-e
+-b
+-i
+
+{Prelude du vieux Gallot.  A mi la mineur/Saiznay 2-122}
+{/d-minor tuning}
+
+i
+0!  a  a
+x    c|
+x  a&.E&.  {
+x  c
+x  d. &}
+x a
+x  c&,.{
+x   E. &}
+x c
+x      //a
+x   E|
+x ccd&,:
+x  f.
+x  d/E|
+x     a
+x   c|
+x c/a/a&,:
+x a&,
+x  d.
+x a
+x c.
+x    c|
+x      //a
+x  a
+x  c.
+x  d
+xa/a/d a|
+x  c&,|
+xc
+x d.
+x c&,   d
+x      4
+
+% line 2
+
+i
+0!  a
+x  c.
+x  d
+x a.
+x c
+x     d
+x a/a!/ c &{
+x   c.
+x   a&,|
+x   c.
+x      4
+x c/c!/ d (
+x   E|
+x E.
+xc !/  c &{)
+x  c|
+xc
+x E.  &}
+x   E|
+x c/c/c&,:
+x c  Ec{
+x  f.(
+x   d.) &}
+x  d&(E  //a
+x      ///a
+x    a|
+x    c.
+x    E&_|{
+x  )E|
+x  d.
+x a  &}
+x      a
+
+% line 3
+
+i
+x  d.
+x  c&,/c/a:
+x  d.
+x a
+x    d|
+x    c&,|
+x  d&( "[
+x      a
+x    "]a.
+x  ")c&,
+x  c&,.
+x  a
+x  c.
+x  d
+x      4
+x  a.
+x  c
+x  d.
+x a
+x c.
+xa
+xc.
+x     d
+xd&,"/a / c &{
+xdc.
+xdc   "}c
+x     d
+x c.     &{
+xe
+xe.    }
+x    a|
+xe!/d.
+
+
+
+% line 4
+
+i
+x    c|&{
+x  c.
+xc&,
+x e.
+xc
+x    "}c|
+x    b&,|&{
+x  c.
+xb
+xb
+xb c."}a|
+xc&,
+x c/c!/ d &{
+x   e|
+x e.
+x c   }
+x b/c!/ a
+x  d.
+x  c&,
+x  a.
+x bc|
+x     a
+x c "\   b&{
+x    c|
+x a.
+x  e/c!/"}a
+x    e|&{
+x  a.
+x a
+x  d. }
+x      a
+x  ccd|
+x  c
+x      /a
+
+%line 5
+
+i
+x   c"{.
+x    d!}.
+x  c
+x   c.
+x  c
+x      //a
+x  cdc|
+x  d&_e|{
+x a.
+x c
+x e.
+xd/a !/"c|
+xe/c!/a|
+x a&,.
+xg
+xh h   //a
+x g&, g|
+x h.!/h|
+xg / g%,
+x  h.
+x a
+x      //a
+x  d/e|&{
+x a/c&,|
+x c/d"}|
+x    c|
+x     f(
+x  c"{.
+x   d"}.
+x c
+x c.
+
+% line 6
+
+-l "4.0 in"
+
+i
+x   e/c/d:
+x   e.
+x    a|
+x   a|
+x  a.
+x   d&,c|
+x      //a
+x  aE&_ca
+b
+b
+Q
+e
+

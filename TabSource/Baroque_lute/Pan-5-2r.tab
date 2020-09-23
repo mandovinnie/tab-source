@@ -1,0 +1,121 @@
+-e
+-b
+-tuning c4d4e4f+4g4a3d3g3b2d2f+2
+{Panmure 5 2r}
+
+b
+b
+0\1b&, --- a
+x a.
+x\1b  a
+x-\1d
+b
+1-\4faa   a
+x-\4f.
+x-\1d&,
+x \3f.
+0-\1d&,  -  ///a
+1    a
+xa.
+b
+0-\1b&,aaa
+1-a&, -\2c
+x \3c&,
+0 aa
+1 \3c \2c
+xa.
+b
+0-\1b&,aaa
+1      a
+x  a.
+0.   \1c&,  ///a
+1   a.
+b
+0-b&,  -- a
+1 a
+xb.
+
+% line 2
+
+i
+0-\1b&,aaa
+x-\1d.
+b
+0.\4f&xaa   a
+1-\2i
+0.\4l&x -- a
+1-\2i.
+b
+1.\4l  -  //a
+2-\4i.
+0-\1f&,     /a
+1-\4i --- ///a
+x-\4f.
+1.\1d&, - a
+2-\1b.
+b
+0baaa
+x      a
+0@baa.
+b
+.
+b
+1-\1f&,.
+b
+w-\4i&, --- a
+0 \1f a
+x-\2f.
+b
+
+% line 3
+
+i
+w-\4i&, --- a
+0.  \3i&xa
+1b.
+b
+0.a&, - a
+1 \2c.
+0 a&,
+1 \3c \2c
+xa.
+b
+0-\1b&,  a
+1      a
+x  a.
+0.   \1c&,  ///a
+1   a.
+b
+0-\1b&,  -- a
+1 a
+x-\1b.
+0.\1b&,  a
+1-\1d.
+b
+0.\4f&,aa   a
+1-\2i.
+0.\4l&x  -  //a
+1-\2i.
+b
+
+% line 4
+
+-l "5.0 in"
+
+i
+0.\2i&,  -- /a
+1-\4f .
+1-\1d --- ///a
+x-\4f.
+1.\1d&,
+2-\1b.
+b
+0baa   a
+x   a
+wbaa.
+b
+.
+b
+Q
+e
+

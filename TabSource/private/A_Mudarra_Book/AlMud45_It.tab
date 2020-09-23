@@ -1,0 +1,789 @@
+%First-pass conversion from original tablature 
+%to ASCII tab by Donald Sauter.
+%Wayne Cripps' TAB files generated
+%by Leonard Williams with assist from
+%Alain Veylit and StringWalker.
+
+$pstitlefont=pplb
+$psalttitlefont=pplri
+$titlesize=17
+$alttitlesize=14
+$flagstyle=smallitalian
+$numstyle=italian
+$line=o
+
+-R8
+-c
+
+%tuning = GDAFCG
+
+F2
+{\CL/ Glosa sobre el Cum Sancto Spiritu de la misa de Beata Virgine de Josquin}
+F3
+{}
+{Tres Libros... II, f. 22/Alonso Mudarra      }
+
+%Line 1
+
+b
+SO
+0.   3 5Tglosa
+1    0
+b
+%Bar 2
+x    2
+x    4
+0    54
+b
+%Bar 3
+x    75
+x    47
+b
+%Bar 4
+x    54
+x    25
+b
+%Bar 5
+1    3
+x     3
+x     2
+x    10
+b
+%Bar 6
+x   53
+x   3
+x    3
+x     0
+b
+%Bar 7
+x     2
+x     3
+0    15
+b
+%Bar 8
+x    0
+x     4
+b
+%Bar 9
+0. 0 3 5
+1 2
+b
+%Bar 10
+
+%Line 2
+
+b
+1 4
+x  0
+x  22
+2  0
+x  2
+b
+%Bar 11
+0  43
+x  0 0
+b
+%Bar 12
+x  22
+x 4 3
+b
+%Bar 13
+1  0
+x   1
+x   0
+x 32
+b
+%Bar 14
+x 20
+x 0
+x 5
+x  2
+b
+%Bar 15
+x  4
+x   2
+0 3 3
+b
+%Bar 16
+1 2  3TIosquin
+2   2
+x   0
+1   3
+x   2
+b
+%Bar 17
+x 0 3
+x    2
+2    3
+x    2
+x    0
+x    2
+b
+%Bar 18
+
+%Line 3
+
+b
+0   53
+x   1 0
+b
+%Bar 19
+x   325
+x 5  3
+b
+%Bar 20
+1     5
+x    1
+0    04
+b
+%Bar 21
+x   3 5
+x  5  7
+b
+%Bar 22
+1     3
+x   3
+x   5
+x     2
+b
+%Bar 23
+0    20
+x    3
+b
+%Bar 24
+x     0
+x    2
+b
+%Bar 25
+x  0 3
+1     2
+x    1
+b
+%Bar 26
+x   3
+x     3
+0 3  15
+b
+%Bar 27
+x  0 0
+x  2  4
+b
+%Bar 28
+x 4 3 5
+x 5
+b
+%Bar 29
+1   3
+x 3
+0 2 2
+b
+
+%Line 4
+
+b
+%Bar 30
+0 0 3
+x3   0
+b
+%Bar 31
+1   1
+x 0
+x 2
+x   0
+b
+%Bar 32
+0 42
+x 50
+b
+%Bar 33
+x  2
+x 4
+b
+%Bar 34
+1  0Tglosa
+2  2
+x   0
+x   1
+x   3
+x    0
+x    2
+b
+%Bar 35
+1  0 3
+x  2
+x   0
+x   1
+b
+%Bar 36
+x   32
+x    0
+x    3
+x    2
+b
+%Bar 37
+x  0 3
+2     0
+x     2
+x     3
+x     5
+x     7
+x     9
+b
+
+%Line 5
+
+b
+%Bar 38
+1   8 !x
+x   !x
+x    7
+x    9
+b
+%Bar 39
+x    !x9
+x     7
+x     !x
+x     9
+b
+%Bar 40
+07  8 !x
+1 0  58
+x    7
+b
+%Bar 41
+0 7  87
+x  5
+b
+%Bar 42
+x 5  75
+1  2 53
+x   0
+b
+%Bar 43
+x   1
+x   3 2
+0   53
+b
+%Bar 44
+1   3 0
+x    2
+x    3
+x    2
+b
+%Bar 45
+x  0 3
+2    1
+x    0
+x   3
+x   1
+x   0
+x  2
+b
+
+%Line 6
+
+b
+%Bar 46
+1  00
+x   1
+x   3
+x    0
+b
+%Bar 47
+x 0  1
+x 2
+x 4
+x  0
+b
+%Bar 48
+x  2 0
+x  0
+2  2
+x  0
+x 3
+x 2
+b
+%Bar 49
+1 3 3
+x    1
+x  0 0
+x   3
+b
+%Bar 50
+x  22
+x   0
+x   3
+x   2
+b
+%Bar 51
+x 0 3
+2   0
+x   1
+x   3
+x   2
+x   3
+x   0
+b
+
+%Line 7
+
+b
+%Bar 52
+1 2 1
+x   0
+x  2
+x  0
+b
+%Bar 53
+x 42
+x  0
+0 50
+b
+%Bar 54
+x  23
+x 4
+b
+%Bar 55
+x  0 3TIosquin
+x   3
+b
+%Bar 56
+1  0
+x   1
+0   5
+b
+%Bar 57
+x   1
+x   32
+b
+%Bar 58
+w  0 3
+b
+%Bar 59
+1   8 !x
+x 9
+0  9
+b
+%Bar 60
+x !x !x
+x  7  9
+b
+%Bar 61
+x  08 !x
+1     5
+x    8
+b
+%Bar 62
+x     5
+x     7
+x  7  8
+x   5
+b
+
+%Line 8
+
+b
+%Bar 63
+1   6
+x     7
+x    8
+x   5
+b
+%Bar 64
+0  7  5
+x  6  7
+b
+%Bar 65
+1  7
+x     5
+0   6 5
+b
+%Bar 66
+1   5
+x     4
+x     5
+x     4
+b
+%Bar 67
+x 0 3 5
+2 2
+x 4
+1  0
+x 4
+b
+%Bar 68
+x  03
+2     5
+x     3
+x     2
+x     0
+x    3
+x    1
+b
+%Bar 69
+1    0
+x   3
+x 4 3
+x   1
+b
+%Bar 70
+x  00
+2   1
+x   3
+x    0
+x    2
+x    3
+x    2
+b
+
+%Line 9
+
+b
+%Bar 71
+2  0 3
+x  2
+x   0
+x   1
+x   3
+x    0
+x    2
+x    3
+b
+%Bar 72
+1  2 2
+x    0
+x    3
+x    2
+b
+%Bar 73
+0  0 3
+x   3
+b
+%Bar 74
+x    0
+1 0  1
+x 2
+b
+%Bar 75
+x 3
+x    0
+x   1
+x 2
+b
+%Bar 76
+0 0 3
+x3   0
+b
+%Bar 77
+1 0
+x   3
+0   3
+b
+%Bar 78
+2 2
+x   3
+x   1
+x   0
+1   3
+x   2
+b
+
+%Line 10
+
+b
+%Bar 79
+1 0 3Tglosa
+x   2
+2   3
+x   1
+x   0
+x  2
+b
+%Bar 80
+1  00
+x 3
+x 2 1
+x 0
+b
+%Bar 81
+x3
+x   1
+x 0 0
+x  2
+b
+%Bar 82
+x 20 3
+x    2
+2    3
+x    1
+x    0
+x   3
+b
+%Bar 83
+1   10
+x   0
+x  2 1
+x  0
+b
+%Bar 84
+x 3
+x    1
+x  0 0
+x   3
+b
+%Bar 85
+x  21 3
+x     2
+2     3
+x     2
+x     0
+x    3
+b
+
+%Line 11
+
+b
+%Bar 86
+1    10
+x    0
+x   3 2
+x   1
+b
+%Bar 87
+x   0
+x     2
+x   1 0
+x    3
+b
+%Bar 88
+x 0 315TIosquin
+x    0
+x    1
+x    03
+b
+%Bar 89
+x   3 2
+2     0
+x     2
+1   1 3
+x   3
+b
+%Bar 90
+x    0
+x     3
+x    22
+x     0
+b
+%Bar 91
+x  0 32
+x 3
+x 2
+x 0
+b
+%Bar 92
+x 20
+2 0
+x 2
+1 3
+x  0
+b
+
+%Line 12
+
+b
+%Bar 93
+1  2
+x 3
+x 2 0
+x 0
+b
+%Bar 94
+x3  1
+x   3
+x    0
+x    1
+b
+%Bar 95
+x    0
+2    1
+x    0
+1    1
+x    3
+b
+%Bar 96
+x     0
+x    1
+x    02
+x   3
+b
+%Bar 97
+x  21 3
+x  0
+x 3
+x 2
+b
+%Bar 98
+x 3
+2 2
+x 4
+1  0
+x  2
+b
+%Bar 99
+x   0
+x  0
+x 3 1
+x 2
+b
+%Bar 100
+x 0 3 0
+x    3
+x    1
+x    0
+b
+
+%Line 13
+
+b
+%Bar 101
+1    1
+2    0
+x    1
+1    3
+x     0
+b
+%Bar 102
+x     2
+x    3
+x    13
+x    0
+b
+%Bar 103
+0  76 5
+1    58
+x   5
+b
+%Bar 104
+0  7
+x 7   7
+b
+%Bar 105
+1  553
+x     3
+x     7
+x  4
+b
+%Bar 106
+x  0 35
+x    7
+0  43 5
+b
+%Bar 107
+x 7 653
+1  55 7
+x  7
+b
+%Bar 108
+x   5
+x   7
+x 5 8 5
+x   6
+b
+
+%Line 14
+
+b
+%Bar 109
+1  331
+x     1
+x     5
+x  2
+b
+%Bar 110
+x 3  53
+x     0
+x  2103
+x    2
+b
+%Bar 111
+0  0532
+1  33 5
+x  5
+b
+%Bar 112
+x   3
+x   5
+x 3 6 3
+x   5
+b
+%Bar 113
+x  21
+x     0
+x    03
+x  0
+b
+%Bar 114
+x 2   2
+x    3
+0 543 2
+b
+%Bar 115
+1 3 310
+x  0
+x  2103
+x   0
+b
+%Bar 116
+x   1
+x   3
+x 2  02
+x   3
+b
+
+%Line 15
+
+b
+%Bar 117
+1  00
+x    3
+x   3 2
+x 3
+b
+%Bar 118
+x 0 3 0
+x    1
+0 321 0
+b
+%Bar 119
+17 553
+x 3
+x 54
+x   6
+b
+%Bar 120
+x   3
+x    0
+x 0 31
+x    3
+b
+%Bar 121
+x 321 0
+x     1
+x     0
+x 2
+b
+%Bar 122
+x3
+x   03
+x 2003
+x   2
+b
+%Bar 123
+0 023
+x    2
+b
+%Bar 124
+YW  033
+b
+B
+e

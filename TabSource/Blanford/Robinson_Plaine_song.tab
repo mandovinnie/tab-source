@@ -1,0 +1,421 @@
+%size
+-R8
+%modern flags
+-F
+%compensate for whole notes
+-Q
+%print measure numbers every five measures
+-C
+
+{A Plaine song for two Lutes/Thomas Robinson}
+{Lute 1 of a duet for unison lutes/The Schoole of Musicke (London, 1603)}
+
+b
+c
+0
+0 a.
+wa
+b
+0 \3e
+x a.
+w\2d
+b
+0\1c
+wa
+0 \3e.
+b
+wa
+0     \3d
+x a.
+b
+b
+0  \4d a
+x  \1b
+w  a \2c
+b
+1   \2c a
+x  a.
+x  \1b
+x  \4d.
+0 a - \3d
+x a.
+b
+
+% lute 1, line 2, measure 7
+b
+0     \2c
+x  \4d.
+x a\1c  a
+x a.
+b
+b
+0. a
+1 \1c.
+0 \3e
+x a.
+b
+0. \3e
+1a.
+0\1c
+x \3e.
+b
+1a
+x\1c.
+x\3e
+x\4f.
+0\1h
+1\4f
+x\3e.
+b
+0\4f
+x\1c.
+w\4e
+b
+b
+w\3caa \2c
+0    \2c
+x\3caa
+b
+
+%lute 1, line 3, measure 13
+b
+1    \1c
+xa.
+x \4e
+x \2c.
+0 \4ea \1c
+x a.
+b
+1 \1c  a
+x \3e.
+xa
+x\1c.
+0\4ea - \3e
+xa\1c  a
+b
+1 \2d - \1c
+x \1c.
+x a
+x  \2d.
+w a\1c  a
+b
+b
+0
+0 a
+0.a
+2 \3e
+x \1c.
+b
+0 \3e
+x a.
+0.\2d
+2\1c
+xa.
+b
+0\1c
+0.a
+2 \3e
+x \1c.
+x \3e
+xa.
+x\1c
+x \3e.
+b
+
+%lute 1, line 4, measure 19
+b
+0a
+1     a
+x     \1c
+0     \3d
+x a.
+b
+x  \4d a
+x  \1b.
+w  a \2c
+b
+1   \2c
+x  a.
+x  \1b  a
+x  \4d.
+0 a - \3d
+x a.
+b
+x     \2c
+x  \4d.
+x a\1c  a
+x a.
+b
+b
+1 a
+x  \3e.
+x a
+x \1c.
+0 \3e
+1 a
+x \1c.
+b
+x \3e
+x \1c.
+x \3e
+xa.
+0\1c
+1a
+x \3e.
+b
+
+%lute 1, line 5, measure 25
+b
+2a
+x \3e.
+xa
+x\1c.
+x\3e
+x\1c.
+x\1e
+x\2f.
+0.\4h
+2\2f
+x\1e.
+b
+0\2f
+x\1c.
+w\3e
+b
+b
+w\3caa \2c
+0    \2c
+x\3caa
+b
+1    \1c
+xa.
+x \4e
+x \2c.
+0 \4ea \1c
+x a.
+b
+1 c  a
+x e.
+xa
+xc.
+0ea   e
+xac  a
+b
+1 d   c
+x c.
+x a
+x  d.
+Y acc a
+b
+B
+Q
+
+{}
+{Left hand fingerings as given by Robinson.  You will probably want to make some changes.}
+
+p
+{A Plaine song for two Lutes/Thomas Robinson}
+{Lute 2 of a duet for unison lutes/The Schoole of Musicke (London, 1603)}
+
+b
+0     \3d
+x a.
+x  \4d a
+x  \1b.
+b
+w  a \2c
+1   \2c a
+x  a.
+x  \1b
+x  \4d.
+b
+0 a   \3d
+x a.
+x     \2c
+x  \4d.
+b
+w. a\1c  a
+0 a.
+b
+b
+wa
+0 \3e
+x a.
+b
+w\2d
+0\1c
+0ta
+b
+
+%lute 2, line 2, measure 7
+b
+0
+0 \3e.
+wa
+b
+b
+w\3caa \2c
+0    \2c
+x\3caa
+b
+1    \1c
+xa.
+x \4e
+x \2c.
+0 \4ea \1c
+x a.
+b
+1 \1c  a
+x \3e.
+xa
+x\1c.
+0\4ea   \3e
+xa\1c  a
+b
+1 \2d   \1c
+x \1c.
+x a
+x  \2d.
+0  \1c  a
+x a.
+b
+b
+0. a
+1 \1c.
+0 \3e
+x a.
+b
+
+%lute 2, line 3, measure 13
+b
+0. \3e
+1a.
+0\1c
+x \3e.
+b
+1a
+x\1c.
+x\3e
+x\4f.
+0\1h
+1\4f
+x\3e.
+b
+0\4f
+x\1c.
+w\3e
+b
+b
+0     \3d
+x a.
+x  \4d a
+x  \1b.
+b
+w  a \2c
+1   \2c
+x  a.
+x  \1b  a
+x  \4d.
+b
+0 a   \3d
+x a.
+x     \2c
+x  \4d.
+b
+
+%lute 2, line4, measure 19
+b
+w. a\1c  a
+0 a.
+b
+0.a
+2 \3e
+x \1c.
+0 \3e
+x a.
+b
+0.\2d
+2\1c
+xa.
+0\1c
+0ta.
+b
+1
+2 \3e
+x \1c.
+x \3e
+xa.
+x\1c
+x \3e.
+wa
+b
+b
+w\3caa \2c
+0    \2c
+x\3caa
+b
+1    \1c
+xa.
+x \4e
+x \2c.
+0 \4ea \1c
+x a.
+b
+
+%lute 2, line 5, measure 25
+b
+1 \1c  a
+x \3e.
+xa
+x\1c.
+0\4ea   \3e
+xa\1c  a
+b
+1 \2d   \1c
+x \1c.
+x a
+x  \2d.
+0  \1c  a
+x a.
+b
+b
+1 a
+x  \3e.
+x a
+x \1c.
+0 \3e
+1 a
+x \1c.
+b
+x \3e
+x \1c.
+x \3e
+xa.
+0\1c
+1a
+x \3e.
+b
+2a
+x \3e.
+xa
+x\1c.
+x\3e
+x\1c.
+x\3e
+x\4f.
+0.\1h
+2\4f
+x\3e.
+b
+0\4f
+x\1c.
+Y\3e
+b
+B
+Q
+
+{}
+{Left hand fingerings as given by Robinson.  You will probably want to make some changes.}
+{}
+{set by George Blanford}
+e

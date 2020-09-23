@@ -1,0 +1,388 @@
+%Barlines in the original corresponded to major phrases in the prayer-
+%not to musical meter.  I have broken it down to 4 half notes per measure,
+%leaving tow measures having in each a single whole note.  Double bars 
+%mark the original barlines.
+%Leonard Williams
+
+
+$pstitlefont=pzcmi
+$psalttitlefont=ptmr
+$titlesize=18
+$flagstyle=standard
+$charstyle=robinson
+-highlightparen
+-R9
+-p
+
+-D
+
+F2
+{\CL/The Lord's Prayer}
+F3
+{Richard Allison/GDAFCGD}
+
+b
+MG
+kc
+1. df c&{	Wa0	Our	
+2a. !}
+1ccd  c	wc0	Fa-		
+x df c	wa0	ther
+b
+xacd a	wc0	which
+xaabc	wd0	in
+2c da	Wf0	hea-
+x  a.
+x a:
+x   c
+b
+xccfe{	We0	ven
+3  e
+x  c.}
+2  e
+xa:
+1 efec	Wd0	art,
+x      a
+b
+b
+2 aa c&{	Wd0	Lord
+x c.!}
+1 da.	we0	hal-
+x ca b
+2 da c&{	wd0	lowed
+xa. !}
+MZd0
+b
+
+b
+MG
+kc
+2cc e&{	wd0	be
+x a.}
+x c{	wc+	thy
+xa.}
+1 efec	Wd0	name.
+x      a
+b
+b
+0cd  c	Wd0	Thy
+2ca  c	wf0	king-
+x c.
+xcd  c	wf0	dome
+x    e
+b
+xcd a	wc0	come,
+xd.
+1fdaa	wf0	thy
+xffd a	we0	will
+xcd  c	wd0	be
+b
+xcc   c	wc0	done
+2 df  d&{	wd0	in
+xa.  !}
+1cdda	Wa0	earth,
+x      d
+MZd0
+bb
+
+b
+MG
+kc
+0cd  c	Wd0	even
+1cdda	wc0	as
+2    c&{	wd0	the
+xe: !}
+b
+xff  a	we0	same
+x  a:
+1hd f d	wf0	in
+2fh  a	wf0	hea-
+3 f
+x d.
+2 f	we0	ven
+xd.
+b
+1cdda	Wf0	is.
+x      d
+b
+b
+1 abc&{	Wd0	Give
+xd.!}
+xca a	wd0	us
+xac  e	wc+	O
+b
+xa a c&{	wd0	Lord
+2 e:!}	wa0	our
+x  d.
+1aa c	wbv	day-
+2     a
+xa:	0b-	lie
+MZa0
+b
+
+b
+MG
+kc
+1 ea c	wa0	bread
+2aabc&{	wG0	this
+x c.}
+1 efec	Wa0	day,
+x      a
+b
+b
+0 df c	Wa0	As
+1 dda	wa0	we
+xda c	wG0	for-
+b
+2cd e&{	wc0	give
+x c.}
+1df c	wd0	our
+2ffd.	we0	det-
+x    a
+1df c	wd0	ters,
+b
+xcdf	wf0	so
+2    c&{	wf0	for-
+x  f.}
+1caee	we0	give
+2 dff&{	wd0	our
+x a.}
+b
+1ca e	we0	debts
+2  e	we0	we
+xa.
+1 efec	Wd0	praye.
+x      a
+MZa0
+bb
+
+b
+0 df c	Wa0	In-
+1 df c	wa0	to
+x df  d	wb-	temp-
+b
+x dda	wa.	ta-
+x  def	0a0	tion
+x aa c	wF0	lead
+2  bc	wG0	us
+x c:
+b
+1 dda	wa0	not,
+x df c	wa0	from
+2 cd e&{	wG0	e-
+x   f}
+1  def	wF0	vill
+b
+2  dca	wF0	make
+x   a.
+x   c	wE0	us
+x  b.
+1  def	WF0	free.
+x      d
+MZF0
+bb
+
+b
+0 ddef	WF0	For
+1 da c	wa0	king-
+2 d ac&{	wa0	dome
+x d.}
+b
+x cdca	wc0	power
+x  a.
+x   a	wa0	and
+x a.
+xa   e&{	wc0	glo-
+x  d.}
+x dd c&{	wd0	rie
+x  c.}
+b
+0acd a	We0	thine,
+1acd a	Wc0	Both
+xc da
+b
+2 d	wa0	now
+xa.
+1cd  c	wd0	and
+2cc e&{	wd0	e-
+x a.}
+x c	wc+	ver
+xa.
+b
+Ycef c	Wd0	bee.
+x      a
+b
+B
+
+p
+
+$pstitlefont=pzcmi
+$psalttitlefont=ptmr
+$titlesize=18
+$flagstyle=standard
+$charstyle=robinson
+-highlightparen
+-R9
+
+F2
+{\CL/The Lord's Prayer}
+F3
+{Richard Allison}
+
+b
+1. df c&{
+2a. !}
+1ccd  c
+x df c
+xacd a
+xaabc
+2c da
+x  a.
+x a:
+x   c
+xccfe{
+3  e
+x  c.}
+2  e
+xa:
+1 efec
+x      a
+b
+2 aa c&{
+x c.!}
+1 da.
+x ca b
+2 da c&{
+xa. !}
+xcc e&{
+x a.}
+x c{
+xa.}
+1 efec
+x      a
+b
+
+b
+0cd  c
+2ca  c
+x c.
+xcd  c
+x    e
+xcd a
+xd.
+1fdaa
+xffd a
+xcd  c
+xcc   c
+2 df  d&{
+xa.  !}
+1cdda
+x      d
+b
+0cd  c
+1cdda
+2    c&{
+xe: !}
+xff  a
+x  a:
+1hd f d
+2fh  a
+3 f
+x d.
+2 f
+xd.
+1cdda
+x      d
+b
+
+b
+1 abc&{
+xd.!}
+xca a
+xac  e
+xa a c&{
+2 e:!}
+x  d.
+1aa c
+2     a
+xa:
+1 ea c
+2aabc&{
+x c.}
+1 efec
+x      a
+b
+0 df c
+1 dda
+xda c
+2cd e&{
+x c.}
+1df c
+2ffd.
+x    a
+1df c
+
+1cdf
+2    c&{
+x  f.}
+1caee
+2 dff&{
+x a.}
+1ca e
+2  e
+xa.
+1 efec
+x      a
+b
+0 df c
+1 df c
+x df  d
+x dda
+x  def
+x aa c
+2  bc
+x c:
+
+1 dda
+x df c
+2 cd e&{
+x   f}
+1  def
+2  dca
+x   a.
+x   c
+x  b.
+1  def
+x      d
+b
+0 ddef
+1 da c
+2 d ac&{
+x d.}
+x cdca
+x  a.
+x   a
+x a.
+xa   e&{
+x  d.}
+x dd c&{
+x  c.}
+
+-l "3.5 in
+
+0acd a
+1acd a
+xc da
+2 d
+xa.
+1cd  c
+2cc e&{
+x a.}
+x c
+xa.
+Ycef c
+x      a
+b
+B
+
+e

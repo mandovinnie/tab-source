@@ -1,0 +1,620 @@
+
+% Thomas Schall
+% Oct 97
+%  variatio.Tab includes settings for Baroque lute ("O Du frM-vhliche", "Stille
+%  Nacht" (Silent night) and "Tochter Zion"). 
+%
+
+0  da  /a
+x ab   d
+b
+1.  da  /a
+2  b
+1  a
+x  bc
+b
+0  da  /a
+x ab   d
+b
+1.  da  /a
+2  b
+1  a
+x  bc
+b
+1  d   /a
+x   a
+x  d   //a
+x   a
+b
+0 a    5
+2 c    4
+x   c
+x d    ///a
+x   c
+b
+
+b
+1 c    4
+x  d
+x ab   5
+x   a
+b
+0  da  /a
+1    a
+x     d
+b
+1.   cc 4
+2  a
+1   cc 4
+x  a
+b
+1.  bc  4
+2  d
+0  bc  4
+b
+1.  aa  /a
+2  b
+1  aa  /a
+x  b
+b
+#1.  da  /a
+2 a
+0  da  /a
+b
+1add   /a
+x c   d
+x a  a
+x  d   /a
+b
+
+b
+xa b   d
+x a  a
+x  da
+x  b   ///a
+b
+1  a   /a
+x   a
+x   c  4
+x    c
+b
+Y    dd/a
+b
+2  da  /a
+x a
+x c
+x  d
+x  b   5
+x a
+x c
+x a
+b
+2  da  /a
+x a
+x c
+xa
+xc
+xe
+xf
+x   a
+b
+
+b
+0  da  /a
+1 a    5
+x  b
+b
+2  da  /a
+x a
+x c
+xa
+xc
+xe
+xf
+x   a
+b
+2  d   /a
+x d
+x  d
+x   a
+x  d   //a
+x d
+x  d
+x   a
+b
+3 a    5
+x c
+x a
+x  b
+2 c    4
+x   c
+x d    ///a
+x   c
+b
+
+b
+2a     4
+x c
+1  d
+x ab   5
+x   a
+b
+0  da  /a
+1      ///a
+2     d
+x   a
+b
+1.   cc 4
+2  a
+1   cc 4
+x  a
+b
+3  b   4
+x  d
+x  b
+x  a
+2  b
+x  a
+1  d   4
+x  bc d
+b
+1  aa  /a
+2  b
+x  d
+x  a
+x  b
+1  aa  /a
+x  b
+b
+
+b
+3  da  /a
+x  b
+x  a
+x  b
+2  d   /a
+x a
+1  da
+b
+1add   /a
+x c   d
+x a  a
+x  d   /a
+b
+xa b   d
+x a  a
+x  da
+x  b   ///a
+b
+1  a   /a
+x   a
+x   c  4
+x    c
+b
+Y    dd/a
+b
+b
+0      4
+1      ///a
+b
+1.      4
+2      5
+1      6
+x      5
+b
+Yedddd
+b
+
+b
+0      4
+x      ///a
+b
+1.      4
+2      5
+1      6
+x      5
+b
+Ydddd
+0
+b
+2      4
+x   a
+x  d
+x d
+x      ///a
+x   a
+x  b
+x a
+b
+2      4
+x  d
+x d
+x      5
+x      6
+x d
+x      5
+x d
+b
+
+b
+2      4
+x   a
+x  d
+x d
+x      ///a
+x   a
+x  b
+x a
+b
+2      4
+x  d
+x d
+x      5
+x      6
+x d
+x      5
+x d
+b
+2      4
+x   c
+x  d
+x c
+x      4
+x   c
+x  d
+x c
+b
+2      ///a
+x   a
+x  b
+x a
+x      //a
+x a
+x      /a
+x a
+b
+
+b
+2      //a
+x   c
+x  d
+x c
+x      ///a
+x   c
+x  d
+x c
+b
+1      4
+x   c
+x  d
+x c
+b
+2      a
+x   c
+x  d
+x     a
+x      a
+x c
+x     a
+x c
+b
+3 c   b
+x a
+x c
+x d
+2     d
+x     b
+3  d
+x  b
+x  d
+x a
+1  d
+b
+
+b
+2     a
+x  d
+x d
+x     b
+x     a
+x d
+x     b
+x d
+b
+2     d
+x  d
+x d
+x    a
+x     d
+x   a
+x  d
+x d
+b
+2   a
+xe
+x    c
+xe
+x    a
+xe
+x     d
+xe
+b
+1 aba
+x    a
+2     d
+x  d
+x d
+x     b
+b
+0 dda a
+1 ddc  a
+x c
+b
+Y dda  /a
+b
+b
+Q
+
+p
+{Stille Nacht/}
+
+b
+2  da  /a
+x     a
+x    d
+x a
+1  d
+2  aa  /a
+x      /a
+x     a
+1.   a
+b
+2  da  /a
+x     a
+x    d
+x a
+1  d
+2  a   /a
+x      /a
+x     a
+1.   a
+b
+
+b
+2ccd   4
+x      //a
+x     d
+x   c
+1c d
+2 c    5
+x     d
+x   c
+1.  d
+b
+2a     /a
+x     d
+x    a
+x   a
+1a
+2  d   /a
+x     d
+x    a
+x   a
+1  d
+b
+2 a    5
+x      d
+x   a
+x  b
+1 a
+2a     5
+x      d
+x   a
+x c
+1 a
+b
+
+b
+2  d   /a
+x    a
+x   a
+2 a
+1  d   /a
+2  a   /a
+x     d
+x    a
+x   a
+x    a
+x     d
+b
+2 a    5
+x      d
+x   a
+x  b
+1 a
+2a     5
+x      d
+x  b
+2 c
+1 a
+b
+2  d   /a
+x     d
+x    a
+x a
+1  d
+2  a   /a
+x     d
+x    a
+x   a
+x    a
+x     d
+b
+
+b
+2c     4
+x     d
+x    c
+x   c
+1c
+2f     4
+x     d
+x    c
+xc
+1 c
+b
+2 d    /a
+x     d
+x    a
+x   a
+x  a
+x   a
+xe     /a
+x     d
+x    a
+x   a
+x  a
+x   a
+b
+2 d    /a
+x     d
+x    d
+x  d
+1  a
+2  d   4
+x     d
+x    c
+x  b
+1   c
+b
+Y   add/a
+b
+b
+Q
+
+p
+
+{Tochter Zion/G.F.H\"andel, 1685 - 1759 }
+b
+0  da  /a
+1.   a d
+2  b
+b
+0  d   /a
+x   a d
+b
+2   c d
+x  a
+x  b
+x  d
+1  b
+x  aa  /a
+b
+x   c  //a
+x     d
+x    c
+x    d
+b
+2  aa  /a
+x  b
+x  d
+x a
+1  d
+x  d c
+b
+0a  a  /a
+x  d  a
+b
+
+b
+1  ba  d
+2  a   ///a
+x  b
+1.   c  4
+2   a
+b
+w   add/a
+b
+2  aa a
+x   c
+x  a
+x  b
+1  a
+x  aa a
+b
+0   c d
+x   a a
+b
+1  b   6
+x  a   5
+x   c  4
+x   a  ///a
+b
+1    c //a
+x      ///a
+x      4
+x      5
+b
+2   a  6
+x    c
+x   a
+x   c
+1   a
+x   a d
+b
+
+b
+1 a   c
+x     a
+x  c   c
+x      a
+b
+1  d   //a
+2 a    /a
+x  d
+1.  c   a
+2  d
+b
+w  da d
+b
+0  da  /a
+1.  a  a
+2  b   a
+b
+0  da  /a
+x   aa
+b
+2   c  4
+x  a
+x  b
+x  d
+1  b   a
+x  a   /a
+b
+w   c  //a
+b
+
+b
+2  aa  /a
+x  b
+x  d
+x a   a
+1  d   a
+x  d
+b
+1a     /a
+x      a
+0  d  a
+b
+1  b   a
+2  a   /a
+x  b
+1.   c  //a
+2   a
+b
+Y   add/a
+b
+b
+b
+Q
+e

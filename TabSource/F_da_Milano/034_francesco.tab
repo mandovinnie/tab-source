@@ -1,0 +1,879 @@
+%  034_francesco.tab
+% performance transription by Steve Bryson
+% uses major corrections from Ness
+
+-i
+-O
+%-h
+%-ff
+-p
+-C
+
+$tempo=1.5
+
+{Ricercar (ness nr. 34)/Francesco Canova da Milano}
+{("La Compagna" to nr 33)}
+
+b
+0     7
+b
+1     8
+x     7
+b
+3     0
+x     2
+x     3
+x     5
+1     7
+b
+x     5
+x     3
+b
+x    02
+x     3
+b
+x    10
+x    03
+b
+3  2
+x   0
+x   1
+x   3
+1    02
+b
+x   3
+% original: x   10
+% ness correction: x   1 0
+% next is as played by Julian Bream on "Woods so Wild"
+x   01   
+b
+2 2 03
+x    2
+x    0
+x   3
+b
+1 321
+% original: x 2 10
+x 2 1
+b
+30
+x2
+x3
+x 0
+1. 2 0
+bv
+
+b
+i
+2 0
+13 2 0
+b
+x 0  1
+x 21 0
+% line 2
+b
+2 32
+x   0
+x   1
+x   3
+b
+x 2  0
+x    2
+1   03
+b
+2   10
+x    2
+x   03
+x     0
+b
+1 2   2
+3   0
+x     0
+x    3
+x    2
+b
+2   10
+x    2
+x   03
+x     0
+b
+1 21  2
+x 32  0
+b
+x 2 04
+% original: x3    0
+x3  1 0
+b
+% original: x 0
+x 0 0
+x 2 54
+bv
+
+b
+x0   10
+x    07
+b
+x 7   8
+x    07
+b
+2    10
+x     2
+x    03
+x     5
+b
+x 7   7
+x   0
+x  5
+x  7
+b
+x0   0
+x2
+x32
+x54
+b
+x 20 0
+x  2 2
+x   03
+x   1 0
+b
+x   3 2
+x    03
+1 0 6 5
+% line 3
+b
+20   03
+x2
+x3
+x 0
+b
+x 2
+x 4
+1  03 2
+bv
+
+b
+2 0
+x   1 0
+x   0 3
+% Ness correction: x   0 5
+x  2  3
+b
+x   3 2
+x   1 0
+x   0 2
+x  2
+b
+1 21
+x  2  0
+b
+x   0
+2 2  4
+x 0
+b
+x32   0
+x2
+x0    7
+x     5
+b
+x    03
+x   3 2
+x  21 0
+x  00
+b
+x 42
+x 2  3
+x 0  25
+x    03
+b
+x  03 2
+x   1 0
+x   03
+x 32
+b
+x 21
+x 0
+13  103
+b
+2 0 3 2
+x   1
+x   0 0
+x  2
+b
+
+% the next bar and note is not in original
+b
+1   0
+v
+2 2  4
+x 0
+% line 4
+b
+x3 2  0
+x2
+x0    7
+x     5
+b
+x    03
+x   3 2
+x  21 0
+x  00
+b
+%original: x 421
+x 42
+x 2  3
+x 0  25
+x    03
+b
+x  03 2
+% original: x   10
+x   1 0
+% original: x3  03
+x   03
+% original: x 3   3
+x 3   
+b
+% original: x 2 1
+x 2 1 3
+x 0
+x3  103
+% ness correction: x3   0
+x     2
+b
+x 0   0
+x    4
+x   3 0
+x   1
+b
+x 2 0
+x  2
+1   04
+b
+20 2  0
+x    0
+x    1
+x    0
+b
+3  2
+x   0
+x   1
+x   3
+x    0
+x    1
+2    0
+b
+
+b
+x 2
+x     2
+x     3
+x     2
+b
+3    0
+x    2
+x    3
+x     0
+x     2
+x     3
+2     2
+bv
+x  4
+x    2
+x    3
+x    2
+b
+3   0
+x   2
+x   3
+x    0
+x    2
+x    3
+2    2
+% line 5
+b
+x 0
+x     0
+x     2
+x     0
+b
+3   3
+x    0
+x    2
+x    3
+x     0
+x     2
+2     0
+b
+x0
+x     7
+x     8
+x     7
+b
+3     0
+x     2
+x     3
+x     5
+x     7
+x     8
+2     7
+bv
+
+b
+3  2
+x   0
+x   1
+x   3
+x    0
+x    1
+2    0
+b
+3 2
+x    2
+x    3
+x     0
+x     2
+x     3
+2     2
+b
+3  4
+x   2
+x   3
+x    0
+x    2
+x    3
+2    2
+b
+3 0
+x    0
+x    2
+x    3
+x     0
+x     2
+2     0
+b
+% the tab in ness seems to be shifted a string in this bar, 
+% but the music transcription is correct without inticating editing
+3  2
+x   0
+x   1
+x   3
+x    0
+x    1
+2    0
+bv
+x  1
+3   3
+x   1
+2   0
+x   3
+b
+
+% line 6
+b
+x  21
+x     0
+x     3
+x     0
+b
+x  0  5
+x   0
+x   1
+x   0
+b
+x  2  3
+x0
+x3    0
+x0
+b
+x 2  4
+x   0
+x   1
+x   0
+b
+x 32
+x     0
+x     3
+x     0
+b
+x 2  4
+x   0
+x   1
+x   0
+b
+x3
+x 02
+x2    2
+x  1
+bv
+10 2  3
+% original: x 2   2
+x 21  2
+b
+x  21
+x 0 3 0
+b
+2 2 04
+x    2
+x     0
+x    4
+b
+
+% line 7
+b
+% original: x0  1 0
+10  1 0
+3  2
+x     2
+x     3
+x     2
+x     0
+x    3
+b
+x    2
+x    0
+x   3
+x   1
+x   0
+x  2
+% original: 2 2   2
+1 21  2
+b
+% original: 2 00
+3   0
+x     3
+x     5
+x     3
+x     2
+x     0
+x    3
+x    2
+bv
+x    0
+x   3
+x   1
+x   0
+10  1 0
+b
+3  2
+x     2
+x     3
+x     2
+x     0
+x    3
+x    2
+x    0
+b
+x   3
+x   1
+x   0
+x  2
+1  1 0
+b
+3 2
+x    2
+x    3
+x    2
+x    0
+x   3
+x   1
+x   0
+b
+
+b
+x  2
+x  0
+x 4
+x 2
+% original: 154
+254
+bv
+3 0
+x 2
+x 4
+x  0
+2  2
+b
+30
+x   0
+x   1
+x   3
+x    0
+x   1
+x   3
+x    0
+% line 8
+b
+x    2
+x    4
+x     0
+x     2
+x     3
+x     5
+2     7
+b
+3    0
+x     9
+x     !x
+x     9
+x     7
+x     5
+x     3
+x     2
+b
+x     0
+x    3
+x    2
+x    0
+x   3
+x   1
+x   0
+x  2
+bv
+
+b
+2 21
+x   0
+3   1
+x   3
+2    0
+b
+x 32
+x   1
+3   3
+x    0
+2    1
+b
+x  0 0
+x   3
+3    3
+x    1
+x    0
+x   3
+b
+2  21
+x    0
+3    2
+x    4
+2     0
+b
+x  43
+x    2
+3    3
+x     0
+2     2
+b
+x   1 0
+x    3
+3     3
+x     2
+x     0
+x    3
+% line 9
+b
+2   32
+x     0
+3     2
+x     3
+2     5
+bv
+
+b
+x    03
+x     2
+3     7
+x     5
+x     3
+x     2
+b
+2    20
+3   3
+x    0
+x    2
+x    3
+2    5
+b
+x    42
+x    53
+x     2
+x    4
+b
+x    50
+x     7
+x     8
+x     7
+b
+x     3
+x    0
+x    1
+x    0
+b
+x   1
+x 2
+x 3
+x 2
+b
+x3
+x    0
+x 0  1
+x 2  0
+bv
+x 3 3
+3   1
+x 2
+2 0 0
+x3 2
+b
+x2 1
+x0 2
+x2
+x  1
+b
+
+% line 10
+b
+x0 2
+x    0
+x    1
+x    0
+b
+x  5
+x     7
+x  7  8
+x   5 7
+b
+x   6 5
+x 0
+x 2  03
+x3
+b
+x  03 2
+x  21 0
+x 0 0
+x 2  4
+b
+x0  1 0
+x    0
+x    1
+x    0
+bv
+3  2
+x   0
+x   1
+x   3
+x    0
+x    1
+2    0
+b
+% original: 3  2
+30 2
+x   0
+x   1
+x   3
+x    0
+x   3
+x   1
+x   0
+b
+
+b
+x  2
+x   0
+x   1
+x   0
+x  2
+x  0
+x 3
+x 2
+b
+x 0
+x 2
+x 3
+x 2
+x 0
+x 2
+x 0
+x3
+x2
+b
+20
+x     7
+x     8
+x     7
+bv
+3     0
+x     2
+x     3
+x     5
+x     7
+x     5
+x     3
+x     2
+b
+x     0
+x     2
+x     3
+x     2
+% original: x    3
+2    3
+% original: 2     0
+x     0
+b
+3 0
+x    3
+x    1
+x    0
+x   3
+x   2
+2   3
+% line 11
+b
+x0  2
+x    0
+x    1
+x    0
+b
+
+b
+3  2
+x   0
+x   2
+x   3
+x    0
+x   2
+x   3
+x    0
+bv
+2 0  1
+x3   0
+x 0 3
+x    1
+b
+% original: x0 6  0
+x0 6 0
+x     7
+x     8
+x     7
+b
+3     0
+x     2
+x     3
+x     5
+x     7
+x     5
+x     3
+x     2
+b
+x 0   0
+x    3
+x    1
+x    0
+x   3
+x    0
+x    1
+x    3
+b
+x     0
+x     2
+23   03
+% original: x 0   0
+x 0  Q10
+x     2
+b
+
+b
+x0   04
+x     0
+3     7
+x     5
+x     3
+x     2
+bv
+% original: x     0
+2     0
+x     N12
+3     !x
+x     9
+x     7
+x    !x
+2    9
+x     0
+3    3
+x    1
+x    0
+x   3
+% line 12
+b
+2   2
+x  2
+3  0
+x 3
+x 2
+x 0
+b
+24
+x     0
+x    3
+x     0
+b
+x 0  1
+3   3
+x    0
+x    1
+% original: 2.    3
+x    3
+2     0
+b
+
+b
+30
+x    0.
+x    2
+x    4.
+v
+x     0
+x     2.
+x     4
+x     5.
+b
+x     7
+x     0.
+x     2
+x     3.
+x     5
+x     7.
+x     9
+% original: 2     !x.
+x     !x.
+b
+% original: 3     !x.
+x     N12
+% original: x    07
+x    0
+x    2
+x    4
+x     0
+x     2
+x     4
+x     5
+b
+x     7
+x     5
+x     3
+x     2
+x     0
+x    3
+% original: x    2
+x    1
+x    0
+b
+1 0  1
+x     0
+bv
+x4   0
+% original: x 0  3
+x 0 3
+b
+Y-0 2200
+b
+B
+e
+

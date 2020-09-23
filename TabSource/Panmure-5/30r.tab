@@ -1,0 +1,138 @@
+
+-b
+-e
+-Q
+-tuning D4E-4F4G4a3d3g3b-2d2f2
+
+{pan 5 f30r}
+
+b
+b
+0  aa
+x  c
+x a 
+b
+0 a  E
+x   a
+xc
+b
+0c c
+x b
+1.E
+2c
+b
+0.b   a
+1c.
+0c --- a
+b
+0aa   b &{
+xaa
+xc. &}
+b
+0. b   d &{
+1 d. &}
+0 a -- a
+b
+0      a
+0.  c   /a
+2  a
+x  c.
+b
+0  E
+x    a
+x      ///a
+b
+.
+b
+
+% line 2
+
+b
+0aaEc
+xaaE
+xa.
+b
+0.cbc
+1E
+0f a
+b
+0 aa  b
+x aa
+1. b    //a
+2 a.
+b
+0.  c   /a
+2  a
+x   c.
+0  a
+b
+0aaa
+0.b cc
+1c  a
+b
+0E   E
+x a.
+1.c  a
+2e
+b
+0a - a
+0. c - a
+2  E
+x c
+b
+
+%v line 3
+
+0  E
+x    a
+x      ///a
+b
+0aaEca
+xaaE
+xa.
+b
+0.cbc
+1E.
+0f a
+b
+0 aa  b &{
+x aa  &}
+1. b -- //a
+2 a.
+b
+0.  c   /a
+1   c.
+0  a
+b
+0aaa  b &{
+xaaa
+xc. &}
+b
+0. b a d &{
+1 d.  &}
+0 a    a
+b
+
+
+% line 4
+
+-l "5.2 in"
+
+b
+1    d
+x    b
+x    a
+0     d &{
+1c.  &}
+b
+0.b   a
+1c
+0c --- a
+b
+.
+b
+Q
+T-Sarabande
+b
+e
+

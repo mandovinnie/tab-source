@@ -1,0 +1,508 @@
+% Date: Tue, 29 Jan 2002 22:10:21 +0100
+% From: Gerhard Weick <weick@mail.uni-mainz.de>
+
+{F. d. Milano: Tu discois que je mourroye (Claudin de Sermisy)}
+
+b
+0    a
+x   c
+b
+x   c
+1 a
+x   c
+b
+0 a a
+1   c
+x a
+b
+0  d e 
+x a  c
+b
+x  bc
+x   c
+b
+1  da
+x  b c
+x   c
+x  b
+b
+0  def
+xa  c
+b
+xa
+1h
+x f
+b
+0h i
+1 f
+xh
+b
+0f h
+xha
+b
+
+%bar 11
+b
+xdf
+xa
+b
+1fd
+xda
+xa  c
+xd
+b
+0cdf
+xaa c
+b
+xdf
+1ca
+x df
+b
+0da c
+1cdf
+x  d
+b
+xaab
+x   e
+x   c
+x a a
+b
+0a d e
+xha   h
+b
+0.h  fh
+1h   h
+b
+0f de
+1hf  h
+x    h
+b
+0d bc
+1a  c
+x  b
+b
+
+%bar 21
+b
+0f def
+1df c
+xaf
+b
+0df
+xce
+b
+0a d a
+1  bc
+x   c
+b
+0  bc
+xf def
+b
+1df c
+xa
+xda
+x c
+b
+0cdda
+1a bc
+x   c
+b
+0a b c
+x efec
+b
+wa  c
+b
+0af
+xhf
+b
+1hd
+xha
+xf h
+xh
+b
+
+%bar 31
+b
+0df c
+x a c
+b
+1 a a
+x a  c
+x  d e
+x a a
+b
+0a bc
+xhf
+b
+1hd
+xha
+xf h
+xh
+b
+0 if h
+x a c
+b
+1 a a
+x a  c
+x  d e
+x a a
+b
+2a bc
+x d
+x b
+x a
+x b
+x d
+xa
+xc
+b
+1d bc
+xa
+xd
+x  bc
+b
+0c de
+xaab
+b
+x ede
+xa bc
+b
+
+%bar 41
+b
+x  ab
+x   c
+b
+0.df
+1df
+b
+0fh
+xhi
+b
+xfh
+xdf
+b
+xce
+xaf
+b
+0.d bc
+1d bc
+b
+0c da
+xddf  d
+b
+xcdda
+xaabc
+b
+x efec
+xaabc
+b
+1d b
+xc d
+xda
+xac
+b
+
+%bar 51
+b
+0ce
+xaf
+b
+1  b  d
+x    a
+x  b c
+x   ce
+b
+0  aa
+1d bc
+x  d
+b
+x ab
+xd d
+0cef
+b
+1a b
+x  d
+xda c
+xf  e
+b
+xh  f
+x   h
+x if
+xf h
+b
+0h i
+1d bc
+xc de
+b
+0da c
+xdab
+b
+xfdda
+xca a
+b
+2dabc
+xc
+xa
+x d
+xa
+xc
+xd
+xa
+b
+
+%bar 61
+b
+0cdda
+1aabc
+xa dca
+b
+0aabc
+x efec
+b
+xaabc
+1df
+xfh
+b
+0hf
+1d bc
+xc de
+b
+xda c
+xa
+xd  c
+xcea
+b
+0dabc
+xdab
+b
+xfdaa
+xca a
+b
+2dabc
+xc
+xa
+x d
+xa
+xc
+xd
+xa
+b
+0cdda
+1aabc
+xa dca
+b
+0aabc
+x efec
+b
+
+%bar 71
+b
+waa c
+b
+0af
+1af
+xaf
+b
+0h  fh
+1  bc
+x  bc
+b
+x ab
+x  d
+x ab
+x   c
+b
+0  de
+x  bc
+b
+x  ab
+x   c
+b
+xaf
+1af
+xaf
+b
+0.hi
+1hi
+b
+xfh
+x f
+0he
+b
+xdf c
+1a  c
+x   c
+b
+
+%bar 81
+b
+xdab
+xc
+xaab
+xd
+b
+0cdda
+xaabc
+b
+x ca a
+x ef c
+b
+xa  c
+1a
+x   c
+b
+xa  c
+x   a
+xa d e
+x d  c
+b
+xfc  a
+x a
+x  d
+xfa f
+b
+xfca
+xd  c
+xc da
+xa b
+b
+x da
+x   c
+0c  a
+b
+1 da
+xc
+xc
+x dde
+b
+x dde
+x cbc
+x aaa
+x  dce
+b
+
+%bar 91
+b
+0ha a h
+1 i
+xh
+b
+xfh
+xdf
+xcd
+xac
+b
+x df
+x df
+xdf
+xac
+b
+0cd ac
+1a bc
+x   ce
+b
+x  aa
+x df
+xd   c
+xac
+b
+xcd
+x   ac
+xa bc
+x   ce
+b
+x  aa
+x df
+xd   c
+xac
+b
+0cd
+1a b
+x  d
+b
+x abc
+x  de
+xdabc
+xf  e
+b
+xh  f
+x   h
+x if
+xf h
+b
+
+%bar 101
+b
+0h i
+1d bc
+xc de
+b
+0d bc
+xdab
+b
+xfdda
+xca a
+b
+0.dabc
+1dabc
+b
+0cdda
+1aabc
+xa dca
+b
+0aabc
+x efec
+b
+xaa c
+1df
+xfh
+b
+0hf
+1d bc
+xc de
+b
+xdabc
+xa
+xd  c
+xcea
+b
+0d bc
+xdab
+b
+
+%bar 101
+b
+xfdda
+xca a
+b
+2dabc
+xc
+xa
+x d
+xa
+xc
+xd
+xa
+b
+0cdda
+1aabc
+xa dca
+b
+0aabc
+x efec
+b
+waa c
+b
+S3
+Wcdda
+0aabc
+xa dca
+b
+waabc
+x  fec
+x e
+b
+Yaa c
+B
+

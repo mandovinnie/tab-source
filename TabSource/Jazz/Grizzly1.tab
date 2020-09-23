@@ -1,0 +1,501 @@
+$pstitlefont=pzcmi
+$psalttitlefont=ptmr
+$titlesize=18
+$flagstyle=standard
+$charstyle=robinson
+-highlightparen
+-R9
+-c
+-p
+
+F2
+{\CL/The Grizzly Bear}
+{\CL/(or Doing That Grizzly Bear)}
+F3
+{George Botsford (1910)/Tuning = GDAFCGF}
+{Arr: Leonard Williams, from Robert White's lute duet}
+
+b
+2f d
+xe
+xf
+1a e(
+2 e
+1a  c)
+b
+2c  b
+xb
+xc
+1 a\2d
+2 \1c
+x \3d
+x \4e
+b
+xa c{
+x e
+xa
+1 c c}
+2 b
+1 c c
+b
+x  dca
+x     a
+x     c
+x     e
+B
+b
+.
+2 b  a
+x c
+xc d
+x b
+x c   a
+xc
+x bd
+x c
+b
+
+%Line 2
+
+b
+2 d  c
+xc&{
+x  c
+x"}c&(
+x     a
+x ")d
+x cc
+x a
+b
+x d  c
+xc&{
+x  c
+x"}c&(
+x     a
+x ")d
+x cc
+x a
+b
+x c  a
+xc&{
+x  d
+x"}c&(
+1     a
+x ")cd
+b
+2 b  a
+x c
+xc d
+x b
+x c   a
+xc
+x cd
+x b
+b
+
+%Line 3
+
+b
+2 a   a
+xe&{
+x  c
+x"}e&(
+x    c
+x")a
+x e
+x c
+b
+1c   e
+2b
+1c&{ d
+2 a
+1"}e
+b
+2ad   a
+x     c
+x     e
+x     a
+x     c
+x     e
+x     c
+x     a
+b
+x b  a
+x c
+xc d
+x b
+x c   a
+xc
+x bd
+x c
+b
+x d  c
+xc&{
+x  c
+x"}c&(
+x     a
+x ")d
+x cc
+x a
+b
+
+%Line 4
+
+b
+2 d  c
+xc&{
+x  c
+x"}c&(
+x     a
+x ")d
+x cc
+x a
+b
+x c  a
+xc&{
+x  d
+x"}c&(
+1     a
+x ")cd
+b
+2f d
+xe
+xf
+1a e{
+2 e
+1a  c}
+b
+2c  b
+xb
+xc
+1 a\2d
+2 \1c
+x \3d
+x \4e
+b
+xa c(
+x e
+xa
+1 c c)
+2 b
+1 c   a
+b
+
+%line 5
+
+A1
+1  dca
+x     a
+x     c
+x     e
+.
+B
+A2
+1  dca
+2  d
+x a
+x c
+x d
+xa
+xb
+B!
+b
+.
+1c d
+2b c
+xc&{ d&(
+x    a
+x"}b ")c
+1c d
+b
+x\1d\2e\3f
+2  f
+x e
+x\1c
+x  \2d
+x \4e
+x\1c
+b
+x acc
+x c
+x d
+x a
+x c
+x d
+x c
+x a
+b
+
+%Line 6
+
+b
+2a\3d\2c  a
+x\1c
+x\4e
+xa
+x\1c
+x\4e
+x\1c
+x\1b
+b
+1a   a
+2 e e
+2 f&{ f&(
+x     a
+2 "}e ")e
+1 f f
+b
+xcc  a
+2  d
+x c
+xa    a
+x d
+x cd
+x a
+b
+x  d   a
+x a
+x d
+x  d
+x a
+x d
+x a
+x  d
+b
+
+%Line 7
+
+b
+2 dda
+xa
+xc
+x d
+xa
+xc
+xa
+x d
+b
+1c d
+2b c
+xc&{ d&(
+x    a
+x"}b ")c
+1c d
+b
+x\1d\2e\3f
+2  f
+x e
+x\1c
+x  \2d
+x \4e
+x\1c
+b
+xd    a
+x e
+1a&{b
+2   c
+x "}e
+1 ab
+b
+x\4h  \1f
+x a
+x\4g  \3g
+x \1d
+b
+
+%Line 8
+
+b
+2f  a
+xc
+xd
+xe
+xf&{
+x d
+x"}a
+xb
+b
+xc&{
+x d
+x a
+x d
+x!} d&(
+x d
+x c
+x a)
+b
+xc   a
+xb
+xc
+xf&{
+x    a
+x"}c
+1acd
+A1
+1 dda
+2  d
+x a
+x c
+x d
+xa
+xb
+.     
+B!
+A2
+1 dda
+2  a
+x  b
+x  c
+x  d
+x  e
+x a
+b
+
+%Line 9
+
+b
+2 b  a
+x c
+xc d
+x b
+x c   a
+xc
+x bd
+x c
+b
+x d  c
+xc&{
+x  c
+x"}c&(
+x     a
+x ")d
+x cc
+x a
+b
+x d  c
+xc&{
+x  c
+x"}c&(
+x     a
+x ")d
+x cc
+x a
+b
+x c  a
+xc&{
+x  d
+x"}c&(
+1     a
+x ")cd
+b
+2 b  a
+x c
+xc d
+x b
+x c   a
+xc
+x cd
+x b
+b
+
+%line 10
+
+b
+2 a   a
+xe&{
+x  c
+x"}e&(
+x    c
+x")a
+x e
+x c
+b
+1c   e
+2b
+1c&{ d
+2 a
+1"}e
+b
+2ad   a
+x     c
+x     e
+x     a
+x     c
+x     e
+x     c
+x     a
+b
+x b  a
+x c
+xc d
+x b
+x c   a
+xc
+x bd
+x c
+b
+x d  c
+xc&{
+x  c
+x"}c&(
+x     a
+x ")d
+x cc
+x a
+b
+
+%Line 11
+
+b
+2 d  c
+xc&{
+x  c
+x"}c&(
+x     a
+x ")d
+x cc
+x a
+b
+x c  a
+xc&{
+x  d
+x"}c&(
+1     a
+x ")cd
+b
+2f d
+xe
+xf
+1a e{
+2 e
+1a  c}
+b
+2c  b
+xb
+xc
+1 a\2d
+2 \1c
+x \3d
+x \4e
+b
+
+-l "3.0in
+
+%Line 12
+
+b
+2a c{
+x e
+xa
+1 c c}
+2 b
+1 c   a
+b
+x  dca
+xadc  a
+0fcd a
+b
+B
+Q
+
+e

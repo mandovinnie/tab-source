@@ -1,0 +1,448 @@
+
+{We Wish you a Merry Christmas, with 3 variations/Joseph Mayes}
+
+b
+1  d
+b
+1 dda
+2 d    a
+xa
+x d
+x c
+b
+1 a   d
+x  b
+x ac
+b
+1a d e
+2a - a
+xc
+xa
+x d
+b
+1 c  a
+x  d
+xa   e
+b
+1cd a
+2c     a
+xd
+xc
+xa
+b
+1 db  d
+x a
+2 a
+x a
+b
+
+% line 2
+
+b
+1  da
+x d
+x cb a
+b
+0 da - a
+1  d
+b
+1 d a
+x d  e
+x d  c
+b
+1 cd a
+x    c
+x c  a
+b
+1 d   d
+x c  a
+x a  c
+b
+1  d e
+x   a
+xa  c
+b
+1c  a
+2a   e
+xa
+x d  c
+x d
+b
+
+% line 3
+
+-l "2.8 in"
+
+b
+1fc  a
+x  d
+2  d
+x  d
+b
+1 ab  d
+xa
+x cb a
+b
+0 da   a
+b
+B
+
+% line 4
+
+-l reset
+
+b
+1  d
+b
+2 dda
+x c
+x d
+xa
+x d
+x c
+b
+2 a   d
+x  d
+1  b
+x d
+b
+2a   e
+x d
+xa
+xc
+xa
+x d
+b
+2 c  a
+x a
+1  d
+xa
+b
+2c- a
+xd
+xf
+xd
+xc
+xa
+b
+
+% line 5
+
+b
+2 d - d
+x c
+1 a
+2 a
+x a
+b
+2  d a
+x a
+x c
+x d
+xa b
+x c
+b
+2 daa
+x c
+1 d
+x  d
+b
+2 d a
+xa
+x d  e
+xa
+x d  c
+xa
+b
+1 cd a
+x    c
+x c  a
+b
+2 d   d
+xa
+x c  a
+xa
+x a  c
+xa
+b
+
+% line 6
+
+b
+2  d e
+x a
+x c  a
+x d
+xa   e
+xd
+b
+2c  a
+xd
+xa   e
+xa
+xc   c
+xd
+b
+2fc  a
+x a
+1  d
+2  d
+x  d
+b
+2 ab  d
+x c
+x d
+xa
+1 cb a
+b
+2 daa
+x c
+x d
+xa
+1 d  - a
+b
+B
+
+%page 2
+
+% line 1
+
+b
+1!
+1!
+1    a
+b
+1c  a
+2c  a
+x   c
+xc  a
+xa   e
+b
+2 d  c
+x c
+1 a   d
+x d  c
+b
+1 c c
+2 c c
+x   e
+x c c
+x d a
+b
+2a   e
+x d
+x c  a
+x a
+x  dc
+x  b
+b
+1f a
+2f a
+x  b
+xf a
+xd  c
+b
+
+% line 2
+
+b
+2c  a
+xa
+x d  c
+x c
+x a   d
+x d
+b
+2 c ca
+x d
+xa da
+xc
+xa d e
+x  b
+b
+2 daa
+x c
+1 d
+x    a
+b
+2 d a
+xa
+xc  a
+xd
+xf  a
+xh
+b
+2f   e
+x  d
+x a
+x c
+x d  e
+xa
+b
+
+% line 3
+
+b
+2c  a
+x d
+x f  e
+xc
+x f  c
+x d
+b
+2 c  a
+x a
+1  d
+x  dc
+b
+2 d e
+xc
+x f c
+xd
+x d a
+xc
+b
+2a d
+x d
+x c  a
+x a
+x  d a
+x  b
+b
+2  a c
+x  b
+x  dc
+x a
+x cb e
+xa
+b
+0 daa
+b
+
+% line 4
+
+b
+1  d
+b
+2 d a
+x c
+x d
+xa
+x d
+x c
+b
+2 a   d
+x  d
+x  b
+x  a
+x   c
+x   a
+b
+2a   e
+x e
+xa
+xc
+xa
+x d
+b
+2 c  a
+x a
+x  d
+x  b
+x  a
+x   c
+b
+2c  a
+xd
+xf
+xd
+xc   e
+xa
+b
+2 d  c
+xa
+x d
+x c
+x a
+x  d
+b
+
+% line 5
+
+b
+2 ab
+x c
+x dc
+xa
+xc d
+xa
+b
+2 d a
+x c
+1 d
+x  d
+b
+2 d a
+x   e
+x d c
+x   a
+x d  e
+x    c
+b
+2 c  a
+x   c
+x   a
+x    e
+x c  c
+x    a
+b
+2 d   d
+x     d
+x c  a
+x    c
+x a  e
+x   c
+b
+2  da
+x   c
+x   e
+x   c
+xa  a
+x    e
+b
+
+% line 6
+-l "4.3 in"
+
+b
+2c  a
+xd
+xf
+xd
+xc   e
+xa
+b
+2 d  c
+xa
+x d
+x c
+x a  a
+x  d
+b
+2 a   d
+x c  a
+x d  c
+xa   e
+xc  a
+xa
+b
+2 d a  a
+x c
+1 d
+b
+B
+e
+
+
+
+

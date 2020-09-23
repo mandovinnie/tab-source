@@ -1,0 +1,509 @@
+-i
+{Ricercar ness 8/Francesco Canova da Milano}
+{IN TAVOLATVRA DE VIOLA O VERO LAVTO Libro Secondo de la Fortuna 1536}
+%1
+i
+0 330
+x 330
+b
+0 3002
+x 310 3
+b
+0 3345
+1 3345
+x  5
+b
+1023 0
+x 3
+x033 0
+x 2
+b
+02330
+1023 0
+x2
+b
+x3012
+x0
+x 012
+x32
+b
+1.2330
+20
+x23
+x3
+15
+b
+1 2  0
+233
+x2
+10
+x52
+b
+123
+x5
+2  0
+x3
+12
+bv
+
+% line 2
+
+b
+2  3
+x0
+x 3
+x 2
+1 01
+x3
+b
+2   2
+x2
+10
+2  1
+x 3
+x 2
+x 0
+b
+1  34
+2   0
+x  1
+1  0
+x   23
+b
+1    2
+x   0 3
+x     5
+x  3 4
+b
+1  00
+x5
+x2 3
+x5 0
+b
+2  3
+x3
+12   0
+x  1 2
+x0   4
+b
+12 00
+x  3
+x  0 0
+x  3  2
+b
+2    0
+x  1
+1 20
+x 3   3
+v
+x0  2
+b
+
+%line 3
+
+b
+0  34 2
+x2 34 2
+b
+120 02
+x30 2 0
+x30 2 0
+x0
+b
+1 2 20
+x  3
+x 30 2
+x  1
+b
+10   3
+x  3 0
+x2  0
+x  0
+b
+1 31 2
+x     3
+x  00
+x 3
+b
+1  12
+x32
+x 330
+x2
+b
+1 23 0
+x0
+x 00 2
+x 310
+b
+1   20
+x52
+x 330
+x2
+b
+13012
+x0
+x  3 0
+x 2
+b
+1 30 2
+x 0
+x   2 3
+x  1
+bv
+
+% line 4
+
+b
+1  345
+x  0
+x   02
+x 31
+b
+10   3
+x3 12
+x  30
+x20
+b
+13  2
+x  1
+x0   3
+x  3 0
+b
+12  0
+x  0
+x 3  2
+x  1  3
+b
+10   3
+x    2
+1 2  0
+x  0  2
+% line 4 m 6
+b
+1 3  2
+x   0
+x 0   3
+x   2 0
+b
+1 2  0
+x  0
+x 3  2
+x  1
+b
+20    3
+x  0
+1   2
+x2    2
+x   0
+b
+13    0
+x    4
+x2  0
+x    2
+b
+20   3
+x   0
+v
+
+% line 5 in original book
+
+2   2
+x  0
+1 31 2
+x0    3
+b
+x  0 0
+x 3  2
+x   2 3
+x 2  0
+b
+x 3 02
+2     3
+x    0
+x    2
+x    3
+x   0
+x   2
+b
+1 30
+x  1
+20
+x   2
+1  3
+b
+12
+2  1
+x  0
+13  2
+x 0
+b
+22  0
+x  3
+1 3
+10   0
+252
+x3
+b
+123 0
+25
+x3
+x2
+x0
+x 3  2
+x 2
+b
+
+% line 6 orig
+
+b
+2 0 2
+v
+x  3
+x  1
+x  0
+1   23
+23
+x2
+b
+x0
+x 3
+x 2  0
+x 0
+x  30
+x  1
+x  0
+x   2
+b
+1   02
+2 3
+x 2
+x 0
+x  3
+x  1  0
+x  0
+b
+x   20
+x   0
+x    4
+x    2
+1    02
+x    23
+b
+1    45
+x 3 0 2
+x3    0
+x    4
+b
+x2  0
+x5
+2  0
+x3
+12
+b
+2   0
+x0
+1 3
+v
+2    2
+x 2
+1 0
+b
+
+% last line 7 in orig
+
+b
+2     3
+x  3
+1  1
+2    2
+x  0
+x   2
+x   0
+b
+1    45
+x  3
+x   0
+x 30
+b
+1  12
+x32
+x 330
+x2
+b
+x 13 0
+x0
+x 012
+x3
+b
+1 330
+x2
+x 13 0
+x0
+b
+1 00 2
+x 310
+x  320
+x 2
+b
+1 3345
+x   5
+x 3355
+x   4
+b
+0 355 3
+x 355 3
+b
+Y 3345
+b
+b
+i
+i
+
+{This was converted from the original by reducing each fret number by 1}
+
+e
+
+{this seem to be two different pieces stuck together!}
+
+
+{the other piece ??}
+
+b
+120 02
+3 3
+x 2
+x 3
+x0
+x2
+x3
+220 02
+x 3
+x0
+x2
+b	%20
+130 2 0
+x0
+x30 2 0
+20
+x 3
+b	%21
+102 2
+x  3
+x 30 2
+x  1
+b	%22
+10   3
+x  3 0
+x2  0
+x  0
+b
+
+b	%23
+1 30 2
+x     3
+x  00
+x 3
+b	%24
+1  12
+x32
+x 330
+x2
+b	%25
+1 13 0
+x0
+x 00 2
+x 310
+b	%26
+1   20
+x52
+x 330
+x2
+b	%27
+13012
+x0
+x  3 0
+x 2
+b	%28
+1 30 2
+x 0
+x   2 3
+x  1
+b
+
+b	%29
+1  345
+x  0
+x   02
+x 31
+b	%30
+10   3
+x3 12
+x  30
+x20
+b	%31
+13  2
+x  1
+x0   3
+x  3 0
+b	%32
+22  0
+x3
+x2
+x0
+1 3  2
+x  1  3
+b	%33
+20   3
+x2
+x0
+x 3
+1 2  0
+x  0  2
+b
+
+b	%34
+2 3  2
+x0
+x 3
+x 2
+1 0   3
+x   2 0
+b	%35
+1 2  0
+x  0  2
+
+{ this must be another piece}
+b
+x 3
+1 012
+x3
+b	%59
+1 330
+x2
+2 1  0
+x 3
+x0
+x 3
+b	%60
+1 012
+x3
+x2330
+x013 0
+b	%61
+1 00 2
+x 310
+x  320
+x 3345
+b	%62
+1   5
+x 3355
+x   4
+x3 55 3
+b	%63
+13 55 3
+x 3345
+0 3345
+b	%64
+y 3345
+bb
+Q

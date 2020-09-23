@@ -1,0 +1,457 @@
+%  milano_ricercar_3.tab
+% performance transription by Steve Bryson
+% uses major corrections from Ness
+
+-i
+-O
+%-h
+%-ff
+-p
+-C
+
+$tempo=1.8
+
+{Ricercar (Fantasia) (ness nr. 3)/Francesco Canova da Milano}
+
+b
+w.  2  0
+0   0
+b
+w   2
+x   3.
+b
+x     0
+x   2
+b
+w.   0 2
+0   2
+b
+w   3
+x    0
+b
+0     2.
+x   3.
+x   2
+x   0.
+b
+w  2  4
+x   0 2
+b
+x   2
+x   3 0
+b
+x   0
+x    4.
+b
+w.0 2  0
+02
+b
+w4
+x 0
+b
+% original: x    2.
+x  2.
+% original: x 4
+x4
+b
+
+b
+w.2  0
+04
+b
+w 0
+x 2
+b
+%original: 1    0.
+0   0.
+x 0
+x4
+x2
+b
+w0  2
+x2  0
+b
+x4
+x 02
+b
+x2
+x  1.
+b
+00 2
+x   0.
+x   2
+x   3.
+b
+x    0
+x   3.
+x   2
+x   0.
+b
+x0 2
+x  0.
+x 4
+x 2.
+bv
+w20
+x  0.
+b
+x 4
+x   0.
+b
+02
+x  2.
+x  0
+x 4.
+b
+
+b
+w42
+x    0.
+b
+x0   0
+x42
+b
+x24 3
+x 210
+b
+x0 22
+x     0.
+b
+x     0.
+x 42
+b
+x 2 03
+x  220
+b
+x 0 32
+x     5.
+b
+x     5.
+x  43
+b
+x  2 04
+x 4  20
+b
+x 2  32
+x    0.
+b
+x    0.
+x 2
+b
+x 4 3
+x  10
+b
+
+b
+x 76
+x     7.
+b
+x     7.
+x    0
+b
+x    25
+x    42
+b
+x    54
+w    75
+bT
+w
+w    54
+b
+0     2
+x     0.
+w    42
+b
+x    50
+x  2 04
+b
+W  2 04
+b
+w  43 2
+x  0
+bv
+x  22 0
+x 0 3 2
+b
+x 4
+x  2  0
+b
+0 2 04
+x    2.
+x     0
+x    4.
+b
+
+b
+w0 2  0
+x    0.
+b
+x    2
+x    42
+b
+x    54
+x    25
+b
+x    07
+x     4.
+b
+x     2
+x 2
+b
+x 4
+x  10
+b
+x  22
+x 4 3
+b
+x 2  0
+x   2.
+b
+x  00
+x    0.
+b
+x 4 3
+0     0.
+x 2 2
+b
+w 0 0 2
+x4 2  4
+b
+x2    5
+x 21  2
+b
+x0 2 04
+x     0.
+b
+x     7
+0    0
+x     5.
+b
+w    54
+x    32
+b
+
+b
+x    20
+x  2 0
+b
+x   3
+0 0
+x   2.
+b
+w  00
+x 42
+b
+x 21
+x     2.
+b
+x     7
+0    0
+x     5.
+b
+w    54
+x    32
+b
+x    20
+x  2 0
+b
+x   3
+0 0
+x   2.
+b
+w  00
+x 42
+b
+x 21
+x   0
+b
+x    0.
+0 2
+x   3.
+b
+w  22
+x  00
+b
+
+b
+x 42
+0   2.
+x 2
+b
+w 0 0
+x4 2
+b
+%oringal: x2 3
+x2  3
+x  1
+b
+x0 22
+x     0.
+b
+x  2  4
+x   2
+b
+x     0.
+x  2  4
+b
+x   3 0
+x     5.
+b
+0   0
+x     4.
+x     2
+x     0.
+b
+x   54
+x    2.
+x    0
+x   3.
+b
+w  22
+x0
+b
+x4 2
+x   2.
+b
+x0
+x 02
+b
+x   3.
+x2
+b
+x 2 0
+0    0
+x   3.
+b
+x0  2
+x   0.
+x  2
+x  0.
+bv
+
+b
+% tempo change mark missing in Ness tab
+w54
+x     5.
+b
+x0    4
+x     0.
+b
+x 2  32
+x    0.
+b
+x 0  2
+x     0.
+b
+x 2  3
+x    0.
+b
+x   32
+x   0
+b
+x   20
+x  2
+b
+x  0
+x 2  0
+b
+x 4 3
+x  10
+b
+x  22
+w 543
+bT
+w
+x  22
+b
+x 2 0
+x  1
+b
+x0 2
+x    5.
+b
+
+b
+x    3
+x    07
+b
+x    25
+x    42
+b
+x    54
+w   875
+bT
+w
+w    54
+b
+x   5 2
+x    4
+b
+x    20
+0   3
+x    0.
+b
+x    2
+x    4.
+x     0
+x     2.
+b
+w0    4
+0  2
+x   0.
+b
+x   2
+x   3.
+x    0
+x    2.
+bv
+w    32
+0    0
+x    2.
+b
+x    3
+x     0.
+x     2
+x     4.
+b
+
+b
+w    25
+0   0
+x   2.
+b
+x   3
+x    0.
+x    2
+x    4.
+b
+w    54
+x    3.
+b
+w. 0  25
+0    04
+b
+w  03 2
+x  22 0
+b
+x 0 0
+x 2  4
+b 
+x 42  0
+0   2.
+x 2
+b
+w 0 3
+x4   0
+b
+x 0  20
+x   3
+b
+W 0  20
+b
+Y-0  200
+b
+B
+e
+
+

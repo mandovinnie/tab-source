@@ -1,0 +1,326 @@
+{Ricercar (Fantasia)}
+{Milano # 16}
+
+% forget about page break!
+-K
+
+-Q
+-i
+
+b
+W   3 0
+b
+w     2.
+x     0
+b
+0   3
+x    2.
+x    3
+x     0.
+b
+w     2
+x     0
+b
+x   2
+x    3.
+b
+x    2
+x    0.
+b
+x     0
+0   3
+x    3.
+b
+x    2
+x    0.
+w    2
+b
+x 0
+x   53
+b
+x  5
+x   32
+b
+x  230
+x   2.
+b
+w. 0 32
+0    3.
+b
+x     0
+x     2.
+w     0
+b
+0 0
+x    3.
+x    2
+x    0.
+b
+x   3
+x   1.
+x   0
+x  2.
+b
+
+
+%line 2
+
+b
+w 20
+0    0
+x    2.
+b
+x    3
+x     0.
+w     2
+b
+%original line break
+0 2
+x     0.
+x    3
+x    2.
+b
+x    0
+x   3.
+x   2
+x   0.
+b
+w0  2
+0  2
+x   0.
+b
+x   2
+x   3.
+x    0
+x    2.
+b
+w 2  3
+0  0
+x  2.
+b
+x   0
+x   2.
+x   3
+x    0.
+b
+w 0  2
+0   3
+x    0.
+b
+x    2
+x    3.
+x     0
+x     2.
+b
+w0   04
+x     5.
+b
+x0   0
+x     4.
+b
+
+
+%line 3 page 2
+
+
+b
+w. 0 3 5
+0    0
+b
+w    2
+x   3
+b
+w. 0   0
+0 2
+b
+w 4
+x 0
+b
+w.  2 0
+0   0
+b
+w   2
+x  2
+b
+w.0   0
+02
+b
+w4
+x0
+b
+x 2
+0     2
+x     0.
+b
+x    3
+x    2.
+x    0
+x   3.
+b
+x0  2
+x   0.
+x  2
+x  0.
+b
+w54
+w 20
+b
+w
+x54
+b
+x 2
+x4
+b
+
+%line 4
+
+
+b
+w 0
+x     0.
+b
+x 0  20
+x     0
+b
+w.  0 32
+0    20
+b
+w   53
+x   32
+b
+x  220
+x     0.
+b
+x   32
+x  553
+b
+x     0.
+x   32
+b
+x  2 0
+x   2.
+b
+x   3
+x 02 2
+b
+x    2.
+x 02 2
+%orig break
+b
+w.  003
+0    2.
+b
+w  0 0
+x   3.
+b
+
+
+% line 5
+
+b
+w  22
+x0
+b
+x54 3
+w3 0 0
+b
+w
+x54 3
+b
+x02 3
+x   2.
+b
+x 0 3
+x     5.
+b
+0 0
+x     3
+x     2
+x     0.
+b
+w  0  2
+x    3.
+b
+0 2
+x    2.
+x    0
+x   3.
+b
+w  22
+x     0.
+b
+00
+x    3.
+x    2
+x    0.
+b
+w 0  2
+0     0
+x    3.
+b
+x    2
+x    0.
+x   3
+x   1.
+b
+w  00
+0     2
+x     0.
+b
+%orig break
+x 2  3
+x    2.
+x    0
+x   3.
+b
+
+
+
+%line 6
+
+b
+w 4 2
+0     0
+x    3.
+b
+x 0  2
+x    0
+x   3
+x   1
+b
+w 2 0
+0    3
+x    2.
+b
+x3   0
+x   3.
+x   1
+x   0.
+b
+w 02
+x    20
+b
+x   53
+x   32
+b
+x0   0
+0   2
+x   0.
+b
+w0  30
+x   2.
+b
+x 0 32
+x    3.
+b
+x 0   0
+x    2.
+b
+x  0 32
+x   3
+b
+W  0 32
+b
+Y 0  20
+bb
+e

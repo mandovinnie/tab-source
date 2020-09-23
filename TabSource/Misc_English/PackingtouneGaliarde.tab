@@ -1,0 +1,458 @@
+%Packingtoune galiarde is a great piece and it 
+%remains one of my favourites from that period.  It does in fact appear 
+%in several earlier English manuscripts, each version slightly different 
+%- I think the Sampson lutebook version is the best, especially as it has 
+%such ample ornamentation and fingerings.  Because the piece is anon. it 
+%hasn't had the wide circulation it deserves, so I think it a very good 
+%idea to put a version in Wayne's archive.  Jan Burgers has recently 
+%(2001) done a very good edition of the Lute Works of John Johnson for 
+%Tree Edition (Lubeck), and attributed Packingtoune Galiarde to 
+%J.Johnson, so perhaps it is safe to give Johnson (with a question mark) 
+%as the composer.
+%	Ray Nurse
+
+%Tab-set by Leonard Williams.  Right hand dots as per original in the 
+%Sampson Lute Book; repeat dots are not included at the double bars.
+
+$pstitlefont=pplb
+$psalttitlefont=pplri
+$titlesize=18
+$alttitlesize=14
+$textsize=10
+$flagstyle=board
+$charstyle=board
+$tempo=1.4
+
+-R9
+-c
+-p
+
+F2
+{\CL/ Packingtoune Galiarde}
+F3
+{Sampson Lute Book (c. 1610) f. 9/J. Johnson?         }
+
+b
+2.abd
+3 d.
+2 #b
+x a.
+1 bd
+b
+1. a#cc
+2  d.
+1 acc
+b
+2-#b d
+xa.
+x d d
+x b.
+x   a d
+x a.
+b
+1. bbcd
+2 d.
+1 bbcd
+b
+2.db  d
+3b.
+2-#a
+x d.
+1ab  d
+b
+2. dba d
+3a.
+2b:
+xa  c
+x d d
+x b.
+b
+
+%Line 2
+
+b
+2 #a a
+x  d.
+x adc
+x   a
+x acc
+x d.
+b
+2 c  a
+3  d
+x a.
+x c
+x a.
+x c
+x d.
+1 #cdca
+b
+b
+2a   a
+3 d
+xa.
+xb
+xa.
+x d
+x b.
+x a
+x  d.
+x  c
+x  a.
+b
+2 ac  a
+3   c
+x  a.
+x  c
+x  a.
+x  c
+x  d.
+1 a#cc a
+b
+2b d
+xa b
+x d d
+x b c
+x   a d
+x a.
+b
+
+%Line 3
+
+b
+2 b  d
+3  d
+x a.
+x b
+x a.
+x b
+x d.
+1 bbcd
+b
+2d   d
+3a
+xb.
+xd
+xb.
+xa
+x d.
+1ab  d
+b
+3 d   d
+x b.
+x d
+xa.
+2b:
+xa  c
+x d d
+x #b.
+b
+x a a
+x  d.
+3  c  a
+x  a.
+x  c
+x  d.
+x a
+x c.
+x d
+x a.
+b
+x c  a
+x a.
+x c
+x d.
+xa
+x d.
+x c
+x a.
+1 #cdca
+b
+b
+
+%Line 4
+
+b
+1 a#cc a
+xa.
+x acc a
+b
+1. +bdca
+2 d.
+1 acc a
+b
+x dba d
+xd.
+x dba d
+b
+1.a+b  d
+2ab
+1 dba d
+b
+1.+da c
+2  b.
+xb da
+x a.
+b
+1.ab  d
+2b.
+1ab  d
+b
+x dba d
+2 bd a
+3 a
+x b.
+2 #a a
+x  d.
+b
+
+%Line 5
+
+b
+2     a
+x ac
+x   c
+x  d.
+1 a#cc a
+b
+b
+1 acc a
+2a.
+3 d
+x b.
+x a   a
+x b.
+x d
+x a.
+b
+2 b  a
+3 a
+x b.
+x d
+x b.
+x a
+x  d.
+1 a#cc a
+b
+x dba d
+2d.
+3b
+xa.
+x d
+xa.
+xb
+x d.
+b
+2a   d
+3 d
+x b.
+x a
+x b.
+x d
+xa.
+1 dba d
+b
+
+%Line 6
+
+b
+2da c
+3a
+xb.
+xd
+xb.
+xd
+xa.
+2-#b  a
+x a.
+b
+xa   d
+3 d
+x b.
+x a
+x b.
+x d
+xa.
+2 d   d
+3 a
+x b.
+b
+x d
+x a.
+x b
+x d.
+2 bd a
+3 a
+x b.
+2 #a a
+x  d.
+b
+x ac  a
+3   c
+x  a.
+x  c
+x  a.
+x  c
+x  d.
+1 a#cc a
+b
+b
+
+%Line 7
+
+b
+2. ac  a
+3  d.
+2 a
+x  c.
+x b  a
+x  d.
+b
+1 a c e
+2  dca
+1. a#cc a
+b
+2. #b  d
+3 d.
+2a
+x b.
+xb  a
+x a.
+b
+1ab  d
+2 d   d
+1. bdcd
+b
+2.db  d
+3b.
+2-#a
+x d.
+xa   d
+x b
+b
+
+%Line 8
+
+b
+1bbd  b
+2ab  d
+1 dba d
+2 db
+b
+1. #cdca
+2 d.
+1 #cdca
+b
+1. +dda
+2 b.
+x #a a
+x  d.
+b
+1  dd
+x adc
+2  #c  a
+x d.
+b
+x    a
+x cd
+x   c
+x d.
+1 #cdca
+b
+b
+
+%Line 9
+
+b
+3  c  a
+x  a.
+x  c
+x  d.
+2 a
+x  c.
+x b  a
+x  d.
+b
+1 a c e
+2  dca
+1.  #cc a
+b
+3 b  d
+x a.
+x b
+x d.
+2a
+x b.
+xb  a
+x a.
+b
+1ab  d
+2 d   d
+1. bbcd
+b
+2db  d
+3a
+xb.
+xd
+xb.
+xa
+x d.
+2a   d
+x b.
+b
+
+%Line 10
+
+b
+1bbd  b
+2ab  d
+1 dba d
+2 db
+b
+3 c  a
+x a.
+x c
+x d.
+xa
+x d.
+x c
+x a.
+x c  a
+x d.
+xa
+x c
+b
+x d a
+x b.
+x d
+xa.
+2b
+xa  c
+x d d
+x b.
+b
+x #a a
+x  d.
+3  c  a
+x  a.
+x  c
+x  d.
+x a
+x c.
+x d
+x a.
+b
+x c  a
+x a.
+x c
+x d.
+xa
+x d.
+x c
+x a.
+1 #cdca
+b
+B
+e
+
+

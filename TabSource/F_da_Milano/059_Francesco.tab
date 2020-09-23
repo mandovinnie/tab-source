@@ -1,0 +1,254 @@
+% wbc aug 28 2001 from ness
+%-R9
+$tempo=4
+-i
+-Q
+
+{Fantasia, Ness 59/f 26}
+
+b
+w  2  0
+x   3
+b
+x   0 2
+x    0
+b
+0  2  3
+x   0.
+x   1
+x   3.
+b
+x  0 0
+x    2.
+x    3
+x    0.
+b
+w 0  20
+x3   03
+b
+x  0  2
+x  43 5
+b
+x  0 0
+x  2  4
+b
+x 4 3 5
+0  0
+x     3.
+b
+x     2
+x     0.
+x 2  3
+x    2.
+b
+w    0
+x    3.
+b
+x 4 3 0
+x  0  2
+b
+x  22 0
+0    3
+x     0.
+b
+x     2
+x    3.
+w   3 0
+b
+x   1
+x   03
+b
+% ness line 2
+x 02 2
+x   3
+b
+x   1
+x   0 5
+b
+x  2  3
+x   3 2
+b
+x   1 0
+x   03
+b
+
+
+b
+w!  212
+x  0 3
+b
+x  21
+x    2.
+b
+x  053
+x   3.
+b
+0 3   0
+x   1.
+x   0
+x  2.
+b
+w 20  2
+x3    3
+b
+0 20
+x     2.
+x     0
+x    3.
+b
+x 02 2
+x    0.
+x   3
+x   1.
+b
+w 543
+x3  10
+b
+0 0  2
+x   0.
+x  2 3
+x  0
+b
+w 02
+x    25
+b
+%ness line 3
+x  0 32
+0    3
+x     0.
+b
+x     2
+x     3.
+w    35
+b
+x    03
+0   1
+x   3.
+b
+x    0
+x    2.
+w    32
+b
+x    20
+x   3 5
+b
+x    0.
+x  2  4
+b
+x 4 3 5
+0 0
+x 2
+b
+
+
+b
+0! 4
+x  0
+w  2  0
+b
+x 0  2
+0   3
+x    0.
+b
+x    2
+x    3.
+w   3 0
+b
+x  43
+0  0
+x  2.
+b
+x   0
+x   1.
+w   3 5
+b
+x  0  2
+0    3
+x     0.
+b
+x     2
+x     3.
+w  0  5
+b
+x 2  3
+03   03
+x 0
+b
+x 2
+x 4
+w  03 2
+b
+x  21 0
+x 0 3
+b
+x 2 03
+x3  1
+b
+x 02 2
+x   0.
+b
+x3 0 0
+x0 2
+b
+x20 3
+x  0
+b
+x0  1
+x 4
+b
+% ness line 4
+x 200
+x    3.
+b
+x3  1
+x    0.
+b
+x 02 2
+x     5.
+b
+x  0 3
+x     2.
+b
+
+b
+w!  2 03
+x     0.
+b
+x 0 3
+x    2.
+b
+x 2 03
+x     2.
+b
+x3  1 0
+0    3.
+x   0
+b
+x 02 2
+x    3.
+x     0
+x    3.
+b
+x 02 2
+x    0.
+x   3
+x   1.
+b
+w 200
+x   13
+b
+x 02 3
+x    2
+b
+x 20 3
+x3
+b
+0    03
+x 0
+x 2
+x 4
+b
+Y  03 2
+b
+B
+e
